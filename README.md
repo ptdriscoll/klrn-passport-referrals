@@ -32,11 +32,11 @@ Create a new database using a tool such as phpMyAdmin. Run "database/setup.sql" 
 
 Rename "config-example.php" to "config.php", move it to the "auth" directory ("auth/.gitignore" keeps files in "auth" out of the repository) and set the values.
 
-`default_start_date` is how far back to get data - a Google Analytics 4 account must have been collecting stats since then.
+`default_start_date` is how far back to get data - a Google Analytics 4 account must have those stats available.
 
 `ga4_property_id` is the [Google Analytics 4 property ID](https://developers.google.com/analytics/devguides/reporting/data/v1/property-id).
 
-`google_credentials_path` is where you put the client credentials json file from the Google Analytics Data API (see above).
+`google_credentials_path` is where you put the client credentials file from the Google Analytics Data API (see above).
 
 `pbs_client_id` and `pbs_client_secret` come from the PBS Media Manager API key (see above).
 
@@ -62,7 +62,7 @@ Some queries to pull stats from the database are in "database/queries.sql".
 
 ### Hide files from public
 
-The ".htaccess" file uses [mod_rewrite](https://httpd.apache.org/docs/current/rewrite/) to restrict public access to everything important except "run.php". Removing the hash (#) on the last line will hide "run.php" as well, which makes sense when relying on a terminal or chron job to call that page.
+The ".htaccess" file uses [mod_rewrite](https://httpd.apache.org/docs/current/rewrite/) to restrict public access to everything important except "run.php". Removing the hash (#) on the last line will hide "run.php" as well, which makes sense when relying on a terminal or chron job.
 
 [Mod_rewrite can be avoided](https://httpd.apache.org/docs/current/rewrite/avoid.html) by instead configuring the server to set file restrictions.
 

@@ -1,0 +1,8 @@
+#Mac
+.DS_Store
+Thumbs.db
+
+#other
+_notes/
+/vendor
+/chron.sh

@@ -14,7 +14,7 @@ FROM pages
 INNER JOIN videos ON pages.videos_id  = videos.id
 INNER JOIN shows ON videos.shows_id = shows.id
 WHERE pages.date >= '2023-07-01'
-AND pages.date <= '2023-07-21'
+AND pages.date <= '2023-07-31'
 GROUP BY `Show`
 ORDER BY `Pageviews` DESC, `Users` DESC, `Show`;
 
@@ -31,6 +31,6 @@ FROM pages
 INNER JOIN videos ON pages.videos_id  = videos.id
 INNER JOIN shows ON videos.shows_id = shows.id
 WHERE pages.date >= '2023-07-01'
-AND pages.date <= '2023-07-21'
+AND pages.date <= '2023-07-31'
 GROUP BY `Show`, `Episode`
 ORDER BY `Pageviews` DESC, `Users` DESC, `Show`, `Episode`;

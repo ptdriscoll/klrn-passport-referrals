@@ -1,6 +1,15 @@
+#Get time of last update
+##############################
+SELECT UPDATE_TIME
+FROM information_schema.tables
+WHERE  TABLE_SCHEMA = 'passport_referrals'
+AND TABLE_NAME = 'pages'  
+
 #Get last day inserted
 ##############################
-SELECT date FROM pages WHERE id = (SELECT MAX(id) FROM pages)
+SELECT date 
+FROM pages 
+WHERE id = (SELECT MAX(id) FROM pages);
 
 #Top shows 
 ##############################

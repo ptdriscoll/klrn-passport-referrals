@@ -1,5 +1,7 @@
 <?php
-require('./vendor/autoload.php');
+namespace PassportReferrals;
+
+require_once '../vendor/autoload.php';
 use Google\Analytics\Data\V1beta\BetaAnalyticsDataClient;
 use Google\Analytics\Data\V1beta\DateRange;
 use Google\Analytics\Data\V1beta\Dimension;
@@ -43,7 +45,7 @@ class GoogleAnalyticsAPI {
      * @param array $config 
      * @return string         
      */
-    function getLastUpdateDay($conn, $config) {
+    static function getLastUpdateDay($conn, $config) {
         $sql = 'SELECT date FROM pages WHERE id = (SELECT MAX(id) FROM pages)';
         $lastDate = $conn->query($sql);
         if ($lastDate->num_rows) $startDate = $lastDate->fetch_array(MYSQLI_NUM)[0];

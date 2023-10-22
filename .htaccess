@@ -1,6 +1,6 @@
 RewriteEngine On
-RewriteRule (auth|database|src|vendor) - [F]
-RewriteRule (chron.sh|composer.json|composer.lock|info.php) - [F]
+RewriteRule ^(auth|database|src|vendor)/ - [F]
+RewriteRule ^(chron\.sh|composer\.json|composer\.lock|info\.php) - [F]
 
-#remove note on next line to restrict public access to run.php
-#RewriteRule run.php - [F] 
+#remove note on next line to restrict public access to api/update-data.php
+#RewriteRule ^api/update-data\.php - [F] 

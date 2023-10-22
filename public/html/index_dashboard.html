@@ -1,0 +1,106 @@
+<div id="loader"></div>
+<main>
+<article id="dates">
+  <form action="get-data.php" method="post">
+    <p>Showing <span id="total-referrals"></span> referrals from:</p>
+    <p>
+      <input
+        id="start-date"
+        type="date"
+        name="start"
+        min=""
+        max=""
+        value=""
+        required
+        pattern="\d{4}-\d{2}-\d{2}"
+      />
+      <span id="date-splitter">to</span>
+      <input
+        id="end-date"
+        type="date"
+        name="end"
+        min=""
+        max=""
+        value=""
+        required
+        pattern="\d{4}-\d{2}-\d{2}"
+      />
+    </p>
+    <p id="date-error"></p>
+    <button id="submit">Reset</button>
+  </form>
+</article>
+
+<div id="grid">
+  <div class="graphic bar shows hide">
+    <canvas id="bar-shows"></canvas>
+  </div>
+
+  <div class="graphic bar episodes hide">
+    <canvas id="bar-episodes"></canvas>
+  </div>
+
+  <div class="graphic trends shows hide">
+    <canvas id="trends-shows"></canvas>
+  </div>
+
+  <div class="graphic trends episodes hide">
+    <canvas id="trends-episodes"></canvas>
+  </div>
+
+  <div class="graphic trends referrals hide">
+    <canvas id="trends-referrals"></canvas>
+  </div>
+
+  <div class="graphic bar genres hide">
+    <canvas id="bar-genres"></canvas>
+  </div>
+</div>
+
+<div id="table-tabs">
+  <h2 id="table-tabs-shows" class="active" data-tab-index="0">All Shows</h2>
+  <h2 id="table-tabs-episodes" data-tab-index="1">All Episodes</h2>
+</div>
+
+<div id="table-shows" class="table active">
+  <table>
+    <thead>
+      <tr>
+        <th id="shows-rank"></th>
+        <th id="shows-title">Show</th>
+        <th id="shows-genre">Genre</th>
+        <th id="shows-visits">Ref<span class="opt-col">erral</span>s</th>
+        <th id="shows-users" class="opt-col">Users</th>
+        <th id="shows-duration" class="opt-col">Duration</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+</div>
+
+<div id="table-episodes" class="table">
+  <table>
+    <thead>
+      <tr>
+        <th id="episode-rank"></th>
+        <th id="episode-show-title">Show</th>
+        <th id="episode-title">Episode</th>
+        <th id="episode-visits">Ref<span class="opt-col">erral</span>s</th>
+        <th id="episode-users" class="opt-col">Users</th>
+        <th id="episode-duration" class="opt-col">Duration</th>
+      </tr>
+  </thead>
+  <tbody></tbody>
+  </table>
+</main>
+
+<template id="table-row-template">
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="opt-col"></td>
+    <td class="opt-col"></td>
+  </tr>
+</template>

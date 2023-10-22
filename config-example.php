@@ -4,7 +4,7 @@ return [
     'timezone' => 'America/Chicago',
 
     'ga4_property_id' => '',
-    'google_credentials_path' => './auth/<credentials_file_name>.json',
+    'google_credentials_path' => '../auth/<credentials_file_name>.json',
 
     'pbs_client_id' => '',
     'pbs_client_secret' => '',

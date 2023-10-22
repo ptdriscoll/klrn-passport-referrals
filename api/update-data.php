@@ -1,9 +1,11 @@
 <?php
-require('src/GoogleAnalyticsAPI.php');
-require('src/PBSVideosAPI.php');
-$config = require('auth/config.php');
-$conn = require('src/conn.php');
-$sql = require('src/sql.php');
+require_once '../vendor/autoload.php';
+use PassportReferrals\GoogleAnalyticsAPI;
+use PassportReferrals\PBSVideosAPI;
+
+$config = require '../auth/config.php';
+$conn = require '../database/conn.php';
+$sql = require '../database/sql.php';
 
 //set time zone
 date_default_timezone_set($config['timezone']);

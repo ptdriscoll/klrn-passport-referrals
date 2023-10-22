@@ -1,0 +1,17 @@
+{
+  "name": "passport-referrals",
+  "version": "1.0.0",
+  "description": "This is an application to track PBS video referrals to KLRN's Passport donation page, which show up in Google Analytics 4 stats. KLRN Passport is a member benefit offering on-demand access to PBS shows.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}

@@ -1,4 +1,6 @@
 <?php
+namespace PassportReferrals;
+
 /**
  * PBS Media Manager client to retrieve specific video data
  * Reference, Media Manager API:
@@ -14,7 +16,7 @@ class PBSVideosAPI {
      * @param array $config 
      */
     function __construct($config) {
-        require('PBSMediaManagerAPI.php');
+        require_once 'PBSMediaManagerAPI.php';
         $this->client = new PBSMediaManagerAPI(
             $client_id = $config['pbs_client_id'], 
             $client_secret = $config['pbs_client_secret'], 

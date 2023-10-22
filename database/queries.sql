@@ -20,7 +20,7 @@ SELECT
   SUM(pages.users) AS `Users`,
   SUM(pages.duration) AS `Duration`
 FROM pages
-WHERE pages.date >= '2023-07-01'
+WHERE pages.date >= '2023-08-01'
 AND pages.date <= '2023-08-30'
 GROUP BY `Date`
 ORDER BY `Date`;
@@ -38,7 +38,7 @@ SELECT
 FROM pages
 INNER JOIN videos ON pages.videos_id  = videos.id
 INNER JOIN shows ON videos.shows_id = shows.id
-WHERE pages.date >= '2023-07-01'
+WHERE pages.date >= '2023-08-01'
 AND pages.date <= '2023-08-30'
 GROUP BY `ID`
 ORDER BY `Pageviews` DESC, `Users` DESC, `Show`;
@@ -58,8 +58,8 @@ SELECT
 FROM pages
 INNER JOIN videos ON pages.videos_id  = videos.id
 INNER JOIN shows ON videos.shows_id = shows.id
-WHERE pages.date >= '2023-07-01'
-AND pages.date <= '2023-08-30'
+WHERE pages.date >= '2023-08-01'
+AND pages.date <= '2023-08-20'
 GROUP BY `ShowID`, `VideoID`
 ORDER BY `Pageviews` DESC, `Users` DESC, `Show`, `Episode`;
 
@@ -75,9 +75,9 @@ SELECT
 FROM pages
 INNER JOIN videos ON pages.videos_id  = videos.id
 INNER JOIN shows ON videos.shows_id = shows.id
-WHERE pages.date >= '2023-07-01'
-AND pages.date <= '2023-08-30'
-AND shows.id IN (55, 82, 3)
+WHERE pages.date >= '2023-08-15'
+AND pages.date <= '2023-08-22'
+AND shows.id IN (100, 11, 29)
 GROUP BY `Date`, `ID`
 ORDER BY `Date`, `ID`;
 
@@ -95,8 +95,8 @@ SELECT
 FROM pages
 INNER JOIN videos ON pages.videos_id  = videos.id
 INNER JOIN shows ON videos.shows_id = shows.id
-WHERE pages.date >= '2023-07-01'
-AND pages.date <= '2023-08-30'
-AND videos.id IN (399, 220, 542)
+WHERE pages.date >= '2023-08-15'
+AND pages.date <= '2023-08-22'
+AND videos.id IN (100, 29, 116)
 GROUP BY `Date`, `VideoID`  
 ORDER BY `Date`, `VideoID`;

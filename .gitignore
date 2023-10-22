@@ -4,5 +4,6 @@ Thumbs.db
 
 #other
 _notes/
+/node_modules
 /vendor
 /chron.sh

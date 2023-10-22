@@ -1,0 +1,288 @@
+:root {
+  --blue: rgba(54, 162, 235, 0.6);
+  --gray: rgba(0, 0, 0, 0.1);
+  --red: rgba(255, 99, 132, 1);
+}
+* {
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #f7f9f9;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #747474;
+  font-size: 16px;
+  line-height: 1.625;
+  padding-bottom: 3rem;
+}
+.center {
+  text-align: center;
+}
+.hide {
+  display: none;
+}
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+main {
+  visibility: hidden;
+}
+main.fade-in {
+  visibility: visible;
+  animation: fade-in 500ms linear;
+}
+h1 {
+  font-size: 2rem;
+  margin: 1.66rem 0 1rem;
+}
+article,
+#grid,
+#table-tabs,
+.table {
+  max-width: 1200px;
+  margin: 0 auto 3.2rem;
+  padding: 0 1rem;
+}
+article#intro {
+  margin-bottom: 2rem;
+}
+article#dates {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+.container {
+  padding: 0 1rem;
+}
+
+/*================================================== 
+Header
+==================================================*/
+header .container {
+  color: #747474;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+header {
+  background: #2b5998 url('img/KLRN_banner_background.png') no-repeat center
+    center;
+  height: 80px;
+  background-size: auto 75px;
+  border-bottom-width: 3px;
+  box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.28);
+}
+.mobile header {
+  height: 76px;
+}
+#klrn_logo {
+  margin-top: 6px;
+  border: none;
+}
+
+/*================================================== 
+Loader
+==================================================*/
+#loader {
+  margin: 0 auto;
+  border: 1rem solid var(--gray);
+  border-top: 1rem solid var(--blue);
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/*================================================== 
+Form
+==================================================*/
+
+span#total-referrals {
+  font-weight: bold;
+}
+
+input {
+  background-color: #fff;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #747474;
+  font-size: 14px;
+  border: 1px solid var(--gray);
+  border-radius: 4px;
+  margin: 0.25rem 0.5rem;
+  padding: 0.5rem 0.75rem;
+  cursor: pointer;
+}
+
+button {
+  display: inline-block;
+  font-size: 18px;
+  border: 1px solid var(--gray);
+  border-radius: 4px;
+  margin: 0;
+  padding: 0.75rem 1.5rem;
+  user-select: none;
+  background-color: var(--blue);
+  color: #fff;
+  cursor: pointer;
+}
+
+p#date-error {
+  display: none;
+  animation-duration: 500ms;
+  animation-timing-function: linear;
+  color: var(--red);
+}
+
+p#date-error.fade-in {
+  display: block;
+  animation: fade-in 1s linear;
+}
+
+/*================================================== 
+Grid
+==================================================*/
+
+#grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2.2rem;
+}
+#grid .graphic {
+  position: relative;
+  height: 300px;
+}
+#grid .graphic canvas {
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+
+/*================================================== 
+Table Tabs
+==================================================*/
+#table-tabs {
+  max-width: 1200px;
+  margin: 0 auto 1rem;
+  text-align: center;
+  border-bottom: 1px solid var(--gray);
+}
+#table-tabs h2 {
+  display: inline-block;
+  font-size: 18px;
+  font-weight: normal;
+  border: 1px solid var(--gray);
+  border-radius: 6px 6px 0 0;
+  border-bottom: 0;
+  margin: 0;
+  padding: 0.4rem 0.8rem;
+  user-select: none;
+}
+#table-tabs h2:hover {
+  cursor: pointer;
+  background-color: rgb(0, 0, 0, 0.03);
+}
+#table-tabs h2.active {
+  background-color: var(--blue);
+  color: #fff;
+  cursor: default;
+}
+
+div.table.active {
+  display: block;
+  animation: fade-in 500ms linear;
+}
+
+/*================================================== 
+Table
+==================================================*/
+div.table {
+  display: none;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+tr {
+  height: 3rem;
+  border-bottom: 2px solid var(--gray);
+}
+tr:nth-child(even) {
+  background-color: #fff;
+}
+th {
+  cursor: pointer;
+}
+th:hover {
+  color: var(--red);
+}
+th,
+td {
+  padding: 0 0.65rem;
+}
+th {
+  text-align: left;
+}
+
+/*================================================== 
+Media queries
+==================================================*/
+
+@media (max-width: 991px) {
+  article#dates {
+    margin-bottom: 2.5rem;
+  }
+  #grid {
+    grid-template-columns: auto;
+    max-width: 600px;
+    gap: 1.7rem;
+  }
+}
+
+@media (max-width: 767px) {
+  table {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  td {
+    padding: 0 0.5rem;
+  }
+  .opt-col {
+    display: none;
+  }
+}
+
+@media (max-width: 500px) {
+  div.episodes {
+    display: none;
+  }
+}
+
+@media (max-width: 390px) {
+  table {
+    font-size: 13px;
+  }
+  span#date-splitter {
+    display: block;
+  }
+}

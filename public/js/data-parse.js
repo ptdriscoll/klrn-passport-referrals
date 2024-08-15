@@ -114,7 +114,9 @@ export function parseData(data) {
     let showsDate, episodesDate;
 
     //Add pageviews to daily referrals dataset
-    trendsReferralsData.push(data.referralsTrends[i].Pageviews);
+    trendsReferralsData.push(
+      (data.referralsTrends[i] && data.referralsTrends[i].Pageviews) || 0
+    );
 
     //set up first instance of a date for shows
     if (showsIdx < data.showsTrends.length) {

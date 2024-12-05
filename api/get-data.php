@@ -100,6 +100,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         //get show trends
         $topShows = array_slice($shows, 0, 3);
         $topShowsIDs = array_map(function($arr) {return $arr['ID'];}, $topShows);
+        $topShowsIDs = array_pad($topShowsIDs, 3, -1);
         $bindVars = array_merge([$startTrendsDate, $endDate], $topShowsIDs);
         $showsTrends = get_data($conn, $sql['select_shows_trends'], 
                                 $sql['select_shows_trends_types'], 
@@ -108,6 +109,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         //get episode trends
         $topEpisodes = array_slice($episodes, 0, 3);        
         $topEpisodesIDs = array_map(function($arr) {return $arr['VideoID'];}, $topEpisodes);
+        $topEpisodesIDs = array_pad($topEpisodesIDs, 3, -1);
         $log = $topEpisodesIDs;
         $bindVars = array_merge([$startTrendsDate, $endDate], $topEpisodesIDs);
         $episodesTrends = get_data($conn, $sql['select_episodes_trends'], 

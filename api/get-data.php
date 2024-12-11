@@ -93,9 +93,31 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $requestedDates['trendsStart'] = $startTrendsDate;
 
         //get daily referrals
-        $referralsTrends = get_data($conn, $sql['select_referrals'], 
+        $referralsTrendsAvailable = get_data($conn, $sql['select_referrals'], 
                                     $sql['select_referrals_types'], 
                                     [$startTrendsDate, $endDate]); 
+
+        //now create daily referrals array with any missing dates filled in
+        $referralsTrends = [];
+        $currentDateObj = new DateTime($startTrendsDate);
+        $endDateObj = new DateTime($endDate);
+        $idx = 0;
+
+        while ($currentDateObj <= $endDateObj) {
+            $currentDateStr = $currentDateObj->format('Y-m-d');
+            $isIdx = isset($referralsTrendsAvailable[$idx]);
+
+                //if index exists in available data and dates match, copy data over 
+                if ($isIdx && $currentDateStr === $referralsTrendsAvailable[$idx]['Date']) {
+                    $referralsTrends[] = $referralsTrendsAvailable[$idx];
+                    $idx += 1;
+                }
+                else {
+                    //otherwise, add placeholder with 0 Pageviews
+                    $referralsTrends[] = ['Date' => $currentDateStr, 'Pageviews' => '0'];
+                }
+            $currentDateObj->modify('+1 day');
+        }                                    
 
         //get show trends
         $topShows = array_slice($shows, 0, 3);

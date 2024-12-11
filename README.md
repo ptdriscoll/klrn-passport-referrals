@@ -1,10 +1,12 @@
 # KLRN Passport Referrals
 
-This is an application to track PBS video referrals to KLRN's Passport donation page, which show up in Google Analytics 4 stats. KLRN Passport is a member benefit offering on-demand access to PBS shows.
+This is an application to track PBS referrals to KLRN's Passport donation page, including related videos, which show up in Google Analytics 4 stats.
+
+KLRN Passport is a member benefit offering extended on-demand access to PBS shows.
 
 Written in PHP to work with MySQL or MariaDB on the backend and JavaScript to display stats in an [interactive dashboard](https://pbs.klrn.org/passport-referrals/), this application replaces a [desktop python app](https://github.com/ptdriscoll/klrn-passport-referrals-database) that pulled and visualized similar data from Google Analytics 3.
 
-Referrals are tracked through a "referrer=" query that PBS adds to donation-page links on their videos. The queries, reported in Google Analytics, show the web addresses that clicks came from.
+Referrals are tracked through a "referrer=" query that PBS adds to links going to donation pages. The queries, reported in Google Analytics, show the web addresses that clicks came from.
 
 The app uses Google's [Analytics Data API](https://developers.google.com/analytics/devguides/reporting/data/v1) to pull the referrer stats, and PBS' [Media Manager API](https://docs.pbs.org/display/CDA/Media+Manager+API) to get information about the referring videos, and stores results in a database.
 

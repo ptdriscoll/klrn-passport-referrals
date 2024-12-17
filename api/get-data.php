@@ -71,8 +71,9 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $requestedDates = ['start' => $startDate, 'end' => $endDate];
     $referralsTrends = [];
     $shows = [];
-    $episodes = [];
     $showsTrends = [];
+    $episodes = [];    
+    $episodesTrending = [];
     $episodesTrends = [];
 
     //if there are no errors, get shows and episodes from database
@@ -128,12 +129,14 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                                 $sql['select_shows_trends_types'], 
                                 $bindVars);
 
-        //get episode trends
-        $topEpisodes = array_slice($episodes, 0, 3);        
-        $topEpisodesIDs = array_map(function($arr) {return $arr['VideoID'];}, $topEpisodes);
-        $topEpisodesIDs = array_pad($topEpisodesIDs, 3, -1);
-        $log = $topEpisodesIDs;
-        $bindVars = array_merge([$startTrendsDate, $endDate], $topEpisodesIDs);
+        //get top trending episodes
+        $episodesTrending = get_data($conn, $sql['select_episodes'], 
+                                     $sql['select_episodes_types'], 
+                                     [$startTrendsDate, $endDate]);
+        $topEpisodesTrending = array_slice($episodesTrending, 0, 3);    
+        $topEpisodesTrendingIDs = array_map(function($arr) {return $arr['VideoID'];}, $topEpisodesTrending);
+        $topEpisodesTrendingIDs = array_pad($topEpisodesTrendingIDs, 3, -1);
+        $bindVars = array_merge([$startTrendsDate, $endDate], $topEpisodesTrendingIDs);
         $episodesTrends = get_data($conn, $sql['select_episodes_trends'], 
                                    $sql['select_episodes_trends_types'], 
                                    $bindVars);  
@@ -150,9 +153,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         'requestedDates' => $requestedDates,
         'referralsTrends' => $referralsTrends,
         'shows' => $shows,
-        'episodes' => $episodes,
         'showsTrends' => $showsTrends,
-        'episodesTrends' => $episodesTrends,
+        'episodes' => $episodes,        
+        'episodesTrending' => $episodesTrending,
+        'episodesTrends' => $episodesTrends,        
     ];
 
     echo json_encode($res);

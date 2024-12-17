@@ -93,10 +93,13 @@ export function parseData(data) {
       episodesData.push(data.episodes[i].Pageviews);
 
       //add episodes trends data
-      if (i < 3) {
+      if (i < 3 && data.episodesTrending[i]) {
         let dataset = { data: new Array(trendsLabels.length).fill(0) };
-        dataset.id = data.episodes[i]['VideoID'];
-        dataset.label = label;
+        let episodeTrendingShow = data.episodesTrending[i]['Show'];
+        let episodeTrending = data.episodesTrending[i]['Episode'];
+        let labelTrending = episodeTrendingShow + ' - ' + episodeTrending;
+        dataset.id = data.episodesTrending[i]['VideoID'];
+        dataset.label = labelTrending;
         dataset.borderColor = defaultColorsTrends[i];
         dataset.backgroundColor = defaultBackgroundsTrends[i];
         dataset.fill = true;

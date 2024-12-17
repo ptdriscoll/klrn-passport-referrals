@@ -71,6 +71,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $requestedDates = ['start' => $startDate, 'end' => $endDate];
     $referralsTrends = [];
     $shows = [];
+    $showsTrending = [];
     $showsTrends = [];
     $episodes = [];    
     $episodesTrending = [];
@@ -120,11 +121,14 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             $currentDateObj->modify('+1 day');
         }                                    
 
-        //get show trends
-        $topShows = array_slice($shows, 0, 3);
-        $topShowsIDs = array_map(function($arr) {return $arr['ID'];}, $topShows);
-        $topShowsIDs = array_pad($topShowsIDs, 3, -1);
-        $bindVars = array_merge([$startTrendsDate, $endDate], $topShowsIDs);
+        //get top trending shows
+        $showsTrending = get_data($conn, $sql['select_shows'], 
+                                  $sql['select_shows_types'], 
+                                  [$startTrendsDate, $endDate]);
+        $topShowsTrending = array_slice($showsTrending, 0, 3);
+        $topShowsTrendingIDs = array_map(function($arr) {return $arr['ID'];}, $topShowsTrending);
+        $topShowsTrendingIDs = array_pad($topShowsTrendingIDs, 3, -1);
+        $bindVars = array_merge([$startTrendsDate, $endDate], $topShowsTrendingIDs);
         $showsTrends = get_data($conn, $sql['select_shows_trends'], 
                                 $sql['select_shows_trends_types'], 
                                 $bindVars);
@@ -153,6 +157,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         'requestedDates' => $requestedDates,
         'referralsTrends' => $referralsTrends,
         'shows' => $shows,
+        'showsTrending' => $showsTrending,
         'showsTrends' => $showsTrends,
         'episodes' => $episodes,        
         'episodesTrending' => $episodesTrending,

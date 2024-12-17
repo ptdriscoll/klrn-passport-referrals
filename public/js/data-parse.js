@@ -73,10 +73,10 @@ export function parseData(data) {
       showsData.push(data.shows[i].Pageviews);
 
       //add shows trends data
-      if (i < 3) {
+      if (i < 3 && data.showsTrending[i]) {
         let dataset = { data: new Array(trendsLabels.length).fill(0) };
-        dataset.id = data.shows[i]['ID'];
-        dataset.label = data.shows[i]['Show'];
+        dataset.id = data.showsTrending[i]['ID'];
+        dataset.label = data.showsTrending[i]['Show'];
         dataset.borderColor = defaultColorsTrends[i];
         dataset.backgroundColor = defaultBackgroundsTrends[i];
         dataset.fill = true;

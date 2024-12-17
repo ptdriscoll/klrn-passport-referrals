@@ -150,7 +150,7 @@ export function setTrendsCharts(
 
   //set trends, and daily referrals charts
   let trendsOptionsEpisodes = JSON.parse(JSON.stringify(trendsOptions));
-  trendsOptionsEpisodes.plugins.title.text = 'Top Episodes Trends';
+  trendsOptionsEpisodes.plugins.title.text = 'Trending Episodes';
   trendsOptionsEpisodes.plugins.tooltip = tooltipOptions;
 
   let trendsOptionsReferrals = JSON.parse(

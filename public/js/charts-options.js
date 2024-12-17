@@ -88,7 +88,7 @@ export const trendsOptions = {
   plugins: {
     title: {
       display: true,
-      text: 'Top Shows Trends',
+      text: 'Trending Shows',
       font: {
         size: 22,
       },

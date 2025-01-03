@@ -1,4 +1,6 @@
 <?php
+session_start();
+
 require_once '../vendor/autoload.php';
 use PassportReferrals\GoogleAnalyticsAPI;
 
@@ -6,16 +8,26 @@ require_once '../database/helpers.php';
 $config = require '../auth/config.php';
 $conn = require '../database/conn.php';
 $sql = require '../database/sql.php';
-    
-if ($_SERVER['REQUEST_METHOD'] == 'POST') {   
+
+if ($_SERVER['REQUEST_METHOD'] == 'POST') {  
 
     //set time zone
     date_default_timezone_set($config['timezone']);
     $conn->query("SET time_zone = '".date('P')."'");
+    
+    //enforce any max date setting from url as a SESSION variable, i.e. ?max-date=2023-09-30
+    if (isset($_GET['max-date'])) {     
+        $maxDate = $_GET['max-date'];
+        $format = 'Y-m-d';
+        $maxDateObj = DateTime::createFromFormat($format, $maxDate);
+        if ($maxDateObj && $maxDateObj->format($format) === $maxDate) {
+            $_SESSION['maxDate'] = htmlspecialchars($_GET['max-date']);
+        } 
+    }
 
-    //get the date data collection started, and last day for which it was collected
+    //get the date data collection started, and last day for which it was collected or enforced by url query
     $minDate = $config['default_start_date'];
-    $maxDate = GoogleAnalyticsAPI::getLastUpdateDay($conn, $config);
+    $maxDate = $_SESSION['maxDate'] ?? GoogleAnalyticsAPI::getLastUpdateDay($conn, $config);
     $availableDates = ['min' => $minDate, 'max' => $maxDate]; 
 
     //get json from http raw request and decode

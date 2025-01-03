@@ -15,8 +15,14 @@ export const errorMessages = [
  *   PHP errors (which aren't valid JSON) can print to console during development.
  */
 export async function getData(req = { start: 'default', end: 'default' }) {
+  //carry over any max-date url query, if it exists, as an added GET request
+  const currentUrl = new URL(window.location.href);
+  const maxDate = currentUrl.searchParams.get('max-date');
+  const fetchGetQuery = maxDate ? `?max-date=${maxDate}` : '';
+
+  //fetch api as POST request
   try {
-    const res = await fetch('api/get-data.php', {
+    const res = await fetch(`api/get-data.php${fetchGetQuery}`, {
       method: 'POST',
       cache: 'no-cache',
       headers: {

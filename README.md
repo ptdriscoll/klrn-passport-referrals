@@ -10,7 +10,7 @@ Referrals are tracked through a "referrer=" query that PBS adds to links going t
 
 The app uses Google's [Analytics Data API](https://developers.google.com/analytics/devguides/reporting/data/v1) to pull the referrer stats, and PBS' [Media Manager API](https://docs.pbs.org/display/CDA/Media+Manager+API) to get information about the referring videos, and stores results in a database.
 
-![Top KLRN Passport Referral Shows](images/dashboard-graphs-2.jpg)
+![Top KLRN Passport Referral Shows](images/dashboard-graphs-3.jpg)
 
 ## Setup
 

@@ -77,20 +77,10 @@ class Logger {
 
     /**
      * Rotates or truncates log file if it exceeds max size.
-     */
-    private function rotateIfNeeded() {
-        if (file_exists($this->logFile) && filesize($this->logFile) > $this->maxSize) {
-            file_put_contents($this->logFile, '=== Log truncated at ' . date('Y-m-d H:i:s') . ' ===\n');
-        }
-    }
-
-    /**
-     * Rotates or truncates log file if it exceeds max size.
      *
      * @param int $maxBackups
      *   Maximum number of log files to keep before deleting oldest file (default 5).
      */
-
     private function rotateIfNeeded($maxBackups=5) {
         if (!file_exists($this->logFile)) return;
 

@@ -23,7 +23,7 @@ $logger->newLine();
 $logger->info("=== STARTING SYNC for {$updateDate} ===");
 
 //start print outputs
-print "<br>START UPDATE: {$updateDate}");
+print "<br>START UPDATE: {$updateDate}";
 
 //instantiate apis
 $analytics = new GoogleAnalyticsAPI($config);
@@ -69,8 +69,8 @@ foreach ($analyticsData->getRows() as $key => $row) {
             //insert prepped show data into database shows table
             $showDataValues = array_values($showData);
             $showStatement->bind_param($sql['insert_show_types'], ...$showDataValues);
-            if {
-                ($showStatement->execute()) $shows_id = $conn->insert_id; 
+            if ($showStatement->execute()) {
+                $shows_id = $conn->insert_id; 
                 $logger->info("Inserted show ID {$shows_id}");
             }            
             
@@ -78,8 +78,8 @@ foreach ($analyticsData->getRows() as $key => $row) {
             $videoData['shows_id'] = $shows_id; //reset from null
             $videoDataValues = array_values($videoData); 
             $videoStatement->bind_param($sql['insert_video_types'], ...$videoDataValues);
-            if {
-                ($videoStatement->execute()) $videos_id = $conn->insert_id; 
+            if ($videoStatement->execute()) {
+                $videos_id = $conn->insert_id; 
                 $logger->info("Inserted video ID {$videos_id}");
             }
             

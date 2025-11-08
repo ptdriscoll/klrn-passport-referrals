@@ -36,7 +36,7 @@ class Logger {
     public function log($level, $message) {
         $this->rotateIfNeeded();
         $timestamp = date('Y-m-d H:i:s');
-        $entry = sprintf('[%s] [%s] %s\n', $timestamp, strtoupper($level), $message);
+        $entry = sprintf("[%s] [%s] %s" . PHP_EOL, $timestamp, strtoupper($level), $message);
         file_put_contents($this->logFile, $entry, FILE_APPEND | LOCK_EX);
     }
 
@@ -62,7 +62,7 @@ class Logger {
      * Inserts an empty line for easier scanning between batches.
      */
     public function newLine() {
-        file_put_contents($this->logFile, '\n', FILE_APPEND | LOCK_EX);
+        file_put_contents($this->logFile, PHP_EOL, FILE_APPEND | LOCK_EX);
     }
 
     /**

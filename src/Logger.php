@@ -66,6 +66,39 @@ class Logger {
     }
 
     /**
+     * Logs a summary of execution results.
+     *
+     * Produces output with timestamps and log levels similar to normal log entries.
+     * Includes counts of successful rows, PBS API errors, other errors, peak memory usage, and optional total rows.
+     *
+     * Example output:
+     * [2025-11-10 12:01:19] [INFO] === SUMMARY ===
+     * [2025-11-10 12:01:19] [INFO] Total rows: 384
+     * [2025-11-10 12:01:19] [INFO] Successful rows: 375
+     * [2025-11-10 12:01:19] [INFO] Failed PBS calls: 169
+     * [2025-11-10 12:01:19] [INFO] Failed other calls: 9
+     * [2025-11-10 12:01:19] [INFO] Peak memory use: 8 MB
+     *
+     * @param array $summaryData
+     *   Associative array containing summary counts:
+     *     - 'totalRows' => int (optional)
+     *     - 'success' => int
+     *     - 'pbsErrors' => int
+     *     - 'otherErrors' => int
+     */
+    public function summary(array $summaryData) {
+        $memoryUsed = round(memory_get_peak_usage(true) / 1024 / 1024, 2); //MB
+
+        $this->newLine();
+        $this->info('=== SUMMARY ===');
+        $this->info('Total rows: ' . ($summaryData['totalRows'] ?? 'not set'));
+        $this->info('Successful rows: ' . ($summaryData['success'] ?? 0));
+        $this->info('Failed PBS calls: ' . ($summaryData['pbsErrors'] ?? 0));
+        $this->info('Failed other calls: ' . ($summaryData['otherErrors'] ?? 0));
+        $this->info('Peak memory use: ' . $memoryUsed . ' MB');
+    }   
+
+    /**
      * Creates the log directory if it doesn’t exist.
      */
     private function ensureLogDirExists() {
@@ -105,38 +138,5 @@ class Logger {
         foreach ($toDelete as $file) {
             @unlink($file);
         }
-    }
-
-    /**
-     * Logs a summary of execution results.
-     *
-     * Produces output with timestamps and log levels similar to normal log entries.
-     * Includes counts of successful rows, PBS API errors, other errors, peak memory usage, and optional total rows.
-     *
-     * Example output:
-     * [2025-11-10 12:01:19] [INFO] === SUMMARY ===
-     * [2025-11-10 12:01:19] [INFO] Total rows: 384
-     * [2025-11-10 12:01:19] [INFO] Successful rows: 375
-     * [2025-11-10 12:01:19] [INFO] Failed PBS calls: 169
-     * [2025-11-10 12:01:19] [INFO] Failed other calls: 9
-     * [2025-11-10 12:01:19] [INFO] Peak memory use: 8 MB
-     *
-     * @param array $summaryData
-     *   Associative array containing summary counts:
-     *     - 'totalRows' => int (optional)
-     *     - 'success' => int
-     *     - 'pbsErrors' => int
-     *     - 'otherErrors' => int
-     */
-    public function summary(array $summaryData) {
-        $memoryUsed = round(memory_get_peak_usage(true) / 1024 / 1024, 2); //MB
-
-        $this->newLine();
-        $this->info('=== SUMMARY ===');
-        $this->info('Total rows: ' . ($summaryData['totalRows'] ?? 'not set'));
-        $this->info('Successful rows: ' . ($summaryData['success'] ?? 0));
-        $this->info('Failed PBS calls: ' . ($summaryData['pbsErrors'] ?? 0));
-        $this->info('Failed other calls: ' . ($summaryData['otherErrors'] ?? 0));
-        $this->info('Peak memory use: ' . $memoryUsed . ' MB');
     }
 }

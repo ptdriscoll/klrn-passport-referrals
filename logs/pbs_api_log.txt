@@ -1968,3 +1968,1496 @@
 [2025-11-10 11:18:10] [INFO] SUCCESS — [2023-10-22] Referrer: https://video.pbs.org/video/after-the-wedding-part-1-41nxxl/
 
 [2025-11-10 11:18:10] [INFO] === ROW 248 ===
+
+[2025-11-10 17:29:23] [INFO] === STARTING SYNC for 2025-11-10 17:29:23 ===
+
+[2025-11-10 17:29:30] [INFO] === ROW 0 ===
+[2025-11-10 17:29:30] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://video.pbs.org/video/below-the-belt-the-last-health-taboo-wmzdvy/ — Not published
+[2025-11-10 17:29:30] [INFO] Inserted page ID 1033
+[2025-11-10 17:29:30] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/below-the-belt-the-last-health-taboo-wmzdvy/
+
+[2025-11-10 17:29:30] [INFO] === ROW 1 ===
+[2025-11-10 17:29:30] [INFO] Inserted show ID 193
+[2025-11-10 17:29:30] [INFO] Inserted video ID 584
+[2025-11-10 17:29:30] [INFO] Inserted page ID 1034
+[2025-11-10 17:29:30] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/part-3-a-town-called-victoria-episode-3-vhqlxs/
+
+[2025-11-10 17:29:30] [INFO] === ROW 2 ===
+[2025-11-10 17:29:31] [INFO] Inserted show ID 241
+[2025-11-10 17:29:31] [INFO] Inserted video ID 395
+[2025-11-10 17:29:31] [INFO] Inserted page ID 1035
+[2025-11-10 17:29:31] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/the-civil-war-the-cause/
+
+[2025-11-10 17:29:31] [INFO] === ROW 3 ===
+[2025-11-10 17:29:31] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/ — Not found on server
+[2025-11-10 17:29:31] [INFO] Inserted page ID 1036
+[2025-11-10 17:29:31] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/
+
+[2025-11-10 17:29:31] [INFO] === ROW 4 ===
+[2025-11-10 17:29:32] [INFO] Inserted show ID 516
+[2025-11-10 17:29:32] [INFO] Inserted video ID 841
+[2025-11-10 17:29:32] [INFO] Inserted page ID 1037
+[2025-11-10 17:29:32] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/episode-2-xvlppt/
+
+[2025-11-10 17:29:32] [INFO] === ROW 5 ===
+[2025-11-10 17:29:32] [INFO] Inserted show ID 386
+[2025-11-10 17:29:32] [INFO] Inserted video ID 842
+[2025-11-10 17:29:32] [INFO] Inserted page ID 1038
+[2025-11-10 17:29:32] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/from-dos-laredos-to-mars-jwc4rt/
+
+[2025-11-10 17:29:32] [INFO] === ROW 6 ===
+[2025-11-10 17:29:33] [INFO] Inserted show ID 24
+[2025-11-10 17:29:33] [INFO] Inserted video ID 507
+[2025-11-10 17:29:33] [INFO] Inserted page ID 1039
+[2025-11-10 17:29:33] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/1-tn0ofi/
+
+[2025-11-10 17:29:33] [INFO] === ROW 7 ===
+[2025-11-10 17:29:33] [INFO] Inserted show ID 819
+[2025-11-10 17:29:33] [INFO] Inserted video ID 819
+[2025-11-10 17:29:33] [INFO] Inserted page ID 1040
+[2025-11-10 17:29:33] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/after-the-wedding-part-1-41nxxl/
+
+[2025-11-10 17:29:33] [INFO] === ROW 8 ===
+[2025-11-10 17:29:34] [INFO] Inserted show ID 195
+[2025-11-10 17:29:34] [INFO] Inserted video ID 794
+[2025-11-10 17:29:34] [INFO] Inserted page ID 1049
+[2025-11-10 17:29:34] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-1-hbwxih/
+
+[2025-11-10 17:29:34] [INFO] === ROW 9 ===
+[2025-11-10 17:29:34] [INFO] Inserted show ID 195
+[2025-11-10 17:29:34] [INFO] Inserted video ID 195
+[2025-11-10 17:29:34] [INFO] Inserted page ID 1050
+[2025-11-10 17:29:34] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-1-noyiez/
+
+[2025-11-10 17:29:34] [INFO] === ROW 10 ===
+[2025-11-10 17:29:34] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://video.pbs.org/video/episode-1-w9bwh7/ — Not published
+[2025-11-10 17:29:34] [INFO] Inserted page ID 1051
+[2025-11-10 17:29:34] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-1-w9bwh7/
+
+[2025-11-10 17:29:34] [INFO] === ROW 11 ===
+[2025-11-10 17:29:35] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://video.pbs.org/video/episode-112-bjfdq7/ — Not published
+[2025-11-10 17:29:35] [INFO] Inserted page ID 1052
+[2025-11-10 17:29:35] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-112-bjfdq7/
+
+[2025-11-10 17:29:35] [INFO] === ROW 12 ===
+[2025-11-10 17:29:35] [INFO] Inserted show ID 10
+[2025-11-10 17:29:35] [INFO] Inserted video ID 802
+[2025-11-10 17:29:35] [INFO] Inserted page ID 1053
+[2025-11-10 17:29:35] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/lessons-s99rai/
+
+[2025-11-10 17:29:35] [INFO] === ROW 13 ===
+[2025-11-10 17:29:36] [INFO] Inserted show ID 606
+[2025-11-10 17:29:36] [INFO] Inserted video ID 803
+[2025-11-10 17:29:36] [INFO] Inserted page ID 1054
+[2025-11-10 17:29:36] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/love-and-loss-iufxpl/
+
+[2025-11-10 17:29:36] [INFO] === ROW 14 ===
+[2025-11-10 17:29:36] [INFO] Inserted show ID 240
+[2025-11-10 17:29:36] [INFO] Inserted video ID 678
+[2025-11-10 17:29:36] [INFO] Inserted page ID 1055
+[2025-11-10 17:29:36] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/new-worlds-rising-rpy9qr/
+
+[2025-11-10 17:29:36] [INFO] === ROW 15 ===
+[2025-11-10 17:29:36] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/ — Not found on server
+[2025-11-10 17:29:36] [INFO] Inserted page ID 1056
+[2025-11-10 17:29:36] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/
+
+[2025-11-10 17:29:36] [INFO] === ROW 16 ===
+[2025-11-10 17:29:37] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/kenburns/country-music/ — Not published
+[2025-11-10 17:29:37] [INFO] Inserted page ID 1057
+[2025-11-10 17:29:37] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/kenburns/country-music/
+
+[2025-11-10 17:29:37] [INFO] === ROW 17 ===
+[2025-11-10 17:29:37] [INFO] Inserted show ID 239
+[2025-11-10 17:29:37] [INFO] Inserted video ID 239
+[2025-11-10 17:29:37] [INFO] Inserted page ID 1058
+[2025-11-10 17:29:37] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/anatomy-of-a-memory-vumwcb/
+
+[2025-11-10 17:29:37] [INFO] === ROW 18 ===
+[2025-11-10 17:29:38] [INFO] Inserted show ID 26
+[2025-11-10 17:29:38] [INFO] Inserted video ID 857
+[2025-11-10 17:29:38] [INFO] Inserted page ID 1059
+[2025-11-10 17:29:38] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/copper-canyon-railway-rxpnnt/
+
+[2025-11-10 17:29:38] [INFO] === ROW 19 ===
+[2025-11-10 17:29:38] [INFO] Inserted show ID 10
+[2025-11-10 17:29:38] [INFO] Inserted video ID 251
+[2025-11-10 17:29:38] [INFO] Inserted page ID 1060
+[2025-11-10 17:29:38] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/first-impressions-t3buit/
+
+[2025-11-10 17:29:38] [INFO] === ROW 20 ===
+[2025-11-10 17:29:39] [INFO] Inserted show ID 393
+[2025-11-10 17:29:39] [INFO] Inserted video ID 393
+[2025-11-10 17:29:39] [INFO] Inserted page ID 1061
+[2025-11-10 17:29:39] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/the-people-g2vnoj/
+
+[2025-11-10 17:29:39] [INFO] === ROW 21 ===
+[2025-11-10 17:29:39] [INFO] Inserted show ID 819
+[2025-11-10 17:29:39] [INFO] Inserted video ID 819
+[2025-11-10 17:29:39] [INFO] Inserted page ID 1062
+[2025-11-10 17:29:39] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/after-the-wedding-part-1-41nxxl/
+
+[2025-11-10 17:29:39] [INFO] === ROW 22 ===
+[2025-11-10 17:29:40] [INFO] Inserted show ID 116
+[2025-11-10 17:29:40] [INFO] Inserted video ID 577
+[2025-11-10 17:29:40] [INFO] Inserted page ID 1063
+[2025-11-10 17:29:40] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-2-ojarjr/
+
+[2025-11-10 17:29:40] [INFO] === ROW 23 ===
+[2025-11-10 17:29:40] [INFO] Inserted show ID 193
+[2025-11-10 17:29:40] [INFO] Inserted video ID 643
+[2025-11-10 17:29:40] [INFO] Inserted page ID 1064
+[2025-11-10 17:29:40] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/part-1-a-town-called-victoria-episode-1-msgbqo/
+
+[2025-11-10 17:29:40] [INFO] === ROW 24 ===
+[2025-11-10 17:29:41] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/ — Not found on server
+[2025-11-10 17:29:41] [INFO] Inserted page ID 1065
+[2025-11-10 17:29:41] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/
+
+[2025-11-10 17:29:41] [INFO] === ROW 25 ===
+[2025-11-10 17:29:41] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://video.klrn.org/ — Not found on server
+[2025-11-10 17:29:41] [INFO] Inserted page ID 1066
+[2025-11-10 17:29:41] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.klrn.org/
+
+[2025-11-10 17:29:41] [INFO] === ROW 26 ===
+[2025-11-10 17:29:41] [INFO] Inserted show ID 863
+[2025-11-10 17:29:41] [INFO] Inserted video ID 863
+[2025-11-10 17:29:41] [INFO] Inserted page ID 1067
+[2025-11-10 17:29:41] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/fanny-the-right-to-rock-bn4llg/
+
+[2025-11-10 17:29:41] [INFO] === ROW 27 ===
+[2025-11-10 17:29:42] [INFO] Inserted show ID 11
+[2025-11-10 17:29:42] [INFO] Inserted video ID 864
+[2025-11-10 17:29:42] [INFO] Inserted page ID 1068
+[2025-11-10 17:29:42] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/human-nature-hcwiwk/
+
+[2025-11-10 17:29:42] [INFO] === ROW 28 ===
+[2025-11-10 17:29:42] [INFO] Inserted show ID 865
+[2025-11-10 17:29:42] [INFO] Inserted video ID 865
+[2025-11-10 17:29:42] [INFO] Inserted page ID 1069
+[2025-11-10 17:29:42] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/trans-siberian-orchestra-ghosts-of-christmas-eve-vibhxo/
+
+[2025-11-10 17:29:42] [INFO] === ROW 29 ===
+[2025-11-10 17:29:43] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://video.pbs.org/video/call-the-midwife-season-12-episode-5-full-episode/ — Not published
+[2025-11-10 17:29:43] [INFO] Inserted page ID 1070
+[2025-11-10 17:29:43] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/call-the-midwife-season-12-episode-5-full-episode/
+
+[2025-11-10 17:29:43] [INFO] === ROW 30 ===
+[2025-11-10 17:29:43] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://video.pbs.org/video/city-sky-ep-3-arrival/ — Not published
+[2025-11-10 17:29:43] [INFO] Inserted page ID 1071
+[2025-11-10 17:29:43] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/city-sky-ep-3-arrival/
+
+[2025-11-10 17:29:43] [INFO] === ROW 31 ===
+[2025-11-10 17:29:43] [INFO] Inserted show ID 195
+[2025-11-10 17:29:43] [INFO] Inserted video ID 612
+[2025-11-10 17:29:43] [INFO] Inserted page ID 1072
+[2025-11-10 17:29:43] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/episode-6-abf2ft/
+
+[2025-11-10 17:29:43] [INFO] === ROW 32 ===
+[2025-11-10 17:29:44] [INFO] Inserted show ID 2
+[2025-11-10 17:29:44] [INFO] Inserted video ID 867
+[2025-11-10 17:29:44] [INFO] Inserted page ID 1073
+[2025-11-10 17:29:44] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.klrn.org/video/the-blinding-of-isaac-woodard-knf0hq/
+
+[2025-11-10 17:29:44] [INFO] === ROW 33 ===
+[2025-11-10 17:29:44] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/video/awakenings-1954-1956-t6dicm/ — Not published
+[2025-11-10 17:29:44] [INFO] Inserted page ID 1074
+[2025-11-10 17:29:44] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/awakenings-1954-1956-t6dicm/
+
+[2025-11-10 17:29:44] [INFO] === ROW 34 ===
+[2025-11-10 17:29:45] [INFO] Inserted show ID 314
+[2025-11-10 17:29:45] [INFO] Inserted video ID 314
+[2025-11-10 17:29:45] [INFO] Inserted page ID 1075
+[2025-11-10 17:29:45] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/episode-1-boxdcv/
+
+[2025-11-10 17:29:45] [INFO] === ROW 35 ===
+[2025-11-10 17:29:45] [INFO] Inserted show ID 694
+[2025-11-10 17:29:45] [INFO] Inserted video ID 869
+[2025-11-10 17:29:45] [INFO] Inserted page ID 1076
+[2025-11-10 17:29:45] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/the-land-that-takes-you-nqqwmn/
+
+[2025-11-10 17:29:45] [INFO] === ROW 36 ===
+[2025-11-10 17:29:46] [INFO] Inserted show ID 10
+[2025-11-10 17:29:46] [INFO] Inserted video ID 10
+[2025-11-10 17:29:46] [INFO] Inserted page ID 1077
+[2025-11-10 17:29:46] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/denouements-zf1ryi/
+
+[2025-11-10 17:29:46] [INFO] === ROW 37 ===
+[2025-11-10 17:29:46] [INFO] Inserted show ID 195
+[2025-11-10 17:29:46] [INFO] Inserted video ID 794
+[2025-11-10 17:29:46] [INFO] Inserted page ID 1078
+[2025-11-10 17:29:46] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-1-hbwxih/
+
+[2025-11-10 17:29:46] [INFO] === ROW 38 ===
+[2025-11-10 17:29:47] [INFO] Inserted show ID 872
+[2025-11-10 17:29:47] [INFO] Inserted video ID 872
+[2025-11-10 17:29:47] [INFO] Inserted page ID 1079
+[2025-11-10 17:29:47] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/the-ming-ycdfou/
+
+[2025-11-10 17:29:47] [INFO] === ROW 39 ===
+[2025-11-10 17:29:47] [INFO] Inserted show ID 873
+[2025-11-10 17:29:47] [INFO] Inserted video ID 873
+[2025-11-10 17:29:47] [INFO] Inserted page ID 1080
+[2025-11-10 17:29:47] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/familia-rhddwt/
+
+[2025-11-10 17:29:47] [INFO] === ROW 40 ===
+[2025-11-10 17:29:48] [INFO] Inserted show ID 874
+[2025-11-10 17:29:48] [INFO] Inserted video ID 874
+[2025-11-10 17:29:48] [INFO] Inserted page ID 1081
+[2025-11-10 17:29:48] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/episode-1-doeofh/
+
+[2025-11-10 17:29:48] [INFO] === ROW 41 ===
+[2025-11-10 17:29:48] [INFO] Inserted show ID 22
+[2025-11-10 17:29:49] [INFO] Inserted video ID 152
+[2025-11-10 17:29:49] [INFO] Inserted page ID 1082
+[2025-11-10 17:29:49] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/episode-6-c1ul3t/
+
+[2025-11-10 17:29:49] [INFO] === ROW 42 ===
+[2025-11-10 17:29:49] [INFO] Inserted show ID 14
+[2025-11-10 17:29:49] [INFO] Inserted video ID 35
+[2025-11-10 17:29:49] [INFO] Inserted page ID 1083
+[2025-11-10 17:29:49] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-1-mtjbs8/
+
+[2025-11-10 17:29:49] [INFO] === ROW 43 ===
+[2025-11-10 17:29:49] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/kenburns/the-civil-war/ — Not published
+[2025-11-10 17:29:49] [INFO] Inserted page ID 1084
+[2025-11-10 17:29:49] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/kenburns/the-civil-war/
+
+[2025-11-10 17:29:49] [INFO] === ROW 44 ===
+[2025-11-10 17:29:50] [INFO] Inserted show ID 516
+[2025-11-10 17:29:50] [INFO] Inserted video ID 516
+[2025-11-10 17:29:50] [INFO] Inserted page ID 1085
+[2025-11-10 17:29:50] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/episode-1-xiwrqj/
+
+[2025-11-10 17:29:50] [INFO] === ROW 45 ===
+[2025-11-10 17:29:50] [INFO] Inserted show ID 22
+[2025-11-10 17:29:50] [INFO] Inserted video ID 878
+[2025-11-10 17:29:50] [INFO] Inserted page ID 1086
+[2025-11-10 17:29:50] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/episode-2-j6otag/
+
+[2025-11-10 17:29:50] [INFO] === ROW 46 ===
+[2025-11-10 17:29:51] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/video/fighting-back-19571962-0wxrve/ — Not published
+[2025-11-10 17:29:51] [INFO] Inserted page ID 1087
+[2025-11-10 17:29:51] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/fighting-back-19571962-0wxrve/
+
+[2025-11-10 17:29:51] [INFO] === ROW 47 ===
+[2025-11-10 17:29:51] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/video/part-1-dawn-of-the-modern-age-of-genetics-27czqa/ — Not published
+[2025-11-10 17:29:51] [INFO] Inserted page ID 1088
+[2025-11-10 17:29:51] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/part-1-dawn-of-the-modern-age-of-genetics-27czqa/
+
+[2025-11-10 17:29:51] [INFO] === ROW 48 ===
+[2025-11-10 17:29:51] [INFO] Inserted show ID 354
+[2025-11-10 17:29:51] [INFO] Inserted video ID 879
+[2025-11-10 17:29:51] [INFO] Inserted page ID 1089
+[2025-11-10 17:29:51] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/wnet/amanpour-and-company/video/november-14-2023-9voohr/
+
+[2025-11-10 17:29:51] [INFO] === ROW 49 ===
+[2025-11-10 17:29:52] [INFO] Inserted show ID 195
+[2025-11-10 17:29:52] [INFO] Inserted video ID 794
+[2025-11-10 17:29:52] [INFO] Inserted page ID 1090
+[2025-11-10 17:29:52] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-1-hbwxih/
+
+[2025-11-10 17:29:52] [INFO] === ROW 50 ===
+[2025-11-10 17:29:52] [INFO] Inserted show ID 195
+[2025-11-10 17:29:52] [INFO] Inserted video ID 612
+[2025-11-10 17:29:52] [INFO] Inserted page ID 1091
+[2025-11-10 17:29:52] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-6-abf2ft/
+
+[2025-11-10 17:29:52] [INFO] === ROW 51 ===
+[2025-11-10 17:29:53] [INFO] Inserted show ID 195
+[2025-11-10 17:29:53] [INFO] Inserted video ID 612
+[2025-11-10 17:29:53] [INFO] Inserted page ID 1092
+[2025-11-10 17:29:53] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-6-abf2ft/
+
+[2025-11-10 17:29:53] [INFO] === ROW 52 ===
+[2025-11-10 17:29:53] [INFO] Inserted show ID 125
+[2025-11-10 17:29:53] [INFO] Inserted video ID 883
+[2025-11-10 17:29:53] [INFO] Inserted page ID 1093
+[2025-11-10 17:29:53] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.klrn.org/video/ballerina-boys-tfygyz/
+
+[2025-11-10 17:29:53] [INFO] === ROW 53 ===
+[2025-11-10 17:29:54] [INFO] Inserted show ID 10
+[2025-11-10 17:29:54] [INFO] Inserted video ID 251
+[2025-11-10 17:29:54] [INFO] Inserted page ID 1094
+[2025-11-10 17:29:54] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.klrn.org/video/first-impressions-t3buit/
+
+[2025-11-10 17:29:54] [INFO] === ROW 54 ===
+[2025-11-10 17:29:54] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/kenburns/us-and-the-holocaust/episode-1-the-golden-door-beginnings-1938 — Not published
+[2025-11-10 17:29:54] [INFO] Inserted page ID 1095
+[2025-11-10 17:29:54] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/kenburns/us-and-the-holocaust/episode-1-the-golden-door-beginnings-1938
+
+[2025-11-10 17:29:54] [INFO] === ROW 55 ===
+[2025-11-10 17:29:55] [INFO] Inserted show ID 241
+[2025-11-10 17:29:55] [INFO] Inserted video ID 241
+[2025-11-10 17:29:55] [INFO] Inserted page ID 1096
+[2025-11-10 17:29:55] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/civil-war-episodes-eight-and-nine-1865/
+
+[2025-11-10 17:29:55] [INFO] === ROW 56 ===
+[2025-11-10 17:29:55] [INFO] Inserted show ID 886
+[2025-11-10 17:29:55] [INFO] Inserted video ID 886
+[2025-11-10 17:29:55] [INFO] Inserted page ID 1097
+[2025-11-10 17:29:55] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/julia-child-julias-kitchen-master-chefs-harvest-apple-pie-jim-dodge/
+
+[2025-11-10 17:29:55] [INFO] === ROW 57 ===
+[2025-11-10 17:29:56] [INFO] Inserted show ID 476
+[2025-11-10 17:29:56] [INFO] Inserted video ID 476
+[2025-11-10 17:29:56] [INFO] Inserted page ID 1098
+[2025-11-10 17:29:56] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-1-cpkedj/
+
+[2025-11-10 17:29:56] [INFO] === ROW 58 ===
+[2025-11-10 17:29:56] [INFO] Inserted show ID 694
+[2025-11-10 17:29:56] [INFO] Inserted video ID 888
+[2025-11-10 17:29:56] [INFO] Inserted page ID 1099
+[2025-11-10 17:29:56] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/so-put-together-oayhod/
+
+[2025-11-10 17:29:56] [INFO] === ROW 59 ===
+[2025-11-10 17:29:56] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/articles/cozy-fall-programming-from-pbs — Not published
+[2025-11-10 17:29:56] [INFO] Inserted page ID 1100
+[2025-11-10 17:29:56] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/articles/cozy-fall-programming-from-pbs
+
+[2025-11-10 17:29:56] [INFO] === ROW 60 ===
+[2025-11-10 17:29:57] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/kenburns/the-civil-war/ — Not published
+[2025-11-10 17:29:57] [INFO] Inserted page ID 1101
+[2025-11-10 17:29:57] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/kenburns/the-civil-war/
+
+[2025-11-10 17:29:57] [INFO] === ROW 61 ===
+[2025-11-10 17:29:57] [INFO] Inserted show ID 34
+[2025-11-10 17:29:57] [INFO] Inserted video ID 889
+[2025-11-10 17:29:57] [INFO] Inserted page ID 1102
+[2025-11-10 17:29:57] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/foo-fighters-rock-austin-city-limits-trj4g2/
+
+[2025-11-10 17:29:57] [INFO] === ROW 62 ===
+[2025-11-10 17:29:58] [INFO] Inserted show ID 19
+[2025-11-10 17:29:58] [INFO] Inserted video ID 124
+[2025-11-10 17:29:58] [INFO] Inserted page ID 1103
+[2025-11-10 17:29:58] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/wnet/nature/about-big-bend-wild-frontier-texas/23673/
+
+[2025-11-10 17:29:58] [INFO] === ROW 63 ===
+[2025-11-10 17:29:58] [INFO] Inserted show ID 66
+[2025-11-10 17:29:58] [INFO] Inserted video ID 66
+[2025-11-10 17:29:58] [INFO] Inserted page ID 1104
+[2025-11-10 17:29:58] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/morse-the-last-endeavour-a-masterpiece-mystery-special-ctlleq/
+
+[2025-11-10 17:29:58] [INFO] === ROW 64 ===
+[2025-11-10 17:29:59] [INFO] Inserted show ID 865
+[2025-11-10 17:29:59] [INFO] Inserted video ID 865
+[2025-11-10 17:29:59] [INFO] Inserted page ID 1105
+[2025-11-10 17:29:59] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/trans-siberian-orchestra-ghosts-of-christmas-eve-vibhxo/
+
+[2025-11-10 17:29:59] [INFO] === ROW 65 ===
+[2025-11-10 17:29:59] [INFO] Inserted show ID 34
+[2025-11-10 17:29:59] [INFO] Inserted video ID 595
+[2025-11-10 17:29:59] [INFO] Inserted page ID 1106
+[2025-11-10 17:29:59] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/duran-duran-ubkfdk/
+
+[2025-11-10 17:29:59] [INFO] === ROW 66 ===
+[2025-11-10 17:30:00] [INFO] Inserted show ID 195
+[2025-11-10 17:30:00] [INFO] Inserted video ID 612
+[2025-11-10 17:30:00] [INFO] Inserted page ID 1107
+[2025-11-10 17:30:00] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.klrn.org/video/episode-6-abf2ft/
+
+[2025-11-10 17:30:00] [INFO] === ROW 67 ===
+[2025-11-10 17:30:00] [INFO] Inserted show ID 195
+[2025-11-10 17:30:00] [INFO] Inserted video ID 195
+[2025-11-10 17:30:00] [INFO] Inserted page ID 1108
+[2025-11-10 17:30:00] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/episode-1-noyiez/
+
+[2025-11-10 17:30:00] [INFO] === ROW 68 ===
+[2025-11-10 17:30:01] [INFO] Inserted show ID 34
+[2025-11-10 17:30:01] [INFO] Inserted video ID 889
+[2025-11-10 17:30:01] [INFO] Inserted page ID 1109
+[2025-11-10 17:30:01] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/foo-fighters-rock-austin-city-limits-trj4g2/
+
+[2025-11-10 17:30:01] [INFO] === ROW 69 ===
+[2025-11-10 17:30:01] [INFO] Inserted show ID 38
+[2025-11-10 17:30:01] [INFO] Inserted video ID 897
+[2025-11-10 17:30:01] [INFO] Inserted page ID 1110
+[2025-11-10 17:30:01] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/turkey-day-IFz6LZ/
+
+[2025-11-10 17:30:01] [INFO] === ROW 70 ===
+[2025-11-10 17:30:02] [INFO] Inserted show ID 393
+[2025-11-10 17:30:02] [INFO] Inserted video ID 560
+[2025-11-10 17:30:02] [INFO] Inserted page ID 1111
+[2025-11-10 17:30:02] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/one-sky-above-us-00s661/
+
+[2025-11-10 17:30:02] [INFO] === ROW 71 ===
+[2025-11-10 17:30:02] [INFO] Inserted show ID 19
+[2025-11-10 17:30:02] [INFO] Inserted video ID 899
+[2025-11-10 17:30:02] [INFO] Inserted page ID 1112
+[2025-11-10 17:30:02] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/santas-wild-home-4t36do/
+
+[2025-11-10 17:30:02] [INFO] === ROW 72 ===
+[2025-11-10 17:30:03] [INFO] Inserted show ID 418
+[2025-11-10 17:30:03] [INFO] Inserted video ID 900
+[2025-11-10 17:30:03] [INFO] Inserted page ID 1113
+[2025-11-10 17:30:03] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/war-world-without-war/
+
+[2025-11-10 17:30:03] [INFO] === ROW 73 ===
+[2025-11-10 17:30:03] [INFO] Inserted show ID 901
+[2025-11-10 17:30:03] [INFO] Inserted video ID 901
+[2025-11-10 17:30:03] [INFO] Inserted page ID 1114
+[2025-11-10 17:30:03] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-1-dvp4ij/
+
+[2025-11-10 17:30:03] [INFO] === ROW 74 ===
+[2025-11-10 17:30:04] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/ — Not found on server
+[2025-11-10 17:30:04] [INFO] Inserted page ID 1115
+[2025-11-10 17:30:04] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/
+
+[2025-11-10 17:30:04] [INFO] === ROW 75 ===
+[2025-11-10 17:30:04] [INFO] Inserted show ID 6
+[2025-11-10 17:30:04] [INFO] Inserted video ID 203
+[2025-11-10 17:30:04] [INFO] Inserted page ID 1116
+[2025-11-10 17:30:04] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/episode-one-hkr8qe/
+
+[2025-11-10 17:30:04] [INFO] === ROW 76 ===
+[2025-11-10 17:30:04] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/video/below-the-belt-the-last-health-taboo-wmzdvy/ — Not published
+[2025-11-10 17:30:04] [INFO] Inserted page ID 1117
+[2025-11-10 17:30:04] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/below-the-belt-the-last-health-taboo-wmzdvy/
+
+[2025-11-10 17:30:04] [INFO] === ROW 77 ===
+[2025-11-10 17:30:05] [INFO] Inserted show ID 10
+[2025-11-10 17:30:05] [INFO] Inserted video ID 251
+[2025-11-10 17:30:05] [INFO] Inserted page ID 1118
+[2025-11-10 17:30:05] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/first-impressions-t3buit/
+
+[2025-11-10 17:30:05] [INFO] === ROW 78 ===
+[2025-11-10 17:30:05] [INFO] Inserted show ID 904
+[2025-11-10 17:30:05] [INFO] Inserted video ID 904
+[2025-11-10 17:30:05] [INFO] Inserted page ID 1119
+[2025-11-10 17:30:05] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/jimmy-carter-zq3dvt/
+
+[2025-11-10 17:30:05] [INFO] === ROW 79 ===
+[2025-11-10 17:30:06] [INFO] Inserted show ID 10
+[2025-11-10 17:30:06] [INFO] Inserted video ID 728
+[2025-11-10 17:30:06] [INFO] Inserted page ID 1120
+[2025-11-10 17:30:06] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-1-8rfhcf/
+
+[2025-11-10 17:30:06] [INFO] === ROW 80 ===
+[2025-11-10 17:30:07] [INFO] Inserted show ID 16
+[2025-11-10 17:30:07] [INFO] Inserted video ID 16
+[2025-11-10 17:30:07] [INFO] Inserted page ID 1121
+[2025-11-10 17:30:07] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/hemingway-episode-1-writer/
+
+[2025-11-10 17:30:07] [INFO] === ROW 81 ===
+[2025-11-10 17:30:07] [INFO] Inserted show ID 694
+[2025-11-10 17:30:07] [INFO] Inserted video ID 694
+[2025-11-10 17:30:07] [INFO] Inserted page ID 1122
+[2025-11-10 17:30:07] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/love-is-all-around-y1yhop/
+
+[2025-11-10 17:30:07] [INFO] === ROW 82 ===
+[2025-11-10 17:30:08] [INFO] Inserted show ID 813
+[2025-11-10 17:30:08] [INFO] Inserted video ID 908
+[2025-11-10 17:30:08] [INFO] Inserted page ID 1123
+[2025-11-10 17:30:08] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/winter-mountain-TOBKcq/
+
+[2025-11-10 17:30:08] [INFO] === ROW 83 ===
+[2025-11-10 17:30:08] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/video/happy-holidays-with-bing-frank-8be8id/ — Not published
+[2025-11-10 17:30:08] [INFO] Inserted page ID 1124
+[2025-11-10 17:30:08] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/happy-holidays-with-bing-frank-8be8id/
+
+[2025-11-10 17:30:08] [INFO] === ROW 84 ===
+[2025-11-10 17:30:08] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://video.klrn.org/ — Not found on server
+[2025-11-10 17:30:08] [INFO] Inserted page ID 1125
+[2025-11-10 17:30:08] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.klrn.org/
+
+[2025-11-10 17:30:08] [INFO] === ROW 85 ===
+[2025-11-10 17:30:09] [INFO] Inserted show ID 873
+[2025-11-10 17:30:09] [INFO] Inserted video ID 873
+[2025-11-10 17:30:09] [INFO] Inserted page ID 1126
+[2025-11-10 17:30:09] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/familia-rhddwt/
+
+[2025-11-10 17:30:09] [INFO] === ROW 86 ===
+[2025-11-10 17:30:09] [INFO] Inserted show ID 694
+[2025-11-10 17:30:09] [INFO] Inserted video ID 694
+[2025-11-10 17:30:09] [INFO] Inserted page ID 1127
+[2025-11-10 17:30:09] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/love-is-all-around-y1yhop/
+
+[2025-11-10 17:30:09] [INFO] === ROW 87 ===
+[2025-11-10 17:30:09] [INFO] Inserted show ID 163
+[2025-11-10 17:30:09] [INFO] Inserted video ID 911
+[2025-11-10 17:30:09] [INFO] Inserted page ID 1128
+[2025-11-10 17:30:09] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/recut-treasure-fever-part-1-auohdm/
+
+[2025-11-10 17:30:09] [INFO] === ROW 88 ===
+[2025-11-10 17:30:10] [INFO] Inserted show ID 30
+[2025-11-10 17:30:10] [INFO] Inserted video ID 36
+[2025-11-10 17:30:10] [INFO] Inserted page ID 1129
+[2025-11-10 17:30:10] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/far-home/
+
+[2025-11-10 17:30:10] [INFO] === ROW 89 ===
+[2025-11-10 17:30:11] [INFO] Inserted show ID 606
+[2025-11-10 17:30:11] [INFO] Inserted video ID 606
+[2025-11-10 17:30:11] [INFO] Inserted page ID 1130
+[2025-11-10 17:30:11] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/the-making-and-breaking-pqqmpj/
+
+[2025-11-10 17:30:11] [INFO] === ROW 90 ===
+[2025-11-10 17:30:11] [INFO] Inserted show ID 16
+[2025-11-10 17:30:11] [INFO] Inserted video ID 16
+[2025-11-10 17:30:11] [INFO] Inserted page ID 1131
+[2025-11-10 17:30:11] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/hemingway-episode-1-writer/
+
+[2025-11-10 17:30:11] [INFO] === ROW 91 ===
+[2025-11-10 17:30:12] [INFO] Inserted show ID 108
+[2025-11-10 17:30:12] [INFO] Inserted video ID 108
+[2025-11-10 17:30:12] [INFO] Inserted page ID 1132
+[2025-11-10 17:30:12] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-1-svsxcp/
+
+[2025-11-10 17:30:12] [INFO] === ROW 92 ===
+[2025-11-10 17:30:12] [INFO] Inserted show ID 516
+[2025-11-10 17:30:12] [INFO] Inserted video ID 516
+[2025-11-10 17:30:12] [INFO] Inserted page ID 1133
+[2025-11-10 17:30:12] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-1-xiwrqj/
+
+[2025-11-10 17:30:12] [INFO] === ROW 93 ===
+[2025-11-10 17:30:13] [INFO] Inserted show ID 10
+[2025-11-10 17:30:13] [INFO] Inserted video ID 251
+[2025-11-10 17:30:13] [INFO] Inserted page ID 1134
+[2025-11-10 17:30:13] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.klrn.org/video/first-impressions-t3buit/
+
+[2025-11-10 17:30:13] [INFO] === ROW 94 ===
+[2025-11-10 17:30:13] [INFO] Inserted show ID 266
+[2025-11-10 17:30:13] [INFO] Inserted video ID 266
+[2025-11-10 17:30:13] [INFO] Inserted page ID 1135
+[2025-11-10 17:30:13] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/agatha-and-the-midnight-murders-kxpe4l/
+
+[2025-11-10 17:30:13] [INFO] === ROW 95 ===
+[2025-11-10 17:30:14] [INFO] Inserted show ID 19
+[2025-11-10 17:30:14] [INFO] Inserted video ID 733
+[2025-11-10 17:30:14] [INFO] Inserted page ID 1136
+[2025-11-10 17:30:14] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/american-arctic-yldakd/
+
+[2025-11-10 17:30:14] [INFO] === ROW 96 ===
+[2025-11-10 17:30:14] [INFO] Inserted show ID 920
+[2025-11-10 17:30:14] [INFO] Inserted video ID 920
+[2025-11-10 17:30:14] [INFO] Inserted page ID 1137
+[2025-11-10 17:30:14] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/hiding-plain-sight-youth-mental-illness-101/
+
+[2025-11-10 17:30:14] [INFO] === ROW 97 ===
+[2025-11-10 17:30:15] [INFO] Inserted show ID 163
+[2025-11-10 17:30:15] [INFO] Inserted video ID 513
+[2025-11-10 17:30:15] [INFO] Inserted page ID 1138
+[2025-11-10 17:30:15] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/treasure-fever-mqcbiy/
+
+[2025-11-10 17:30:15] [INFO] === ROW 98 ===
+[2025-11-10 17:30:15] [INFO] Inserted show ID 516
+[2025-11-10 17:30:15] [INFO] Inserted video ID 516
+[2025-11-10 17:30:15] [INFO] Inserted page ID 1139
+[2025-11-10 17:30:15] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-1-xiwrqj/
+
+[2025-11-10 17:30:15] [INFO] === ROW 99 ===
+[2025-11-10 17:30:15] [INFO] Inserted show ID 19
+[2025-11-10 17:30:15] [INFO] Inserted video ID 923
+[2025-11-10 17:30:15] [INFO] Inserted page ID 1140
+[2025-11-10 17:30:15] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/nature-rhinoceros-full-episode/
+
+[2025-11-10 17:30:15] [INFO] === ROW 100 ===
+[2025-11-10 17:30:16] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/ — Not found on server
+[2025-11-10 17:30:16] [INFO] Inserted page ID 1141
+[2025-11-10 17:30:16] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/
+
+[2025-11-10 17:30:16] [INFO] === ROW 101 ===
+[2025-11-10 17:30:16] [INFO] Inserted show ID 11
+[2025-11-10 17:30:16] [INFO] Inserted video ID 924
+[2025-11-10 17:30:16] [INFO] Inserted page ID 1142
+[2025-11-10 17:30:16] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/dog-tales-vskr2y/
+
+[2025-11-10 17:30:16] [INFO] === ROW 102 ===
+[2025-11-10 17:30:16] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/video/doo-wop-pop-and-soul-generations-my-music-ijkpem/ — Not published
+[2025-11-10 17:30:16] [INFO] Inserted page ID 1143
+[2025-11-10 17:30:16] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/doo-wop-pop-and-soul-generations-my-music-ijkpem/
+
+[2025-11-10 17:30:16] [INFO] === ROW 103 ===
+[2025-11-10 17:30:17] [INFO] Inserted show ID 904
+[2025-11-10 17:30:17] [INFO] Inserted video ID 904
+[2025-11-10 17:30:17] [INFO] Inserted page ID 1144
+[2025-11-10 17:30:17] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/jimmy-carter-zq3dvt/
+
+[2025-11-10 17:30:17] [INFO] === ROW 104 ===
+[2025-11-10 17:30:17] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/wnet/secrets/king-arthurs-lost-kingdom-king-arthurs-lost-kingdom-about-the-film/4069/ — Not published
+[2025-11-10 17:30:17] [INFO] Inserted page ID 1145
+[2025-11-10 17:30:17] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/wnet/secrets/king-arthurs-lost-kingdom-king-arthurs-lost-kingdom-about-the-film/4069/
+
+[2025-11-10 17:30:17] [INFO] === ROW 105 ===
+[2025-11-10 17:30:17] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://video.pbs.org/video/masterpiece-downton-abbey-season-6-episode-1/ — Not published
+[2025-11-10 17:30:17] [INFO] Inserted page ID 1146
+[2025-11-10 17:30:17] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/masterpiece-downton-abbey-season-6-episode-1/
+
+[2025-11-10 17:30:17] [INFO] === ROW 106 ===
+[2025-11-10 17:30:18] [INFO] Inserted show ID 5
+[2025-11-10 17:30:18] [INFO] Inserted video ID 926
+[2025-11-10 17:30:18] [INFO] Inserted page ID 1147
+[2025-11-10 17:30:18] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/ultimate-yule-log-jNsaqU/
+
+[2025-11-10 17:30:18] [INFO] === ROW 107 ===
+[2025-11-10 17:30:19] [INFO] Inserted show ID 116
+[2025-11-10 17:30:19] [INFO] Inserted video ID 116
+[2025-11-10 17:30:19] [INFO] Inserted page ID 1148
+[2025-11-10 17:30:19] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-1-ex5lws/
+
+[2025-11-10 17:30:19] [INFO] === ROW 108 ===
+[2025-11-10 17:30:19] [INFO] Inserted show ID 116
+[2025-11-10 17:30:19] [INFO] Inserted video ID 763
+[2025-11-10 17:30:19] [INFO] Inserted page ID 1149
+[2025-11-10 17:30:19] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-1-lyehpe/
+
+[2025-11-10 17:30:19] [INFO] === ROW 109 ===
+[2025-11-10 17:30:19] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://video.pbs.org/video/now-and-then-the-last-beatles-song-short-film-wflwzd/ — Not published
+[2025-11-10 17:30:19] [INFO] Inserted page ID 1150
+[2025-11-10 17:30:19] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/now-and-then-the-last-beatles-song-short-film-wflwzd/
+
+[2025-11-10 17:30:19] [INFO] === ROW 110 ===
+[2025-11-10 17:30:20] [INFO] Inserted show ID 929
+[2025-11-10 17:30:20] [INFO] Inserted video ID 929
+[2025-11-10 17:30:20] [INFO] Inserted page ID 1151
+[2025-11-10 17:30:20] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/the-highwaymen-live-at-nassau-coliseum-imswk1/
+
+[2025-11-10 17:30:20] [INFO] === ROW 111 ===
+[2025-11-10 17:30:20] [INFO] Inserted show ID 239
+[2025-11-10 17:30:20] [INFO] Inserted video ID 239
+[2025-11-10 17:30:20] [INFO] Inserted page ID 1152
+[2025-11-10 17:30:20] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.klrn.org/video/anatomy-of-a-memory-vumwcb/
+
+[2025-11-10 17:30:20] [INFO] === ROW 112 ===
+[2025-11-10 17:30:20] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/video/episode-2-uxfk8m/ — Not published
+[2025-11-10 17:30:20] [INFO] Inserted page ID 1153
+[2025-11-10 17:30:20] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/episode-2-uxfk8m/
+
+[2025-11-10 17:30:20] [INFO] === ROW 113 ===
+[2025-11-10 17:30:21] [INFO] Inserted show ID 606
+[2025-11-10 17:30:21] [INFO] Inserted video ID 803
+[2025-11-10 17:30:21] [INFO] Inserted page ID 1154
+[2025-11-10 17:30:21] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/love-and-loss-iufxpl/
+
+[2025-11-10 17:30:21] [INFO] === ROW 114 ===
+[2025-11-10 17:30:21] [INFO] Inserted show ID 108
+[2025-11-10 17:30:21] [INFO] Inserted video ID 932
+[2025-11-10 17:30:21] [INFO] Inserted page ID 1155
+[2025-11-10 17:30:21] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-1-isy3aw/
+
+[2025-11-10 17:30:21] [INFO] === ROW 115 ===
+[2025-11-10 17:30:22] [INFO] Inserted show ID 3
+[2025-11-10 17:30:22] [INFO] Inserted video ID 933
+[2025-11-10 17:30:22] [INFO] Inserted page ID 1156
+[2025-11-10 17:30:22] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-4-oyjfer/
+
+[2025-11-10 17:30:22] [INFO] === ROW 116 ===
+[2025-11-10 17:30:23] [INFO] Inserted show ID 934
+[2025-11-10 17:30:23] [INFO] Inserted video ID 934
+[2025-11-10 17:30:23] [INFO] Inserted page ID 1157
+[2025-11-10 17:30:23] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/how-to-get-going-OxGopr/
+
+[2025-11-10 17:30:23] [INFO] === ROW 117 ===
+[2025-11-10 17:30:24] [INFO] Inserted show ID 935
+[2025-11-10 17:30:24] [INFO] Inserted video ID 935
+[2025-11-10 17:30:24] [INFO] Inserted page ID 1158
+[2025-11-10 17:30:24] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/unconditional-healing-hidden-wounds-mI5LRt/
+
+[2025-11-10 17:30:24] [INFO] === ROW 118 ===
+[2025-11-10 17:30:24] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://video.klrn.org/video/now-and-then-the-last-beatles-song-short-film-wflwzd/ — Not published
+[2025-11-10 17:30:24] [INFO] Inserted page ID 1159
+[2025-11-10 17:30:24] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.klrn.org/video/now-and-then-the-last-beatles-song-short-film-wflwzd/
+
+[2025-11-10 17:30:24] [INFO] === ROW 119 ===
+[2025-11-10 17:30:24] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/ — Not found on server
+[2025-11-10 17:30:24] [INFO] Inserted page ID 1160
+[2025-11-10 17:30:24] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/
+
+[2025-11-10 17:30:24] [INFO] === ROW 120 ===
+[2025-11-10 17:30:25] [INFO] Inserted show ID 936
+[2025-11-10 17:30:25] [INFO] Inserted video ID 936
+[2025-11-10 17:30:25] [INFO] Inserted page ID 1161
+[2025-11-10 17:30:25] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/barbra-streisand-back-to-brooklyn-rumtnq/
+
+[2025-11-10 17:30:25] [INFO] === ROW 121 ===
+[2025-11-10 17:30:25] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/video/happy-holidays-with-bing-frank-8be8id/ — Not published
+[2025-11-10 17:30:25] [INFO] Inserted page ID 1162
+[2025-11-10 17:30:25] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/happy-holidays-with-bing-frank-8be8id/
+
+[2025-11-10 17:30:25] [INFO] === ROW 122 ===
+[2025-11-10 17:30:25] [INFO] Inserted show ID 694
+[2025-11-10 17:30:25] [INFO] Inserted video ID 694
+[2025-11-10 17:30:25] [INFO] Inserted page ID 1163
+[2025-11-10 17:30:25] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/love-is-all-around-y1yhop/
+
+[2025-11-10 17:30:25] [INFO] === ROW 123 ===
+[2025-11-10 17:30:26] [INFO] Inserted show ID 19
+[2025-11-10 17:30:26] [INFO] Inserted video ID 938
+[2025-11-10 17:30:26] [INFO] Inserted page ID 1164
+[2025-11-10 17:30:26] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/deep-thinkers-spy-in-the-ocean-feoqz5/
+
+[2025-11-10 17:30:26] [INFO] === ROW 124 ===
+[2025-11-10 17:30:26] [INFO] Inserted show ID 226
+[2025-11-10 17:30:26] [INFO] Inserted video ID 226
+[2025-11-10 17:30:26] [INFO] Inserted page ID 1165
+[2025-11-10 17:30:26] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/deja-vu-1858-1961-ucsq9s/
+
+[2025-11-10 17:30:26] [INFO] === ROW 125 ===
+[2025-11-10 17:30:27] [INFO] Inserted show ID 667
+[2025-11-10 17:30:27] [INFO] Inserted video ID 940
+[2025-11-10 17:30:27] [INFO] Inserted page ID 1166
+[2025-11-10 17:30:27] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/e7-lexington-modern-ramping-up-LpuA8u/
+
+[2025-11-10 17:30:27] [INFO] === ROW 126 ===
+[2025-11-10 17:30:27] [INFO] Inserted show ID 13
+[2025-11-10 17:30:27] [INFO] Inserted video ID 13
+[2025-11-10 17:30:27] [INFO] Inserted page ID 1167
+[2025-11-10 17:30:27] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/ken-burns-country-music-episode-1-the-rub/
+
+[2025-11-10 17:30:27] [INFO] === ROW 127 ===
+[2025-11-10 17:30:28] [INFO] Inserted show ID 10
+[2025-11-10 17:30:28] [INFO] Inserted video ID 10
+[2025-11-10 17:30:28] [INFO] Inserted page ID 1168
+[2025-11-10 17:30:28] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/denouements-zf1ryi/
+
+[2025-11-10 17:30:28] [INFO] === ROW 128 ===
+[2025-11-10 17:30:28] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://video.pbs.org/video/lynyrd-skynyrd-celebrating-50-years-ffs5ly/ — Not published
+[2025-11-10 17:30:28] [INFO] Inserted page ID 1169
+[2025-11-10 17:30:28] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/lynyrd-skynyrd-celebrating-50-years-ffs5ly/
+
+[2025-11-10 17:30:28] [INFO] === ROW 129 ===
+[2025-11-10 17:30:28] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://video.klrn.org/ — Not found on server
+[2025-11-10 17:30:28] [INFO] Inserted page ID 1170
+[2025-11-10 17:30:28] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.klrn.org/
+
+[2025-11-10 17:30:28] [INFO] === ROW 130 ===
+[2025-11-10 17:30:28] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/ — Not found on server
+[2025-11-10 17:30:28] [INFO] Inserted page ID 1171
+[2025-11-10 17:30:28] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/
+
+[2025-11-10 17:30:28] [INFO] === ROW 131 ===
+[2025-11-10 17:30:29] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/kenburns/the-civil-war/ — Not published
+[2025-11-10 17:30:29] [INFO] Inserted page ID 1172
+[2025-11-10 17:30:29] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/kenburns/the-civil-war/
+
+[2025-11-10 17:30:29] [INFO] === ROW 132 ===
+[2025-11-10 17:30:29] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/kenburns/the-dust-bowl/ — Not published
+[2025-11-10 17:30:29] [INFO] Inserted page ID 1173
+[2025-11-10 17:30:29] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/kenburns/the-dust-bowl/
+
+[2025-11-10 17:30:29] [INFO] === ROW 133 ===
+[2025-11-10 17:30:29] [INFO] Inserted show ID 943
+[2025-11-10 17:30:29] [INFO] Inserted video ID 943
+[2025-11-10 17:30:29] [INFO] Inserted page ID 1174
+[2025-11-10 17:30:29] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/classicalia-tgzwas/
+
+[2025-11-10 17:30:29] [INFO] === ROW 134 ===
+[2025-11-10 17:30:30] [INFO] Inserted show ID 195
+[2025-11-10 17:30:30] [INFO] Inserted video ID 576
+[2025-11-10 17:30:30] [INFO] Inserted page ID 1175
+[2025-11-10 17:30:30] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/episode-2-bvepuu/
+
+[2025-11-10 17:30:30] [INFO] === ROW 135 ===
+[2025-11-10 17:30:30] [INFO] Inserted show ID 266
+[2025-11-10 17:30:30] [INFO] Inserted video ID 266
+[2025-11-10 17:30:30] [INFO] Inserted page ID 1176
+[2025-11-10 17:30:30] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/agatha-and-the-midnight-murders-kxpe4l/
+
+[2025-11-10 17:30:30] [INFO] === ROW 136 ===
+[2025-11-10 17:30:31] [INFO] Inserted show ID 936
+[2025-11-10 17:30:31] [INFO] Inserted video ID 936
+[2025-11-10 17:30:31] [INFO] Inserted page ID 1177
+[2025-11-10 17:30:31] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/barbra-streisand-back-to-brooklyn-rumtnq/
+
+[2025-11-10 17:30:31] [INFO] === ROW 137 ===
+[2025-11-10 17:30:31] [INFO] Inserted show ID 947
+[2025-11-10 17:30:31] [INFO] Inserted video ID 947
+[2025-11-10 17:30:31] [INFO] Inserted page ID 1178
+[2025-11-10 17:30:31] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-1-cuzlxl/
+
+[2025-11-10 17:30:31] [INFO] === ROW 138 ===
+[2025-11-10 17:30:32] [INFO] Inserted show ID 865
+[2025-11-10 17:30:32] [INFO] Inserted video ID 865
+[2025-11-10 17:30:32] [INFO] Inserted page ID 1179
+[2025-11-10 17:30:32] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/trans-siberian-orchestra-ghosts-of-christmas-eve-vibhxo/
+
+[2025-11-10 17:30:32] [INFO] === ROW 139 ===
+[2025-11-10 17:30:32] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/ — Not found on server
+[2025-11-10 17:30:32] [INFO] Inserted page ID 1180
+[2025-11-10 17:30:32] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/
+
+[2025-11-10 17:30:32] [INFO] === ROW 140 ===
+[2025-11-10 17:30:33] [INFO] Inserted show ID 949
+[2025-11-10 17:30:33] [INFO] Inserted video ID 949
+[2025-11-10 17:30:33] [INFO] Inserted page ID 1181
+[2025-11-10 17:30:33] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/becoming-frederick-douglass-aie7i4/
+
+[2025-11-10 17:30:33] [INFO] === ROW 141 ===
+[2025-11-10 17:30:33] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://video.pbs.org/video/lynyrd-skynyrd-celebrating-50-years-ffs5ly/ — Not published
+[2025-11-10 17:30:33] [INFO] Inserted page ID 1182
+[2025-11-10 17:30:33] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/lynyrd-skynyrd-celebrating-50-years-ffs5ly/
+
+[2025-11-10 17:30:33] [INFO] === ROW 142 ===
+[2025-11-10 17:30:33] [INFO] Inserted show ID 673
+[2025-11-10 17:30:33] [INFO] Inserted video ID 950
+[2025-11-10 17:30:33] [INFO] Inserted page ID 1183
+[2025-11-10 17:30:33] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/christmas-traditions-gWVle9/
+
+[2025-11-10 17:30:33] [INFO] === ROW 143 ===
+[2025-11-10 17:30:34] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/video/sex-wild-elephants/ — Not published
+[2025-11-10 17:30:34] [INFO] Inserted page ID 1184
+[2025-11-10 17:30:34] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/sex-wild-elephants/
+
+[2025-11-10 17:30:34] [INFO] === ROW 144 ===
+[2025-11-10 17:30:34] [INFO] Inserted show ID 951
+[2025-11-10 17:30:34] [INFO] Inserted video ID 951
+[2025-11-10 17:30:34] [INFO] Inserted page ID 1185
+[2025-11-10 17:30:34] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/england-made-with-love-e3uruw/
+
+[2025-11-10 17:30:34] [INFO] === ROW 145 ===
+[2025-11-10 17:30:35] [INFO] Inserted show ID 116
+[2025-11-10 17:30:35] [INFO] Inserted video ID 116
+[2025-11-10 17:30:35] [INFO] Inserted page ID 1186
+[2025-11-10 17:30:35] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-1-ex5lws/
+
+[2025-11-10 17:30:35] [INFO] === ROW 146 ===
+[2025-11-10 17:30:35] [INFO] Inserted show ID 3
+[2025-11-10 17:30:35] [INFO] Inserted video ID 3
+[2025-11-10 17:30:35] [INFO] Inserted page ID 1187
+[2025-11-10 17:30:35] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-1-ifcgdb/
+
+[2025-11-10 17:30:35] [INFO] === ROW 147 ===
+[2025-11-10 17:30:36] [INFO] Inserted show ID 516
+[2025-11-10 17:30:36] [INFO] Inserted video ID 516
+[2025-11-10 17:30:36] [INFO] Inserted page ID 1188
+[2025-11-10 17:30:36] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-1-xiwrqj/
+
+[2025-11-10 17:30:36] [INFO] === ROW 148 ===
+[2025-11-10 17:30:36] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://video.pbs.org/video/masterpiece-downton-abbey-season-1-ep-1/ — Not published
+[2025-11-10 17:30:36] [INFO] Inserted page ID 1189
+[2025-11-10 17:30:36] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/masterpiece-downton-abbey-season-1-ep-1/
+
+[2025-11-10 17:30:36] [INFO] === ROW 149 ===
+[2025-11-10 17:30:37] [INFO] Inserted show ID 955
+[2025-11-10 17:30:37] [INFO] Inserted video ID 955
+[2025-11-10 17:30:37] [INFO] Inserted page ID 1190
+[2025-11-10 17:30:37] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/masterpiece-indian-summers-episode-1/
+
+[2025-11-10 17:30:37] [INFO] === ROW 150 ===
+[2025-11-10 17:30:37] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://video.pbs.org/video/now-and-then-the-last-beatles-song-short-film-wflwzd/ — Not published
+[2025-11-10 17:30:37] [INFO] Inserted page ID 1191
+[2025-11-10 17:30:37] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/now-and-then-the-last-beatles-song-short-film-wflwzd/
+
+[2025-11-10 17:30:37] [INFO] === ROW 151 ===
+[2025-11-10 17:30:38] [INFO] Inserted show ID 195
+[2025-11-10 17:30:38] [INFO] Inserted video ID 195
+[2025-11-10 17:30:38] [INFO] Inserted page ID 1192
+[2025-11-10 17:30:38] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-1-noyiez/
+
+[2025-11-10 17:30:38] [INFO] === ROW 152 ===
+[2025-11-10 17:30:38] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://video.klrn.org/ — Not found on server
+[2025-11-10 17:30:38] [INFO] Inserted page ID 1193
+[2025-11-10 17:30:38] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.klrn.org/
+
+[2025-11-10 17:30:38] [INFO] === ROW 153 ===
+[2025-11-10 17:30:38] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/kenburns/the-civil-war/ — Not published
+[2025-11-10 17:30:38] [INFO] Inserted page ID 1194
+[2025-11-10 17:30:38] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/kenburns/the-civil-war/
+
+[2025-11-10 17:30:38] [INFO] === ROW 154 ===
+[2025-11-10 17:30:39] [INFO] Inserted show ID 957
+[2025-11-10 17:30:39] [INFO] Inserted video ID 957
+[2025-11-10 17:30:39] [INFO] Inserted page ID 1195
+[2025-11-10 17:30:39] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/5-minute-yoga-fix-with-peggy-cappy-odrfxm/
+
+[2025-11-10 17:30:39] [INFO] === ROW 155 ===
+[2025-11-10 17:30:39] [INFO] Inserted show ID 67
+[2025-11-10 17:30:39] [INFO] Inserted video ID 958
+[2025-11-10 17:30:39] [INFO] Inserted page ID 1196
+[2025-11-10 17:30:39] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/coq-au-vin-alias-chicken-fricassee-hrngdn/
+
+[2025-11-10 17:30:39] [INFO] === ROW 156 ===
+[2025-11-10 17:30:40] [INFO] Inserted show ID 951
+[2025-11-10 17:30:40] [INFO] Inserted video ID 959
+[2025-11-10 17:30:40] [INFO] Inserted page ID 1197
+[2025-11-10 17:30:40] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/england-made-with-love-meet-more-artisans-cwf87l/
+
+[2025-11-10 17:30:40] [INFO] === ROW 157 ===
+[2025-11-10 17:30:40] [INFO] Inserted show ID 227
+[2025-11-10 17:30:40] [INFO] Inserted video ID 227
+[2025-11-10 17:30:40] [INFO] Inserted page ID 1198
+[2025-11-10 17:30:40] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/episode-1-uycju8/
+
+[2025-11-10 17:30:40] [INFO] === ROW 158 ===
+[2025-11-10 17:30:41] [INFO] Inserted show ID 11
+[2025-11-10 17:30:41] [INFO] Inserted video ID 961
+[2025-11-10 17:30:41] [INFO] Inserted page ID 1199
+[2025-11-10 17:30:41] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/nova-car-of-the-future/
+
+[2025-11-10 17:30:41] [INFO] === ROW 159 ===
+[2025-11-10 17:30:41] [INFO] Inserted show ID 962
+[2025-11-10 17:30:41] [INFO] Inserted video ID 962
+[2025-11-10 17:30:41] [INFO] Inserted page ID 1200
+[2025-11-10 17:30:41] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/the-elements-of-music-bH9Gmj/
+
+[2025-11-10 17:30:41] [INFO] === ROW 160 ===
+[2025-11-10 17:30:42] [INFO] Inserted show ID 963
+[2025-11-10 17:30:42] [INFO] Inserted video ID 963
+[2025-11-10 17:30:42] [INFO] Inserted page ID 1201
+[2025-11-10 17:30:42] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/yacht-rock-revue-70s-80s-hits-live-from-new-york-0erigm/
+
+[2025-11-10 17:30:42] [INFO] === ROW 161 ===
+[2025-11-10 17:30:42] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://video.pbs.org/video/city-sky-ep-3-arrival/ — Not published
+[2025-11-10 17:30:42] [INFO] Inserted page ID 1202
+[2025-11-10 17:30:42] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/city-sky-ep-3-arrival/
+
+[2025-11-10 17:30:42] [INFO] === ROW 162 ===
+[2025-11-10 17:30:43] [INFO] Inserted show ID 116
+[2025-11-10 17:30:43] [INFO] Inserted video ID 642
+[2025-11-10 17:30:43] [INFO] Inserted page ID 1203
+[2025-11-10 17:30:43] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-3-aeb1kw/
+
+[2025-11-10 17:30:43] [INFO] === ROW 163 ===
+[2025-11-10 17:30:43] [INFO] Inserted show ID 19
+[2025-11-10 17:30:43] [INFO] Inserted video ID 965
+[2025-11-10 17:30:43] [INFO] Inserted page ID 1204
+[2025-11-10 17:30:43] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/penguins-meet-the-family-bzdmpa/
+
+[2025-11-10 17:30:43] [INFO] === ROW 164 ===
+[2025-11-10 17:30:44] [INFO] Inserted show ID 163
+[2025-11-10 17:30:44] [INFO] Inserted video ID 966
+[2025-11-10 17:30:44] [INFO] Inserted page ID 1205
+[2025-11-10 17:30:44] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/recut-american-stories-part-1-i1mk4l/
+
+[2025-11-10 17:30:44] [INFO] === ROW 165 ===
+[2025-11-10 17:30:44] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/ — Not found on server
+[2025-11-10 17:30:44] [INFO] Inserted page ID 1206
+[2025-11-10 17:30:44] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/
+
+[2025-11-10 17:30:44] [INFO] === ROW 166 ===
+[2025-11-10 17:30:44] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/kenburns/lewis-clark/ — Not published
+[2025-11-10 17:30:44] [INFO] Inserted page ID 1207
+[2025-11-10 17:30:44] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/kenburns/lewis-clark/
+
+[2025-11-10 17:30:44] [INFO] === ROW 167 ===
+[2025-11-10 17:30:44] [INFO] Inserted show ID 967
+[2025-11-10 17:30:44] [INFO] Inserted video ID 967
+[2025-11-10 17:30:44] [INFO] Inserted page ID 1208
+[2025-11-10 17:30:44] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/ann-wilson-tripsitter-live-in-concert-yk4ono/
+
+[2025-11-10 17:30:44] [INFO] === ROW 168 ===
+[2025-11-10 17:30:45] [INFO] Inserted show ID 968
+[2025-11-10 17:30:45] [INFO] Inserted video ID 968
+[2025-11-10 17:30:45] [INFO] Inserted page ID 1209
+[2025-11-10 17:30:45] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/celtic-woman-20th-anniversary-concert-nydpho/
+
+[2025-11-10 17:30:45] [INFO] === ROW 169 ===
+[2025-11-10 17:30:45] [INFO] Inserted show ID 30
+[2025-11-10 17:30:45] [INFO] Inserted video ID 969
+[2025-11-10 17:30:45] [INFO] Inserted page ID 1210
+[2025-11-10 17:30:45] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/italian-roots-ijlbcx/
+
+[2025-11-10 17:30:45] [INFO] === ROW 170 ===
+[2025-11-10 17:30:46] [INFO] Inserted show ID 970
+[2025-11-10 17:30:46] [INFO] Inserted video ID 970
+[2025-11-10 17:30:46] [INFO] Inserted page ID 1211
+[2025-11-10 17:30:46] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/tuscany-9cv2Ou/
+
+[2025-11-10 17:30:46] [INFO] === ROW 171 ===
+[2025-11-10 17:30:47] [INFO] Inserted show ID 22
+[2025-11-10 17:30:47] [INFO] Inserted video ID 971
+[2025-11-10 17:30:47] [INFO] Inserted page ID 1212
+[2025-11-10 17:30:47] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-2-m4o7rg/
+
+[2025-11-10 17:30:47] [INFO] === ROW 172 ===
+[2025-11-10 17:30:47] [INFO] Inserted show ID 972
+[2025-11-10 17:30:47] [INFO] Inserted video ID 972
+[2025-11-10 17:30:47] [INFO] Inserted page ID 1213
+[2025-11-10 17:30:47] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/how-great-thou-art-a-sacred-celebration-usplbo/
+
+[2025-11-10 17:30:47] [INFO] === ROW 173 ===
+[2025-11-10 17:30:48] [INFO] Inserted show ID 957
+[2025-11-10 17:30:48] [INFO] Inserted video ID 957
+[2025-11-10 17:30:48] [INFO] Inserted page ID 1214
+[2025-11-10 17:30:48] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/5-minute-yoga-fix-with-peggy-cappy-odrfxm/
+
+[2025-11-10 17:30:48] [INFO] === ROW 174 ===
+[2025-11-10 17:30:48] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/video/bell-ringer-the-invisible-brain-injury-vnxol0/ — Not published
+[2025-11-10 17:30:48] [INFO] Inserted page ID 1215
+[2025-11-10 17:30:48] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/bell-ringer-the-invisible-brain-injury-vnxol0/
+
+[2025-11-10 17:30:48] [INFO] === ROW 175 ===
+[2025-11-10 17:30:48] [INFO] Inserted show ID 125
+[2025-11-10 17:30:48] [INFO] Inserted video ID 974
+[2025-11-10 17:30:48] [INFO] Inserted page ID 1216
+[2025-11-10 17:30:48] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/miles-davis-birth-of-the-cool-rfotn2/
+
+[2025-11-10 17:30:48] [INFO] === ROW 176 ===
+[2025-11-10 17:30:49] [INFO] Inserted show ID 208
+[2025-11-10 17:30:49] [INFO] Inserted video ID 248
+[2025-11-10 17:30:49] [INFO] Inserted page ID 1217
+[2025-11-10 17:30:49] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/the-slap-nbimvf/
+
+[2025-11-10 17:30:49] [INFO] === ROW 177 ===
+[2025-11-10 17:30:49] [INFO] Inserted show ID 976
+[2025-11-10 17:30:49] [INFO] Inserted video ID 976
+[2025-11-10 17:30:49] [INFO] Inserted page ID 1218
+[2025-11-10 17:30:49] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-1-sfy5g4/
+
+[2025-11-10 17:30:49] [INFO] === ROW 178 ===
+[2025-11-10 17:30:50] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/video/bell-ringer-the-invisible-brain-injury-vnxol0/ — Not published
+[2025-11-10 17:30:50] [INFO] Inserted page ID 1219
+[2025-11-10 17:30:50] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/bell-ringer-the-invisible-brain-injury-vnxol0/
+
+[2025-11-10 17:30:50] [INFO] === ROW 179 ===
+[2025-11-10 17:30:50] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/kenburns/the-civil-war/ — Not published
+[2025-11-10 17:30:50] [INFO] Inserted page ID 1220
+[2025-11-10 17:30:50] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/kenburns/the-civil-war/
+
+[2025-11-10 17:30:50] [INFO] === ROW 180 ===
+[2025-11-10 17:30:50] [INFO] Inserted show ID 968
+[2025-11-10 17:30:50] [INFO] Inserted video ID 968
+[2025-11-10 17:30:50] [INFO] Inserted page ID 1221
+[2025-11-10 17:30:50] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/celtic-woman-20th-anniversary-concert-nydpho/
+
+[2025-11-10 17:30:50] [INFO] === ROW 181 ===
+[2025-11-10 17:30:51] [INFO] Inserted show ID 2
+[2025-11-10 17:30:51] [INFO] Inserted video ID 978
+[2025-11-10 17:30:51] [INFO] Inserted page ID 1222
+[2025-11-10 17:30:51] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/american-experience-roberto-clemente/
+
+[2025-11-10 17:30:51] [INFO] === ROW 182 ===
+[2025-11-10 17:30:51] [INFO] Inserted show ID 241
+[2025-11-10 17:30:51] [INFO] Inserted video ID 979
+[2025-11-10 17:30:51] [INFO] Inserted page ID 1223
+[2025-11-10 17:30:51] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.klrn.org/video/civil-war-civil-war-episodes-four-and-five-1863/
+
+[2025-11-10 17:30:51] [INFO] === ROW 183 ===
+[2025-11-10 17:30:52] [INFO] Inserted show ID 241
+[2025-11-10 17:30:52] [INFO] Inserted video ID 980
+[2025-11-10 17:30:52] [INFO] Inserted page ID 1224
+[2025-11-10 17:30:52] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.klrn.org/video/civil-war-civil-war-episodes-two-and-three-1862/
+
+[2025-11-10 17:30:52] [INFO] === ROW 184 ===
+[2025-11-10 17:30:52] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://video.klrn.org/video/suze-ormans-ultimate-retirement-guide-xgisfo/ — Not published
+[2025-11-10 17:30:52] [INFO] Inserted page ID 1225
+[2025-11-10 17:30:52] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.klrn.org/video/suze-ormans-ultimate-retirement-guide-xgisfo/
+
+[2025-11-10 17:30:52] [INFO] === ROW 185 ===
+[2025-11-10 17:30:52] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/food/features/food-delicious-science-episode-we-are-what-we-eat/ — Not published
+[2025-11-10 17:30:52] [INFO] Inserted page ID 1226
+[2025-11-10 17:30:52] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/food/features/food-delicious-science-episode-we-are-what-we-eat/
+
+[2025-11-10 17:30:52] [INFO] === ROW 186 ===
+[2025-11-10 17:30:53] [INFO] Inserted show ID 100
+[2025-11-10 17:30:53] [INFO] Inserted video ID 981
+[2025-11-10 17:30:53] [INFO] Inserted page ID 1227
+[2025-11-10 17:30:53] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/american-buffalo-episode-1-blood-memory/
+
+[2025-11-10 17:30:53] [INFO] === ROW 187 ===
+[2025-11-10 17:30:53] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/video/poker-table-e0nnza/ — Not published
+[2025-11-10 17:30:53] [INFO] Inserted page ID 1228
+[2025-11-10 17:30:53] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/poker-table-e0nnza/
+
+[2025-11-10 17:30:53] [INFO] === ROW 188 ===
+[2025-11-10 17:30:54] [INFO] Inserted show ID 241
+[2025-11-10 17:30:54] [INFO] Inserted video ID 395
+[2025-11-10 17:30:54] [INFO] Inserted page ID 1229
+[2025-11-10 17:30:54] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/the-civil-war-the-cause/
+
+[2025-11-10 17:30:54] [INFO] === ROW 189 ===
+[2025-11-10 17:30:54] [INFO] Inserted show ID 19
+[2025-11-10 17:30:54] [INFO] Inserted video ID 983
+[2025-11-10 17:30:54] [INFO] Inserted page ID 1230
+[2025-11-10 17:30:54] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/wnet/nature/about-american-arctic/27134/
+
+[2025-11-10 17:30:54] [INFO] === ROW 190 ===
+[2025-11-10 17:30:55] [INFO] Inserted show ID 100
+[2025-11-10 17:30:55] [INFO] Inserted video ID 981
+[2025-11-10 17:30:55] [INFO] Inserted page ID 1231
+[2025-11-10 17:30:55] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/american-buffalo-episode-1-blood-memory/
+
+[2025-11-10 17:30:55] [INFO] === ROW 191 ===
+[2025-11-10 17:30:55] [INFO] Inserted show ID 694
+[2025-11-10 17:30:55] [INFO] Inserted video ID 985
+[2025-11-10 17:30:55] [INFO] Inserted page ID 1232
+[2025-11-10 17:30:56] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/bineshi-kwe-7j9spc/
+
+[2025-11-10 17:30:56] [INFO] === ROW 192 ===
+[2025-11-10 17:30:56] [INFO] Inserted show ID 24
+[2025-11-10 17:30:56] [INFO] Inserted video ID 986
+[2025-11-10 17:30:56] [INFO] Inserted page ID 1233
+[2025-11-10 17:30:56] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-1-mym3o3/
+
+[2025-11-10 17:30:56] [INFO] === ROW 193 ===
+[2025-11-10 17:30:57] [INFO] Inserted show ID 606
+[2025-11-10 17:30:57] [INFO] Inserted video ID 606
+[2025-11-10 17:30:57] [INFO] Inserted page ID 1234
+[2025-11-10 17:30:57] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/the-making-and-breaking-pqqmpj/
+
+[2025-11-10 17:30:57] [INFO] === ROW 194 ===
+[2025-11-10 17:30:57] [INFO] Inserted show ID 988
+[2025-11-10 17:30:57] [INFO] Inserted video ID 988
+[2025-11-10 17:30:57] [INFO] Inserted page ID 1235
+[2025-11-10 17:30:57] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/the-trick-xsyg2j/
+
+[2025-11-10 17:30:57] [INFO] === ROW 195 ===
+[2025-11-10 17:30:58] [INFO] Inserted show ID 199
+[2025-11-10 17:30:58] [INFO] Inserted video ID 322
+[2025-11-10 17:30:58] [INFO] Inserted page ID 1236
+[2025-11-10 17:30:58] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-1-bf0ja1/
+
+[2025-11-10 17:30:58] [INFO] === ROW 196 ===
+[2025-11-10 17:30:58] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://lite.pbs.org/video/now-and-then-the-last-beatles-song-short-film-wflwzd/ — Not published
+[2025-11-10 17:30:58] [INFO] Inserted page ID 1237
+[2025-11-10 17:30:58] [INFO] SUCCESS — [2023-11-11] Referrer: https://lite.pbs.org/video/now-and-then-the-last-beatles-song-short-film-wflwzd/
+
+[2025-11-10 17:30:58] [INFO] === ROW 197 ===
+[2025-11-10 17:30:58] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/kenburns/country-music — Not published
+[2025-11-10 17:30:58] [INFO] Inserted page ID 1238
+[2025-11-10 17:30:58] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/kenburns/country-music
+
+[2025-11-10 17:30:58] [INFO] === ROW 198 ===
+[2025-11-10 17:30:59] [INFO] Inserted show ID 990
+[2025-11-10 17:30:59] [INFO] Inserted video ID 990
+[2025-11-10 17:30:59] [INFO] Inserted page ID 1239
+[2025-11-10 17:30:59] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/bee-gees-one-night-only-7S9CxZ/
+
+[2025-11-10 17:30:59] [INFO] === ROW 199 ===
+[2025-11-10 17:30:59] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/video/special-guest-char-miller-king-1vnumw/ — Not published
+[2025-11-10 17:30:59] [INFO] Inserted page ID 1240
+[2025-11-10 17:30:59] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/special-guest-char-miller-king-1vnumw/
+
+[2025-11-10 17:30:59] [INFO] === ROW 200 ===
+[2025-11-10 17:30:59] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/video/the-great-14th-tenzin-gyatso-the-14th-dalai-lama-in-his-ow-n7e7vj/ — Not published
+[2025-11-10 17:30:59] [INFO] Inserted page ID 1241
+[2025-11-10 17:30:59] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/the-great-14th-tenzin-gyatso-the-14th-dalai-lama-in-his-ow-n7e7vj/
+
+[2025-11-10 17:30:59] [INFO] === ROW 201 ===
+[2025-11-10 17:31:00] [INFO] Inserted show ID 18
+[2025-11-10 17:31:00] [INFO] Inserted video ID 991
+[2025-11-10 17:31:00] [INFO] Inserted page ID 1242
+[2025-11-10 17:31:00] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/a-coburg-quartet-o2busy/
+
+[2025-11-10 17:31:00] [INFO] === ROW 202 ===
+[2025-11-10 17:31:00] [INFO] Inserted show ID 559
+[2025-11-10 17:31:00] [INFO] Inserted video ID 992
+[2025-11-10 17:31:00] [INFO] Inserted page ID 1243
+[2025-11-10 17:31:00] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/the-national-parks-the-empire-of-grandeur-1915-1919/
+
+[2025-11-10 17:31:00] [INFO] === ROW 203 ===
+[2025-11-10 17:31:01] [INFO] Inserted show ID 198
+[2025-11-10 17:31:01] [INFO] Inserted video ID 993
+[2025-11-10 17:31:01] [INFO] Inserted page ID 1244
+[2025-11-10 17:31:01] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/the-witch-hunts-xkubjt/
+
+[2025-11-10 17:31:01] [INFO] === ROW 204 ===
+[2025-11-10 17:31:01] [INFO] Inserted show ID 24
+[2025-11-10 17:31:01] [INFO] Inserted video ID 986
+[2025-11-10 17:31:01] [INFO] Inserted page ID 1245
+[2025-11-10 17:31:01] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-1-mym3o3/
+
+[2025-11-10 17:31:01] [INFO] === ROW 205 ===
+[2025-11-10 17:31:01] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://video.klrn.org/ — Not found on server
+[2025-11-10 17:31:01] [INFO] Inserted page ID 1246
+[2025-11-10 17:31:01] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.klrn.org/
+
+[2025-11-10 17:31:01] [INFO] === ROW 206 ===
+[2025-11-10 17:31:02] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/kenburns/the-american-buffalo — Not published
+[2025-11-10 17:31:02] [INFO] Inserted page ID 1247
+[2025-11-10 17:31:02] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/kenburns/the-american-buffalo
+
+[2025-11-10 17:31:02] [INFO] === ROW 207 ===
+[2025-11-10 17:31:02] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/video/i-married-the-war-zg7str/ — Not published
+[2025-11-10 17:31:02] [INFO] Inserted page ID 1248
+[2025-11-10 17:31:02] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/i-married-the-war-zg7str/
+
+[2025-11-10 17:31:02] [INFO] === ROW 208 ===
+[2025-11-10 17:31:02] [INFO] Inserted show ID 270
+[2025-11-10 17:31:02] [INFO] Inserted video ID 995
+[2025-11-10 17:31:02] [INFO] Inserted page ID 1249
+[2025-11-10 17:31:02] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.klrn.org/video/message-in-a-bottle-vhfz11/
+
+[2025-11-10 17:31:02] [INFO] === ROW 209 ===
+[2025-11-10 17:31:03] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/kenburns/the-civil-war/ — Not published
+[2025-11-10 17:31:03] [INFO] Inserted page ID 1250
+[2025-11-10 17:31:03] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/kenburns/the-civil-war/
+
+[2025-11-10 17:31:03] [INFO] === ROW 210 ===
+[2025-11-10 17:31:03] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/native-america/seasons/season-1 — Not published
+[2025-11-10 17:31:03] [INFO] Inserted page ID 1251
+[2025-11-10 17:31:03] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/native-america/seasons/season-1
+
+[2025-11-10 17:31:03] [INFO] === ROW 211 ===
+[2025-11-10 17:31:03] [INFO] Inserted show ID 3
+[2025-11-10 17:31:03] [INFO] Inserted video ID 3
+[2025-11-10 17:31:03] [INFO] Inserted page ID 1252
+[2025-11-10 17:31:03] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/episode-1-ifcgdb/
+
+[2025-11-10 17:31:03] [INFO] === ROW 212 ===
+[2025-11-10 17:31:04] [INFO] Inserted show ID 14
+[2025-11-10 17:31:04] [INFO] Inserted video ID 35
+[2025-11-10 17:31:04] [INFO] Inserted page ID 1253
+[2025-11-10 17:31:04] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-1-mtjbs8/
+
+[2025-11-10 17:31:04] [INFO] === ROW 213 ===
+[2025-11-10 17:31:04] [INFO] Inserted show ID 813
+[2025-11-10 17:31:04] [INFO] Inserted video ID 998
+[2025-11-10 17:31:04] [INFO] Inserted page ID 1254
+[2025-11-10 17:31:04] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/old-country-mill-QFAwpS/
+
+[2025-11-10 17:31:04] [INFO] === ROW 214 ===
+[2025-11-10 17:31:04] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://video.klrn.org/ — Not found on server
+[2025-11-10 17:31:04] [INFO] Inserted page ID 1255
+[2025-11-10 17:31:04] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.klrn.org/
+
+[2025-11-10 17:31:04] [INFO] === ROW 215 ===
+[2025-11-10 17:31:05] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/ — Not found on server
+[2025-11-10 17:31:05] [INFO] Inserted page ID 1256
+[2025-11-10 17:31:05] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/
+
+[2025-11-10 17:31:05] [INFO] === ROW 216 ===
+[2025-11-10 17:31:05] [INFO] Inserted show ID 936
+[2025-11-10 17:31:05] [INFO] Inserted video ID 936
+[2025-11-10 17:31:05] [INFO] Inserted page ID 1257
+[2025-11-10 17:31:05] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/barbra-streisand-back-to-brooklyn-rumtnq/
+
+[2025-11-10 17:31:05] [INFO] === ROW 217 ===
+[2025-11-10 17:31:06] [INFO] Inserted show ID 195
+[2025-11-10 17:31:06] [INFO] Inserted video ID 612
+[2025-11-10 17:31:06] [INFO] Inserted page ID 1258
+[2025-11-10 17:31:06] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.klrn.org/video/episode-6-abf2ft/
+
+[2025-11-10 17:31:06] [INFO] === ROW 218 ===
+[2025-11-10 17:31:06] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/video/9-months-made-you-first-8-weeks-full-episode/ — Not published
+[2025-11-10 17:31:06] [INFO] Inserted page ID 1259
+[2025-11-10 17:31:06] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/9-months-made-you-first-8-weeks-full-episode/
+
+[2025-11-10 17:31:06] [INFO] === ROW 219 ===
+[2025-11-10 17:31:06] [INFO] Inserted show ID 949
+[2025-11-10 17:31:06] [INFO] Inserted video ID 949
+[2025-11-10 17:31:06] [INFO] Inserted page ID 1260
+[2025-11-10 17:31:06] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/becoming-frederick-douglass-aie7i4/
+
+[2025-11-10 17:31:06] [INFO] === ROW 220 ===
+[2025-11-10 17:31:07] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/video/big-bend-national-park-1993-ibdqfe/ — Not published
+[2025-11-10 17:31:07] [INFO] Inserted page ID 1261
+[2025-11-10 17:31:07] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/big-bend-national-park-1993-ibdqfe/
+
+[2025-11-10 17:31:07] [INFO] === ROW 221 ===
+[2025-11-10 17:31:07] [INFO] Inserted show ID 1002
+[2025-11-10 17:31:07] [INFO] Inserted video ID 1002
+[2025-11-10 17:31:07] [INFO] Inserted page ID 1262
+[2025-11-10 17:31:07] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/full-episode-all-is-calm-the-christmas-truce-of-1914-zepfsb/
+
+[2025-11-10 17:31:07] [INFO] === ROW 222 ===
+[2025-11-10 17:31:08] [INFO] Inserted show ID 2
+[2025-11-10 17:31:08] [INFO] Inserted video ID 1003
+[2025-11-10 17:31:08] [INFO] Inserted page ID 1263
+[2025-11-10 17:31:08] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/the-war-on-disco-qe827k/
+
+[2025-11-10 17:31:08] [INFO] === ROW 223 ===
+[2025-11-10 17:31:08] [INFO] Inserted show ID 418
+[2025-11-10 17:31:08] [INFO] Inserted video ID 900
+[2025-11-10 17:31:08] [INFO] Inserted page ID 1264
+[2025-11-10 17:31:08] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/war-world-without-war/
+
+[2025-11-10 17:31:08] [INFO] === ROW 224 ===
+[2025-11-10 17:31:08] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/kenburns/the-american-buffalo — Not published
+[2025-11-10 17:31:08] [INFO] Inserted page ID 1265
+[2025-11-10 17:31:08] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/kenburns/the-american-buffalo
+
+[2025-11-10 17:31:08] [INFO] === ROW 225 ===
+[2025-11-10 17:31:09] [INFO] Inserted show ID 1005
+[2025-11-10 17:31:09] [INFO] Inserted video ID 1005
+[2025-11-10 17:31:09] [INFO] Inserted page ID 1266
+[2025-11-10 17:31:09] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-1-xryo50/
+
+[2025-11-10 17:31:09] [INFO] === ROW 226 ===
+[2025-11-10 17:31:09] [INFO] Inserted show ID 125
+[2025-11-10 17:31:09] [INFO] Inserted video ID 1006
+[2025-11-10 17:31:09] [INFO] Inserted page ID 1267
+[2025-11-10 17:31:09] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/american-masters-how-it-feels-to-be-free-zzfh8i/
+
+[2025-11-10 17:31:09] [INFO] === ROW 227 ===
+[2025-11-10 17:31:10] [INFO] Inserted show ID 10
+[2025-11-10 17:31:10] [INFO] Inserted video ID 728
+[2025-11-10 17:31:10] [INFO] Inserted page ID 1268
+[2025-11-10 17:31:10] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/episode-1-8rfhcf/
+
+[2025-11-10 17:31:10] [INFO] === ROW 228 ===
+[2025-11-10 17:31:10] [INFO] Inserted show ID 3
+[2025-11-10 17:31:11] [INFO] Inserted video ID 95
+[2025-11-10 17:31:11] [INFO] Inserted page ID 1269
+[2025-11-10 17:31:11] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/episode-1-sfmbr5/
+
+[2025-11-10 17:31:11] [INFO] === ROW 229 ===
+[2025-11-10 17:31:11] [INFO] Inserted show ID 34
+[2025-11-10 17:31:11] [INFO] Inserted video ID 1009
+[2025-11-10 17:31:12] [INFO] Inserted page ID 1270
+[2025-11-10 17:31:12] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/leon-bridges-khruangbin-2pd6va/
+
+[2025-11-10 17:31:12] [INFO] === ROW 230 ===
+[2025-11-10 17:31:12] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/video/the-dean-martin-and-frank-sinatra-family-christmas-show-sqnpw3/ — Not published
+[2025-11-10 17:31:12] [INFO] Inserted page ID 1271
+[2025-11-10 17:31:12] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/the-dean-martin-and-frank-sinatra-family-christmas-show-sqnpw3/
+
+[2025-11-10 17:31:12] [INFO] === ROW 231 ===
+[2025-11-10 17:31:12] [INFO] Inserted show ID 476
+[2025-11-10 17:31:12] [INFO] Inserted video ID 476
+[2025-11-10 17:31:12] [INFO] Inserted page ID 1272
+[2025-11-10 17:31:12] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-1-cpkedj/
+
+[2025-11-10 17:31:12] [INFO] === ROW 232 ===
+[2025-11-10 17:31:13] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://video.pbs.org/video/lynyrd-skynyrd-celebrating-50-years-ffs5ly/ — Not published
+[2025-11-10 17:31:13] [INFO] Inserted page ID 1273
+[2025-11-10 17:31:13] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/lynyrd-skynyrd-celebrating-50-years-ffs5ly/
+
+[2025-11-10 17:31:13] [INFO] === ROW 233 ===
+[2025-11-10 17:31:13] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/ — Not found on server
+[2025-11-10 17:31:13] [INFO] Inserted page ID 1274
+[2025-11-10 17:31:13] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/
+
+[2025-11-10 17:31:13] [INFO] === ROW 234 ===
+[2025-11-10 17:31:13] [INFO] Inserted show ID 24
+[2025-11-10 17:31:13] [INFO] Inserted video ID 1011
+[2025-11-10 17:31:13] [INFO] Inserted page ID 1275
+[2025-11-10 17:31:13] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.klrn.org/video/episode-2-arabellas-hsmi8w/
+
+[2025-11-10 17:31:13] [INFO] === ROW 235 ===
+[2025-11-10 17:31:14] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/video/episode-1-resilience-aoqnyh/ — Not published
+[2025-11-10 17:31:14] [INFO] Inserted page ID 1276
+[2025-11-10 17:31:14] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/episode-1-resilience-aoqnyh/
+
+[2025-11-10 17:31:14] [INFO] === ROW 236 ===
+[2025-11-10 17:31:14] [INFO] Inserted show ID 10
+[2025-11-10 17:31:14] [INFO] Inserted video ID 644
+[2025-11-10 17:31:14] [INFO] Inserted page ID 1277
+[2025-11-10 17:31:14] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/subterfuges-attnxz/
+
+[2025-11-10 17:31:14] [INFO] === ROW 237 ===
+[2025-11-10 17:31:14] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/kenburns/the-american-buffalo — Not published
+[2025-11-10 17:31:14] [INFO] Inserted page ID 1278
+[2025-11-10 17:31:14] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/kenburns/the-american-buffalo
+
+[2025-11-10 17:31:14] [INFO] === ROW 238 ===
+[2025-11-10 17:31:15] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/video/call-the-midwife-holiday-special-2022-full-episode/ — Not published
+[2025-11-10 17:31:15] [INFO] Inserted page ID 1279
+[2025-11-10 17:31:15] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/call-the-midwife-holiday-special-2022-full-episode/
+
+[2025-11-10 17:31:15] [INFO] === ROW 239 ===
+[2025-11-10 17:31:15] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/video/remember-pearl-harbor-vaqamm/ — Not published
+[2025-11-10 17:31:15] [INFO] Inserted page ID 1280
+[2025-11-10 17:31:15] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/remember-pearl-harbor-vaqamm/
+
+[2025-11-10 17:31:15] [INFO] === ROW 240 ===
+[2025-11-10 17:31:15] [INFO] Inserted show ID 291
+[2025-11-10 17:31:15] [INFO] Inserted video ID 539
+[2025-11-10 17:31:15] [INFO] Inserted page ID 1281
+[2025-11-10 17:31:15] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-3-redemption-in-amsterdam-part-one-8jyumf/
+
+[2025-11-10 17:31:15] [INFO] === ROW 241 ===
+[2025-11-10 17:31:16] [INFO] Inserted show ID 1014
+[2025-11-10 17:31:16] [INFO] Inserted video ID 1014
+[2025-11-10 17:31:16] [INFO] Inserted page ID 1282
+[2025-11-10 17:31:16] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/new-zealand-l4utZ4/
+
+[2025-11-10 17:31:16] [INFO] === ROW 242 ===
+[2025-11-10 17:31:17] [INFO] Inserted show ID 16
+[2025-11-10 17:31:17] [INFO] Inserted video ID 16
+[2025-11-10 17:31:17] [INFO] Inserted page ID 1283
+[2025-11-10 17:31:17] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.klrn.org/video/hemingway-episode-1-writer/
+
+[2025-11-10 17:31:17] [INFO] === ROW 243 ===
+[2025-11-10 17:31:17] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/ — Not found on server
+[2025-11-10 17:31:17] [INFO] Inserted page ID 1284
+[2025-11-10 17:31:17] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/
+
+[2025-11-10 17:31:17] [INFO] === ROW 244 ===
+[2025-11-10 17:31:17] [INFO] Inserted show ID 24
+[2025-11-10 17:31:17] [INFO] Inserted video ID 507
+[2025-11-10 17:31:17] [INFO] Inserted page ID 1285
+[2025-11-10 17:31:17] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/1-tn0ofi/
+
+[2025-11-10 17:31:17] [INFO] === ROW 245 ===
+[2025-11-10 17:31:17] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/video/Call-the-midwife-season-11-holiday-special-2021/ — Not published
+[2025-11-10 17:31:17] [INFO] Inserted page ID 1286
+[2025-11-10 17:31:17] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/Call-the-midwife-season-11-holiday-special-2021/
+
+[2025-11-10 17:31:17] [INFO] === ROW 246 ===
+[2025-11-10 17:31:18] [INFO] Inserted show ID 2
+[2025-11-10 17:31:18] [INFO] Inserted video ID 2
+[2025-11-10 17:31:18] [INFO] Inserted page ID 1287
+[2025-11-10 17:31:18] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/american-experience-rachel-carson/
+
+[2025-11-10 17:31:18] [INFO] === ROW 247 ===
+[2025-11-10 17:31:18] [INFO] Inserted show ID 694
+[2025-11-10 17:31:18] [INFO] Inserted video ID 985
+[2025-11-10 17:31:18] [INFO] Inserted page ID 1288
+[2025-11-10 17:31:18] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/bineshi-kwe-7j9spc/
+
+[2025-11-10 17:31:18] [INFO] === ROW 248 ===
+[2025-11-10 17:31:19] [INFO] Inserted show ID 30
+[2025-11-10 17:31:19] [INFO] Inserted video ID 405
+[2025-11-10 17:31:19] [INFO] Inserted page ID 1289
+[2025-11-10 17:31:19] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/country-roots/
+
+[2025-11-10 17:31:19] [INFO] === ROW 249 ===
+[2025-11-10 17:31:19] [INFO] Inserted show ID 976
+[2025-11-10 17:31:19] [INFO] Inserted video ID 1020
+[2025-11-10 17:31:19] [INFO] Inserted page ID 1290
+[2025-11-10 17:31:19] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/episode-one-j5svvr/
+
+[2025-11-10 17:31:19] [INFO] === ROW 250 ===
+[2025-11-10 17:31:20] [INFO] Inserted show ID 19
+[2025-11-10 17:31:20] [INFO] Inserted video ID 899
+[2025-11-10 17:31:20] [INFO] Inserted page ID 1291
+[2025-11-10 17:31:20] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/santas-wild-home-4t36do/
+
+[2025-11-10 17:31:20] [INFO] === ROW 251 ===
+[2025-11-10 17:31:20] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/ — Not found on server
+[2025-11-10 17:31:20] [INFO] Inserted page ID 1292
+[2025-11-10 17:31:20] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/
+
+[2025-11-10 17:31:20] [INFO] === ROW 252 ===
+[2025-11-10 17:31:20] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://patijinich.com/ — Not found on server
+[2025-11-10 17:31:20] [INFO] Inserted page ID 1293
+[2025-11-10 17:31:20] [INFO] SUCCESS — [2023-11-11] Referrer: https://patijinich.com/
+
+[2025-11-10 17:31:20] [INFO] === ROW 253 ===
+[2025-11-10 17:31:21] [INFO] Inserted show ID 34
+[2025-11-10 17:31:21] [INFO] Inserted video ID 1022
+[2025-11-10 17:31:21] [INFO] Inserted page ID 1294
+[2025-11-10 17:31:21] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/allison-russell-the-weather-station-yappwe/
+
+[2025-11-10 17:31:21] [INFO] === ROW 254 ===
+[2025-11-10 17:31:21] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/video/lynyrd-skynyrd-celebrating-50-years-ffs5ly/ — Not published
+[2025-11-10 17:31:21] [INFO] Inserted page ID 1295
+[2025-11-10 17:31:21] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/lynyrd-skynyrd-celebrating-50-years-ffs5ly/
+
+[2025-11-10 17:31:21] [INFO] === ROW 255 ===
+[2025-11-10 17:31:22] [INFO] Inserted show ID 198
+[2025-11-10 17:31:22] [INFO] Inserted video ID 1023
+[2025-11-10 17:31:22] [INFO] Inserted page ID 1296
+[2025-11-10 17:31:22] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/princes-in-the-tower-vvbety/
+
+[2025-11-10 17:31:22] [INFO] === ROW 256 ===
+[2025-11-10 17:31:22] [INFO] Inserted show ID 195
+[2025-11-10 17:31:22] [INFO] Inserted video ID 195
+[2025-11-10 17:31:22] [INFO] Inserted page ID 1297
+[2025-11-10 17:31:22] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/episode-1-noyiez/
+
+[2025-11-10 17:31:22] [INFO] === ROW 257 ===
+[2025-11-10 17:31:22] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://video.pbs.org/video/now-and-then-the-last-beatles-song-short-film-wflwzd/ — Not published
+[2025-11-10 17:31:22] [INFO] Inserted page ID 1298
+[2025-11-10 17:31:22] [INFO] SUCCESS — [2023-11-11] Referrer: https://video.pbs.org/video/now-and-then-the-last-beatles-song-short-film-wflwzd/
+
+[2025-11-10 17:31:22] [INFO] === ROW 258 ===
+[2025-11-10 17:31:23] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/ — Not found on server
+[2025-11-10 17:31:23] [INFO] Inserted page ID 1299
+[2025-11-10 17:31:23] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/
+
+[2025-11-10 17:31:23] [INFO] === ROW 259 ===
+[2025-11-10 17:31:23] [ERROR] FAILED PBS API — [2023-11-11] Referrer: https://www.pbs.org/video/below-the-belt-the-last-health-taboo-wmzdvy/ — Not published
+[2025-11-10 17:31:23] [INFO] Inserted page ID 1300
+[2025-11-10 17:31:23] [INFO] SUCCESS — [2023-11-11] Referrer: https://www.pbs.org/video/below-the-belt-the-last-health-taboo-wmzdvy/
+
+[2025-11-10 17:31:23] [INFO] === ROW 260 ===
+
+[2025-11-10 17:31:23] [INFO] === SUMMARY ===
+[2025-11-10 17:31:23] [INFO] Total rows: 7041
+[2025-11-10 17:31:23] [INFO] Successful rows: 260
+[2025-11-10 17:31:23] [INFO] Failed PBS calls: 80
+[2025-11-10 17:31:23] [INFO] Failed other calls: 0
+[2025-11-10 17:31:23] [INFO] Peak memory use: 50 MB
+
+[2025-11-10 17:31:23] [ERROR] FATAL ERROR — Maximum execution time of 120 seconds exceeded

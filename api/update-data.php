@@ -16,9 +16,11 @@ $updateDate = date('Y-m-d H:i:s');
 
 //create file logger, and start logging 
 $logger = new Logger(__DIR__ . '/../logs/pbs_api_log.txt');
-$logSuccessCount = 0;
-$logErrorPBSCount = 0;
-$logErrorOtherCount = 0;
+$logSummary = [
+    'success' => 0,
+    'pbsErrors' => 0,
+    'otherErrors' => 0,
+];
 $logger->newLine();
 $logger->info("=== STARTING SYNC for {$updateDate} ===");
 
@@ -37,6 +39,7 @@ print '<br><br>START DATE: '.$startDate;
 print '<br>END DATE: '.$endDate;
 
 $analyticsData = $analytics->getData($startDate, $endDate);
+$logSummary['totalRows'] = count($analyticsData->getRows());
 
 //prepare database insert statements
 $showStatement = $conn->prepare($sql['insert_show']);
@@ -44,7 +47,7 @@ $videoStatement = $conn->prepare($sql['insert_video']);
 $pageStatement = $conn->prepare($sql['insert_page']);
 
 //loop through page analytics results
-foreach ($analyticsData->getRows() as $key => $row) { 
+foreach ($analyticsData->getRows() as $key => $row) {     
     $logger->newLine();
     $logger->info("=== ROW {$key} ===");
 
@@ -63,7 +66,7 @@ foreach ($analyticsData->getRows() as $key => $row) {
         if ($apiError) {
             $pageData['video_api_error'] = $apiError;
             $logger->error("FAILED PBS API — [{$startDate}] Referrer: {$referrer} — {$apiError}");
-            $logErrorPBSCount++;         
+            $logSummary['pbsErrors']++;       
         }
         else {
             //insert prepped show data into database shows table
@@ -115,7 +118,7 @@ foreach ($analyticsData->getRows() as $key => $row) {
         } 
 
         $logger->info("SUCCESS — [{$startDate}] Referrer: {$referrer}");
-        $logSuccessCount++;
+        $logSummary['success']++;
         
         //print prepped results
         $videos->printPreppedData($showData, 'SHOW');
@@ -123,21 +126,12 @@ foreach ($analyticsData->getRows() as $key => $row) {
         $analytics->printPreppedRowData($pageData); 
     } catch (Throwable $e) {
         $logger->error("FAILED OTHER — [{$startDate}] Referrer: {$referrer} — " . $e->getMessage());
-        $logErrorOtherCount++;
+        $logSummary['otherErrors']++;
     }  
 }
 
 //log summary
-$memoryUsed = round(memory_get_peak_usage(true) / 1024 / 1024, 2); // MB
-$totalRows = count($analyticsData->getRows());
-
-$logger->newLine();
-$logger->info("=== SUMMARY ===");
-$logger->info("Total rows: {$totalRows}");
-$logger->info("Successful rows: {$logSuccessCount}");
-$logger->info("Failed PBS calls: {$logErrorPBSCount}");
-$logger->info("Failed other calls: {$logErrorOtherCount}");
-$logger->info("Peak memory use: {$memoryUsed} MB");
+$logger->summary($logSummary);
 $logger->newLine();
 $logger->info("=== FINISHED SYNC for {$updateDate} ===");
 

@@ -24,6 +24,16 @@ $logSummary = [
 $logger->newLine();
 $logger->info("=== STARTING SYNC for {$updateDate} ===");
 
+//register shutdown function
+register_shutdown_function(function() use ($logger, &$logSummary) {
+    $logger->summary($logSummary);
+    $lastError = error_get_last();
+    if ($lastError && $lastError['type'] === E_ERROR) {
+        $logger->newLine();
+        $logger->error('FATAL ERROR — ' . $lastError['message']);
+    }
+});
+
 //start print outputs
 print "<br>START UPDATE: {$updateDate}";
 

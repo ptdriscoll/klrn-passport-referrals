@@ -106,4 +106,41 @@ class Logger {
             @unlink($file);
         }
     }
+
+    /**
+     * Registers a shutdown handler to log fatal errors.
+     *
+     * Logs any fatal error that occurs before script termination.
+     * Optionally executes a user-provided callback, for example
+     * to log a final summary or cleanup before exit.
+     *
+     * @param callable|null $callback
+     *   Optional function to run when a fatal error is detected.
+     *   Receives one argument: the error array from error_get_last().
+     *
+     * Usage example:
+     *   $logger->registerFatalHandler(function($error) use ($logger, $summary) {
+     *       $logger->info('SUMMARY: ' . json_encode($summary));
+     *   });
+     */
+    public function registerFatalHandler(callable $callback=null) {
+        register_shutdown_function(function() use ($callback) {
+            $error = error_get_last();
+            if ($error && in_array($error['type'], [E_ERROR, E_CORE_ERROR, E_COMPILE_ERROR, E_PARSE])) {
+                $this->newLine();
+                $this->error(
+                    'FATAL ERROR — ' . $error['message'] .
+                    ' in ' . $error['file'] . ' on line ' . $error['line']
+                );
+
+                if ($callback) {
+                    try {
+                        call_user_func($callback, $error);
+                    } catch (\Throwable $e) {
+                        $this->error('Error in fatal callback: ' . $e->getMessage());
+                    }
+                }
+            }
+        });
+    }
 }

@@ -69,13 +69,14 @@ foreach ($analyticsData->getRows() as $key => $row) {
         //for each row, prep page analytics data, 
         //then make api call to PBS Media Manager, and prep that data
         $pageData = $analytics->prepRowData($row);
+        $date = $pageData['date'];
         $referrer = $pageData['referrer'];
         $videoRawData = $videos->getData($referrer);
         [$apiError, $videoData, $showData] = $videos->prepData($videoRawData);
 
         if ($apiError) {
             $pageData['video_api_error'] = $apiError;
-            $logger->error("FAILED PBS API — [{$startDate}] Referrer: {$referrer} — {$apiError}");
+            $logger->error("FAILED PBS API — [{$date}] Referrer: {$referrer} — {$apiError}");
             $logSummary['pbsErrors']++;       
         }
         else {
@@ -127,7 +128,7 @@ foreach ($analyticsData->getRows() as $key => $row) {
             $videos->printRawDataRecursively($videoRawData);    
         } 
 
-        $logger->info("SUCCESS — [{$startDate}] Referrer: {$referrer}");
+        $logger->info("SUCCESS — [{$date}] Referrer: {$referrer}");
         $logSummary['success']++;
         
         //print prepped results
@@ -135,7 +136,7 @@ foreach ($analyticsData->getRows() as $key => $row) {
         $videos->printPreppedData($videoData, 'VIDEO');
         $analytics->printPreppedRowData($pageData); 
     } catch (Throwable $e) {
-        $logger->error("FAILED OTHER — [{$startDate}] Referrer: {$referrer} — " . $e->getMessage());
+        $logger->error("FAILED OTHER — [{$date}] Referrer: {$referrer} — " . $e->getMessage());
         $logSummary['otherErrors']++;
     }  
 }

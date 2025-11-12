@@ -131,14 +131,16 @@ foreach ($analyticsData->getRows() as $key => $row) {
         $logger->info("SUCCESS — [{$date}] Referrer: {$referrer}");
         $logSummary['success']++;
         
-        //print prepped results
+        //print prepped show and video results
         $videos->printPreppedData($showData, 'SHOW');
-        $videos->printPreppedData($videoData, 'VIDEO');
-        $analytics->printPreppedRowData($pageData); 
+        $videos->printPreppedData($videoData, 'VIDEO');   
+             
     } catch (Throwable $e) {
         $logger->error("FAILED OTHER — [{$date}] Referrer: {$referrer} — " . $e->getMessage());
         $logSummary['otherErrors']++;
-    }  
+    } 
+    //print prepped page results
+    $analytics->printPreppedRowData($pageData); 
 }
 
 //log summary

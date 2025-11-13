@@ -44,6 +44,7 @@ $videos = new PBSVideosAPI($config);
 //make api call to GA4 analytics
 //dates are inclusive, and in formats YYYY-MM-DD, NdaysAgo, yesterday or today
 $startDate = $analytics->getLastUpdateDay($conn, $config);
+$startDate = '2025-11-12';
 $endDate = 'yesterday';
 print '<br><br>START DATE: '.$startDate;
 print '<br>END DATE: '.$endDate;
@@ -68,6 +69,7 @@ foreach ($analyticsData->getRows() as $key => $row) {
     try {
         //for each row, prep page analytics data, 
         //then make api call to PBS Media Manager, and prep that data
+        //base endpoint: https://media.services.pbs.org/api/v1/assets/{asset_id}/
         $pageData = $analytics->prepRowData($row);
         $date = $pageData['date'];
         $referrer = $pageData['referrer'];

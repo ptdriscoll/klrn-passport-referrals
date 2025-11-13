@@ -73,35 +73,39 @@ foreach ($analyticsData->getRows() as $key => $row) {
         $pageData = $analytics->prepRowData($row);
         $date = $pageData['date'];
         $referrer = $pageData['referrer'];
-        $videoRawData = $videos->getData($referrer);
-        [$apiError, $videoData, $showData] = $videos->prepData($videoRawData);
+        
+        //run video assets through API
+        if (strpos($referrer, '/video/') !== false) {
+            $videoRawData = $videos->getData($referrer);
+            [$apiError, $videoData, $showData] = $videos->prepData($videoRawData);
 
-        if ($apiError) {
-            $pageData['video_api_error'] = $apiError;
-            $logger->error("FAILED PBS API — [{$date}] Referrer: {$referrer} — {$apiError}");
-            $logSummary['pbsErrors']++;       
-        }
-        else {
-            //insert prepped show data into database shows table
-            $showDataValues = array_values($showData);
-            $showStatement->bind_param($sql['insert_show_types'], ...$showDataValues);
-            if ($showStatement->execute()) {
-                $shows_id = $conn->insert_id; 
-                $logger->info("Inserted show ID {$shows_id}");
-            }            
-            
-            //insert prepped video data into database shows table
-            $videoData['shows_id'] = $shows_id; //reset from null
-            $videoDataValues = array_values($videoData); 
-            $videoStatement->bind_param($sql['insert_video_types'], ...$videoDataValues);
-            if ($videoStatement->execute()) {
-                $videos_id = $conn->insert_id; 
-                $logger->info("Inserted video ID {$videos_id}");
+            if ($apiError) {
+                $pageData['video_api_error'] = $apiError;
+                $logger->error("FAILED PBS API — [{$date}] Referrer: {$referrer} — {$apiError}");
+                $logSummary['pbsErrors']++;       
             }
-            
-            //reset videos_id in $pageData from null
-            $pageData['videos_id'] = $videos_id; 
-        }
+            else {
+                //insert prepped show data into database shows table
+                $showDataValues = array_values($showData);
+                $showStatement->bind_param($sql['insert_show_types'], ...$showDataValues);
+                if ($showStatement->execute()) {
+                    $shows_id = $conn->insert_id; 
+                    $logger->info("Inserted show ID {$shows_id}");
+                }            
+                
+                //insert prepped video data into database shows table
+                $videoData['shows_id'] = $shows_id; //reset from null
+                $videoDataValues = array_values($videoData); 
+                $videoStatement->bind_param($sql['insert_video_types'], ...$videoDataValues);
+                if ($videoStatement->execute()) {
+                    $videos_id = $conn->insert_id; 
+                    $logger->info("Inserted video ID {$videos_id}");
+                }
+                
+                //reset videos_id in $pageData from null
+                $pageData['videos_id'] = $videos_id; 
+            }
+        }    
 
         //insert prepped page analytics data into database pages table    
         $pageDataValues = array_values($pageData);
@@ -134,8 +138,8 @@ foreach ($analyticsData->getRows() as $key => $row) {
         $logSummary['success']++;
         
         //print prepped show and video results
-        $videos->printPreppedData($showData, 'SHOW');
-        $videos->printPreppedData($videoData, 'VIDEO');   
+        $videos->printPreppedData($showData ?? [], 'SHOW');
+        $videos->printPreppedData($videoData ?? [], 'VIDEO');   
              
     } catch (Throwable $e) {
         $logger->error("FAILED OTHER — [{$date}] Referrer: {$referrer} — " . $e->getMessage());

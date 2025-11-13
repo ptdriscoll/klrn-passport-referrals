@@ -44,7 +44,6 @@ $videos = new PBSVideosAPI($config);
 //make api call to GA4 analytics
 //dates are inclusive, and in formats YYYY-MM-DD, NdaysAgo, yesterday or today
 $startDate = $analytics->getLastUpdateDay($conn, $config);
-$startDate = '2025-11-12';
 $endDate = 'yesterday';
 print '<br><br>START DATE: '.$startDate;
 print '<br>END DATE: '.$endDate;

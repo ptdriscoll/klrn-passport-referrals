@@ -74,7 +74,8 @@ class Logger {
      * Example output:
      * [2025-11-10 12:01:19] [INFO] === SUMMARY ===
      * [2025-11-10 12:01:19] [INFO] Total rows: 384
-     * [2025-11-10 12:01:19] [INFO] Successful rows: 375
+     * [2025-11-10 12:01:19] [INFO] Successful videos: 206
+     * [2025-11-10 12:01:19] [INFO] Successful rows: 375     
      * [2025-11-10 12:01:19] [INFO] Failed PBS calls: 169
      * [2025-11-10 12:01:19] [INFO] Failed other calls: 9
      * [2025-11-10 12:01:19] [INFO] Peak memory use: 8 MB
@@ -82,7 +83,8 @@ class Logger {
      * @param array $summaryData
      *   Associative array containing summary counts:
      *     - 'totalRows' => int (optional)
-     *     - 'success' => int
+     *     - 'successVideos' => int     
+     *     - 'successRows' => int
      *     - 'pbsErrors' => int
      *     - 'otherErrors' => int
      */
@@ -92,7 +94,8 @@ class Logger {
         $this->newLine();
         $this->info('=== SUMMARY ===');
         $this->info('Total rows: ' . ($summaryData['totalRows'] ?? 'not set'));
-        $this->info('Successful rows: ' . ($summaryData['success'] ?? 0));
+        $this->info('Successful videos: ' . ($summaryData['successVideos'] ?? 0));
+        $this->info('Successful rows: ' . ($summaryData['successRows'] ?? 0));        
         $this->info('Failed PBS calls: ' . ($summaryData['pbsErrors'] ?? 0));
         $this->info('Failed other calls: ' . ($summaryData['otherErrors'] ?? 0));
         $this->info('Peak memory use: ' . $memoryUsed . ' MB');

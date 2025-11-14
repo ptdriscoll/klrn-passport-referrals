@@ -17,7 +17,8 @@ $updateDate = date('Y-m-d H:i:s');
 //create file logger, and start logging 
 $logger = new Logger(__DIR__ . '/../logs/pbs_api_log.txt');
 $logSummary = [
-    'success' => 0,
+    'successVideos' => 0,
+    'successRows' => 0,
     'pbsErrors' => 0,
     'otherErrors' => 0,
 ];
@@ -90,6 +91,7 @@ foreach ($analyticsData->getRows() as $key => $row) {
                 if ($showStatement->execute()) {
                     $shows_id = $conn->insert_id; 
                     $logger->info("Inserted show ID {$shows_id}");
+                    $logSummary['successVideos']++;
                 }            
                 
                 //insert prepped video data into database shows table
@@ -134,7 +136,7 @@ foreach ($analyticsData->getRows() as $key => $row) {
         } 
 
         $logger->info("SUCCESS — [{$date}] Referrer: {$referrer}");
-        $logSummary['success']++;
+        $logSummary['successRows']++;
         
         //print prepped show and video results
         $videos->printPreppedData($showData ?? [], 'SHOW');

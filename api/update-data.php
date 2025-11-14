@@ -93,8 +93,7 @@ foreach ($analyticsData->getRows() as $key => $row) {
                   $showStatement->bind_param($sql['insert_show_types'], ...$showDataValues);
                   if ($showStatement->execute()) {
                       $shows_id = $conn->insert_id; 
-                      $logger->info("Inserted show ID {$shows_id}");
-                      $logSummary['successVideos']++;
+                      $logger->info("Inserted show ID {$shows_id}");                      
                   }
                 }                
                 
@@ -105,6 +104,7 @@ foreach ($analyticsData->getRows() as $key => $row) {
                 if ($videoStatement->execute()) {
                     $videos_id = $conn->insert_id; 
                     $logger->info("Inserted video ID {$videos_id}");
+                    $logSummary['successVideos']++;
                 }
                 
                 //reset videos_id in $pageData from null

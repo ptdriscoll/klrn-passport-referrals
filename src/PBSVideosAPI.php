@@ -94,6 +94,7 @@ class PBSVideosAPI {
      */
     function prepData($data) {
         $apiError = NULL;
+        $showResult = NULL;
         
         if (array_key_first($data) === 'errors') {
             $response = $data['errors']['response'];

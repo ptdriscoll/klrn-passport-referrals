@@ -77,6 +77,7 @@ foreach ($analyticsData->getRows() as $key => $row) {
         
         //run video assets through API
         if (strpos($referrer, '/video/') !== false) {
+            $shows_id = null;
             $videoRawData = $videos->getData($referrer);
             [$apiError, $videoData, $showData] = $videos->prepData($videoRawData);
 
@@ -86,17 +87,19 @@ foreach ($analyticsData->getRows() as $key => $row) {
                 $logSummary['pbsErrors']++;       
             }
             else {
-                //insert prepped show data into database shows table
-                $showDataValues = array_values($showData);
-                $showStatement->bind_param($sql['insert_show_types'], ...$showDataValues);
-                if ($showStatement->execute()) {
-                    $shows_id = $conn->insert_id; 
-                    $logger->info("Inserted show ID {$shows_id}");
-                    $logSummary['successVideos']++;
-                }            
+                //if there is prepped show data, insert into database shows table
+                if ($showData !== null) {                  
+                  $showDataValues = array_values($showData);
+                  $showStatement->bind_param($sql['insert_show_types'], ...$showDataValues);
+                  if ($showStatement->execute()) {
+                      $shows_id = $conn->insert_id; 
+                      $logger->info("Inserted show ID {$shows_id}");
+                      $logSummary['successVideos']++;
+                  }
+                }                
                 
                 //insert prepped video data into database shows table
-                $videoData['shows_id'] = $shows_id; //reset from null
+                $videoData['shows_id'] = $shows_id; //if show was inserted, reset id from null
                 $videoDataValues = array_values($videoData); 
                 $videoStatement->bind_param($sql['insert_video_types'], ...$videoDataValues);
                 if ($videoStatement->execute()) {

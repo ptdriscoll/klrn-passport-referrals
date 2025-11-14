@@ -1,343 +1,343 @@
 
-[2025-11-14 13:53:23] [INFO] === STARTING SYNC for 2025-11-14 13:53:23 ===
-
-[2025-11-14 13:53:23] [INFO] === ROW 0 ===
-[2025-11-14 13:53:23] [INFO] Inserted page ID 1789
-[2025-11-14 13:53:23] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/passport/learn-more/
-
-[2025-11-14 13:53:23] [INFO] === ROW 1 ===
-[2025-11-14 13:53:24] [INFO] Inserted show ID 1380
-[2025-11-14 13:53:24] [INFO] Inserted video ID 1380
-[2025-11-14 13:53:24] [INFO] Inserted page ID 1790
-[2025-11-14 13:53:24] [INFO] SUCCESS — [2025-11-13] Referrer: https://www.pbs.org/video/robert-glaspers-black-radio-w9qtcr/
-
-[2025-11-14 13:53:24] [INFO] === ROW 2 ===
-[2025-11-14 13:53:24] [INFO] Inserted page ID 1791
-[2025-11-14 13:53:24] [INFO] SUCCESS — [2025-11-13] Referrer: https://www.pbs.org/
-
-[2025-11-14 13:53:24] [INFO] === ROW 3 ===
-[2025-11-14 13:53:24] [INFO] Inserted show ID 1381
-[2025-11-14 13:53:24] [INFO] Inserted video ID 1381
-[2025-11-14 13:53:24] [INFO] Inserted page ID 1792
-[2025-11-14 13:53:24] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/nine-parts-H00Ujv/
-
-[2025-11-14 13:53:24] [INFO] === ROW 4 ===
-[2025-11-14 13:53:25] [INFO] Inserted show ID 1277
-[2025-11-14 13:53:25] [INFO] Inserted video ID 1382
-[2025-11-14 13:53:25] [INFO] Inserted page ID 1793
-[2025-11-14 13:53:25] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/the-story-innovation-z1rlol/
-
-[2025-11-14 13:53:25] [INFO] === ROW 5 ===
-[2025-11-14 13:53:25] [INFO] Inserted page ID 1794
-[2025-11-14 13:53:25] [INFO] SUCCESS — [2025-11-13] Referrer: https://www.pbs.org/settings/
-
-[2025-11-14 13:53:25] [INFO] === ROW 6 ===
-[2025-11-14 13:53:25] [INFO] Inserted page ID 1795
-[2025-11-14 13:53:25] [INFO] SUCCESS — [2025-11-13] Referrer: https://www.pbs.org/passport/learn-more/
-
-[2025-11-14 13:53:25] [INFO] === ROW 7 ===
-[2025-11-14 13:53:25] [INFO] Inserted show ID 1383
-[2025-11-14 13:53:25] [INFO] Inserted video ID 1383
-[2025-11-14 13:53:25] [INFO] Inserted page ID 1796
-[2025-11-14 13:53:25] [INFO] SUCCESS — [2025-11-13] Referrer: http://video.klrn.org/video/east-lake-meadows-full-film/
-
-[2025-11-14 13:53:25] [INFO] === ROW 8 ===
-[2025-11-14 13:53:25] [INFO] Inserted page ID 1797
-[2025-11-14 13:53:25] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/show/austin-city-limits/specials/
-
-[2025-11-14 13:53:25] [INFO] === ROW 9 ===
-[2025-11-14 13:53:25] [INFO] Inserted page ID 1798
-[2025-11-14 13:53:25] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/show/beecham-house/specials/
-
-[2025-11-14 13:53:25] [INFO] === ROW 10 ===
-[2025-11-14 13:53:25] [INFO] Inserted page ID 1799
-[2025-11-14 13:53:25] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/show/before-we-die/
-
-[2025-11-14 13:53:25] [INFO] === ROW 11 ===
-[2025-11-14 13:53:25] [INFO] Inserted page ID 1800
-[2025-11-14 13:53:25] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/show/inside-met/collections/
-
-[2025-11-14 13:53:25] [INFO] === ROW 12 ===
-[2025-11-14 13:53:25] [INFO] Inserted page ID 1801
-[2025-11-14 13:53:25] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/show/muhammad-ali/specials/
-
-[2025-11-14 13:53:25] [INFO] === ROW 13 ===
-[2025-11-14 13:53:25] [INFO] Inserted page ID 1802
-[2025-11-14 13:53:25] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/show/rfds-royal-flying-doctor-service/collections/
-
-[2025-11-14 13:53:25] [INFO] === ROW 14 ===
-[2025-11-14 13:53:25] [INFO] Inserted page ID 1803
-[2025-11-14 13:53:25] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/show/steven-raichlens-project-fire/specials/
-
-[2025-11-14 13:53:25] [INFO] === ROW 15 ===
-[2025-11-14 13:53:25] [INFO] Inserted page ID 1804
-[2025-11-14 13:53:25] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/show/vietnam-war/episodes/season/1
-
-[2025-11-14 13:53:25] [INFO] === ROW 16 ===
-[2025-11-14 13:53:26] [INFO] Inserted show ID 1384
-[2025-11-14 13:53:26] [INFO] Inserted video ID 1384
-[2025-11-14 13:53:26] [INFO] Inserted page ID 1805
-[2025-11-14 13:53:26] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/2021-hyundai-elantra-n-line-2021-dodge-charger-srt-hellcat-w9pgzg/
-
-[2025-11-14 13:53:26] [INFO] === ROW 17 ===
-[2025-11-14 13:53:26] [ERROR] FAILED PBS API — [2025-11-13] Referrer: https://video.klrn.org/video/albina-vision-series-brgqa0/ — Not published
-[2025-11-14 13:53:26] [INFO] Inserted page ID 1806
-[2025-11-14 13:53:26] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/albina-vision-series-brgqa0/
-
-[2025-11-14 13:53:26] [INFO] === ROW 18 ===
-[2025-11-14 13:53:27] [INFO] Inserted show ID 163
-[2025-11-14 13:53:27] [INFO] Inserted video ID 1385
-[2025-11-14 13:53:27] [INFO] Inserted page ID 1807
-[2025-11-14 13:53:27] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/antiques-roadshow-appraisal-traveling-puppet-show-ca-1875/
-
-[2025-11-14 13:53:27] [INFO] === ROW 19 ===
-[2025-11-14 13:53:27] [INFO] Inserted show ID 19
-[2025-11-14 13:53:27] [INFO] Inserted video ID 1386
-[2025-11-14 13:53:27] [INFO] Inserted page ID 1808
-[2025-11-14 13:53:27] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/can-goats-predict-volcanic-eruptions-am18t0/
-
-[2025-11-14 13:53:27] [INFO] === ROW 20 ===
-[2025-11-14 13:53:28] [INFO] Inserted show ID 1280
-[2025-11-14 13:53:28] [INFO] Inserted video ID 1387
-[2025-11-14 13:53:28] [INFO] Inserted page ID 1809
-[2025-11-14 13:53:28] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/can-we-hear-shapes-kvtxli/
-
-[2025-11-14 13:53:28] [INFO] === ROW 21 ===
-[2025-11-14 13:53:28] [INFO] Inserted show ID 354
-[2025-11-14 13:53:28] [INFO] Inserted video ID 1388
-[2025-11-14 13:53:28] [INFO] Inserted page ID 1810
-[2025-11-14 13:53:28] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/colin-hanks-explores-john-candys-life-in-new-documentary-jrvzzu/
-
-[2025-11-14 13:53:28] [INFO] === ROW 22 ===
-[2025-11-14 13:53:28] [ERROR] FAILED PBS API — [2025-11-13] Referrer: https://video.klrn.org/video/episode-2-b4Ppfq/ — Not published
-[2025-11-14 13:53:28] [INFO] Inserted page ID 1811
-[2025-11-14 13:53:28] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/episode-2-b4Ppfq/
-
-[2025-11-14 13:53:28] [INFO] === ROW 23 ===
-[2025-11-14 13:53:29] [INFO] Inserted show ID 3
-[2025-11-14 13:53:29] [INFO] Inserted video ID 933
-[2025-11-14 13:53:29] [INFO] Inserted page ID 1812
-[2025-11-14 13:53:29] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/episode-4-oyjfer/
-
-[2025-11-14 13:53:29] [INFO] === ROW 24 ===
-[2025-11-14 13:53:30] [INFO] Inserted show ID 1390
-[2025-11-14 13:53:30] [INFO] Inserted video ID 1390
-[2025-11-14 13:53:30] [INFO] Inserted page ID 1813
-[2025-11-14 13:53:30] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/episode-5-oonvwo/
-
-[2025-11-14 13:53:30] [INFO] === ROW 25 ===
-[2025-11-14 13:53:30] [INFO] Inserted show ID 1255
-[2025-11-14 13:53:30] [INFO] Inserted video ID 1391
-[2025-11-14 13:53:30] [INFO] Inserted page ID 1814
-[2025-11-14 13:53:30] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/feb-11-2021-handling-a-growing-homeless-population-ozc9qv/
-
-[2025-11-14 13:53:30] [INFO] === ROW 26 ===
-[2025-11-14 13:53:31] [INFO] Inserted show ID 270
-[2025-11-14 13:53:31] [INFO] Inserted video ID 1392
-[2025-11-14 13:53:31] [INFO] Inserted page ID 1815
-[2025-11-14 13:53:31] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/getting-jazzed-broadways-best-sound-music-gdfq4v/
-
-[2025-11-14 13:53:31] [INFO] === ROW 27 ===
-[2025-11-14 13:53:31] [INFO] Inserted show ID 1393
-[2025-11-14 13:53:31] [INFO] Inserted video ID 1393
-[2025-11-14 13:53:31] [INFO] Inserted page ID 1816
-[2025-11-14 13:53:31] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/klrn-arts-july-24-2015-susan-budge-and-her-contributions-art/
-
-[2025-11-14 13:53:31] [INFO] === ROW 28 ===
-[2025-11-14 13:53:31] [ERROR] FAILED PBS API — [2025-11-13] Referrer: https://video.klrn.org/video/live-lincoln-center-4302-wfu0ji/ — Not published
-[2025-11-14 13:53:31] [INFO] Inserted page ID 1817
-[2025-11-14 13:53:31] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/live-lincoln-center-4302-wfu0ji/
-
-[2025-11-14 13:53:31] [INFO] === ROW 29 ===
-[2025-11-14 13:53:32] [INFO] Inserted show ID 163
-[2025-11-14 13:53:32] [INFO] Inserted video ID 1394
-[2025-11-14 13:53:32] [INFO] Inserted page ID 1818
-[2025-11-14 13:53:32] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/lsu-rural-life-museum-hour-3-cztoeh/
-
-[2025-11-14 13:53:32] [INFO] === ROW 30 ===
-[2025-11-14 13:53:32] [ERROR] FAILED PBS API — [2025-11-13] Referrer: https://video.klrn.org/video/march-23-2020-pbs-newshour-full-episode-1584946802/extras/ — Not published
-[2025-11-14 13:53:32] [INFO] Inserted page ID 1819
-[2025-11-14 13:53:32] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/march-23-2020-pbs-newshour-full-episode-1584946802/extras/
-
-[2025-11-14 13:53:32] [INFO] === ROW 31 ===
-[2025-11-14 13:53:32] [INFO] Inserted show ID 354
-[2025-11-14 13:53:32] [INFO] Inserted video ID 1395
-[2025-11-14 13:53:32] [INFO] Inserted page ID 1820
-[2025-11-14 13:53:32] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/october-21-2025-u4slng/
-
-[2025-11-14 13:53:32] [INFO] === ROW 32 ===
-[2025-11-14 13:53:33] [INFO] Inserted show ID 163
-[2025-11-14 13:53:33] [INFO] Inserted video ID 1396
-[2025-11-14 13:53:33] [INFO] Inserted page ID 1821
-[2025-11-14 13:53:33] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/out-of-this-world-lhfxqf/
-
-[2025-11-14 13:53:33] [INFO] === ROW 33 ===
-[2025-11-14 13:53:33] [INFO] Inserted show ID 1268
-[2025-11-14 13:53:33] [INFO] Inserted video ID 1397
-[2025-11-14 13:53:33] [INFO] Inserted page ID 1822
-[2025-11-14 13:53:34] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/pov-storycorps-shorts-family-man/
-
-[2025-11-14 13:53:34] [INFO] === ROW 34 ===
-[2025-11-14 13:53:34] [ERROR] FAILED PBS API — [2025-11-13] Referrer: https://video.klrn.org/video/race-matters-america-after-george-floyd-uciahy/extras/ — Not published
-[2025-11-14 13:53:34] [INFO] Inserted page ID 1823
-[2025-11-14 13:53:34] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/race-matters-america-after-george-floyd-uciahy/extras/
-
-[2025-11-14 13:53:34] [INFO] === ROW 35 ===
-[2025-11-14 13:53:34] [ERROR] FAILED PBS API — [2025-11-13] Referrer: https://video.klrn.org/video/sandra-day-oconnor-the-first-lrdgwj/extras/ — Not published
-[2025-11-14 13:53:34] [INFO] Inserted page ID 1824
-[2025-11-14 13:53:34] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/sandra-day-oconnor-the-first-lrdgwj/extras/
-
-[2025-11-14 13:53:34] [INFO] === ROW 36 ===
-[2025-11-14 13:53:34] [INFO] Inserted show ID 1268
-[2025-11-14 13:53:34] [INFO] Inserted video ID 1398
-[2025-11-14 13:53:34] [INFO] Inserted page ID 1825
-[2025-11-14 13:53:34] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/season-3-behind-the-scenes-34reok/
-
-[2025-11-14 13:53:34] [INFO] === ROW 37 ===
-[2025-11-14 13:53:35] [ERROR] FAILED PBS API — [2025-11-13] Referrer: https://video.klrn.org/video/september-4-2025-f5rs72/ — Not published
-[2025-11-14 13:53:35] [INFO] Inserted page ID 1826
-[2025-11-14 13:53:35] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/september-4-2025-f5rs72/
-
-[2025-11-14 13:53:35] [INFO] === ROW 38 ===
-[2025-11-14 13:53:35] [ERROR] FAILED PBS API — [2025-11-13] Referrer: https://video.klrn.org/video/september-4-2025-f5rs72/ — Not published
-[2025-11-14 13:53:35] [INFO] Inserted page ID 1827
-[2025-11-14 13:53:35] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/september-4-2025-f5rs72/
-
-[2025-11-14 13:53:35] [INFO] === ROW 39 ===
-[2025-11-14 13:53:35] [ERROR] FAILED PBS API — [2025-11-13] Referrer: https://video.klrn.org/video/the-20-year-anniversary-of-september-11-csxrpn/extras/ — Not published
-[2025-11-14 13:53:35] [INFO] Inserted page ID 1828
-[2025-11-14 13:53:35] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/the-20-year-anniversary-of-september-11-csxrpn/extras/
-
-[2025-11-14 13:53:35] [INFO] === ROW 40 ===
-[2025-11-14 13:53:35] [INFO] Inserted show ID 1399
-[2025-11-14 13:53:35] [INFO] Inserted video ID 1399
-[2025-11-14 13:53:35] [INFO] Inserted page ID 1829
-[2025-11-14 13:53:35] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/us-vs-them-2t0c0s/
-
-[2025-11-14 13:53:35] [INFO] === ROW 41 ===
-[2025-11-14 13:53:35] [INFO] Inserted page ID 1830
-[2025-11-14 13:53:35] [INFO] SUCCESS — [2025-11-13] Referrer: https://www.pbs.org/my-station/
-
-[2025-11-14 13:53:35] [INFO] === ROW 42 ===
-[2025-11-14 13:53:35] [INFO] Inserted page ID 1831
-[2025-11-14 13:53:35] [INFO] SUCCESS — [2025-11-13] Referrer: https://www.pbs.org/shows/
-
-[2025-11-14 13:53:35] [INFO] === ROW 43 ===
-[2025-11-14 13:53:36] [INFO] Inserted show ID 290
-[2025-11-14 13:53:36] [INFO] Inserted video ID 290
-[2025-11-14 13:53:36] [INFO] Inserted page ID 1832
-[2025-11-14 13:53:36] [INFO] SUCCESS — [2025-11-13] Referrer: https://www.pbs.org/video/episode-1-join-or-die-1706-1774-8ssna3/
-
-[2025-11-14 13:53:36] [INFO] === ROW 44 ===
-[2025-11-14 13:53:36] [INFO] Inserted page ID 1833
-[2025-11-14 13:53:36] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/passport/learn-more/
-
-[2025-11-14 13:53:36] [INFO] === ROW 45 ===
-[2025-11-14 13:53:36] [INFO] Inserted page ID 1833
-[2025-11-14 13:53:36] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/passport/learn-more/
-
-[2025-11-14 13:53:36] [INFO] === ROW 46 ===
-[2025-11-14 13:53:36] [INFO] Inserted page ID 1835
-[2025-11-14 13:53:36] [INFO] SUCCESS — [2025-11-13] Referrer: https://www.pbs.org/explore/passport/
-
-[2025-11-14 13:53:36] [INFO] === ROW 47 ===
-[2025-11-14 13:53:37] [INFO] Inserted show ID 240
-[2025-11-14 13:53:37] [INFO] Inserted video ID 1401
-[2025-11-14 13:53:37] [INFO] Inserted page ID 1836
-[2025-11-14 13:53:37] [INFO] SUCCESS — [2025-11-13] Referrer: https://www.pbs.org/video/language-is-life-lv0qaq/
-
-[2025-11-14 13:53:37] [INFO] === ROW 48 ===
-[2025-11-14 13:53:37] [INFO] Inserted show ID 1402
-[2025-11-14 13:53:37] [INFO] Inserted video ID 1402
-[2025-11-14 13:53:37] [INFO] Inserted page ID 1837
-[2025-11-14 13:53:37] [INFO] SUCCESS — [2025-11-13] Referrer: https://www.pbs.org/video/masterpiece-mr-selfridge-episode-1/
-
-[2025-11-14 13:53:37] [INFO] === ROW 49 ===
-[2025-11-14 13:53:38] [INFO] Inserted show ID 389
-[2025-11-14 13:53:38] [INFO] Inserted video ID 389
-[2025-11-14 13:53:38] [INFO] Inserted page ID 1838
-[2025-11-14 13:53:38] [INFO] SUCCESS — [2025-11-13] Referrer: https://www.pbs.org/video/part-1-our-game-c6e5nn/
-
-[2025-11-14 13:53:38] [INFO] === ROW 50 ===
-[2025-11-14 13:53:38] [ERROR] FAILED PBS API — [2025-11-13] Referrer: https://www.pbs.org/video/paul-joseph-chief-meteorologist-vhmfrd/ — Not published
-[2025-11-14 13:53:38] [INFO] Inserted page ID 1839
-[2025-11-14 13:53:38] [INFO] SUCCESS — [2025-11-13] Referrer: https://www.pbs.org/video/paul-joseph-chief-meteorologist-vhmfrd/
-
-[2025-11-14 13:53:38] [INFO] === ROW 51 ===
-[2025-11-14 13:53:38] [INFO] Inserted show ID 241
-[2025-11-14 13:53:38] [INFO] Inserted video ID 395
-[2025-11-14 13:53:38] [INFO] Inserted page ID 1840
-[2025-11-14 13:53:38] [INFO] SUCCESS — [2025-11-13] Referrer: https://www.pbs.org/video/the-civil-war-the-cause/
-
-[2025-11-14 13:53:38] [INFO] === ROW 52 ===
-[2025-11-14 13:53:39] [INFO] Inserted show ID 34
-[2025-11-14 13:53:39] [INFO] Inserted video ID 1405
-[2025-11-14 13:53:39] [INFO] Inserted page ID 1841
-[2025-11-14 13:53:39] [INFO] SUCCESS — [2025-11-13] Referrer: https://www.pbs.org/video/the-marias-iahpyc/
-
-[2025-11-14 13:53:39] [INFO] === ROW 53 ===
-[2025-11-14 13:53:39] [INFO] Inserted page ID 1842
-[2025-11-14 13:53:39] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/show/nature/collections/super-cats/
-
-[2025-11-14 13:53:39] [INFO] === ROW 54 ===
-[2025-11-14 13:53:39] [INFO] Inserted page ID 1843
-[2025-11-14 13:53:39] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/show/pbs-online-film-festival/collections/
-
-[2025-11-14 13:53:39] [INFO] === ROW 55 ===
-[2025-11-14 13:53:39] [INFO] Inserted page ID 1844
-[2025-11-14 13:53:39] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/show/the-mayo-clinic/episodes/
-
-[2025-11-14 13:53:39] [INFO] === ROW 56 ===
-[2025-11-14 13:53:39] [ERROR] FAILED PBS API — [2025-11-13] Referrer: https://video.klrn.org/video/adagio-symphony-no-2-6mghok/ — Not published
-[2025-11-14 13:53:39] [INFO] Inserted page ID 1845
-[2025-11-14 13:53:39] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/adagio-symphony-no-2-6mghok/
-
-[2025-11-14 13:53:39] [INFO] === ROW 57 ===
-[2025-11-14 13:53:40] [INFO] Inserted show ID 683
-[2025-11-14 13:53:40] [INFO] Inserted video ID 1406
-[2025-11-14 13:53:40] [INFO] Inserted page ID 1846
-[2025-11-14 13:53:40] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/america-reframed-kid-candidate-progress-is-my-platform/
-
-[2025-11-14 13:53:40] [INFO] === ROW 58 ===
-[2025-11-14 13:53:40] [INFO] Inserted show ID 2
-[2025-11-14 13:53:40] [INFO] Inserted video ID 1407
-[2025-11-14 13:53:40] [INFO] Inserted page ID 1847
-[2025-11-14 13:53:40] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/chapter-1-american-diplomat/
-
-[2025-11-14 13:53:40] [INFO] === ROW 59 ===
-[2025-11-14 13:53:41] [INFO] Inserted show ID 1384
-[2025-11-14 13:53:41] [INFO] Inserted video ID 1408
-[2025-11-14 13:53:41] [INFO] Inserted page ID 1848
-[2025-11-14 13:53:41] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/entry-level-ev-roundup-2021-bmw-x5-xdrive45e-dap4li/
-
-[2025-11-14 13:53:41] [INFO] === ROW 60 ===
-[2025-11-14 13:53:41] [INFO] Inserted show ID 1231
-[2025-11-14 13:53:41] [INFO] Inserted video ID 1409
-[2025-11-14 13:53:41] [INFO] Inserted page ID 1849
-[2025-11-14 13:53:41] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/new-film-explores-use-of-psychedelics-to-treat-combat-ptsd-1762121158/
-
-[2025-11-14 13:53:41] [INFO] === ROW 61 ===
-[2025-11-14 13:53:42] [INFO] Inserted show ID 19
-[2025-11-14 13:53:42] [INFO] Inserted video ID 1410
-[2025-11-14 13:53:42] [INFO] Inserted page ID 1850
-[2025-11-14 13:53:42] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/preview-alps-winters-fortress-smhxv8/
-
-[2025-11-14 13:53:42] [INFO] === ROW 62 ===
-[2025-11-14 13:53:42] [ERROR] FAILED PBS API — [2025-11-13] Referrer: https://video.klrn.org/video/sandra-day-oconnor-the-first-lrdgwj/extras/ — Not published
-[2025-11-14 13:53:42] [INFO] Inserted page ID 1851
-[2025-11-14 13:53:42] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/sandra-day-oconnor-the-first-lrdgwj/extras/
-
-[2025-11-14 13:53:42] [INFO] === ROW 63 ===
-[2025-11-14 13:53:42] [ERROR] FAILED PBS API — [2025-11-13] Referrer: https://video.klrn.org/video/south-dakota-documentaries-piece-heaven-brief-history-mickelson-trail/ — Not published
-[2025-11-14 13:53:42] [INFO] Inserted page ID 1852
-[2025-11-14 13:53:42] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/south-dakota-documentaries-piece-heaven-brief-history-mickelson-trail/
-
-[2025-11-14 13:53:42] [INFO] === SUMMARY ===
-[2025-11-14 13:53:42] [INFO] Total rows: 64
-[2025-11-14 13:53:42] [INFO] Successful videos: 31
-[2025-11-14 13:53:42] [INFO] Successful rows: 64
-[2025-11-14 13:53:42] [INFO] Failed PBS calls: 13
-[2025-11-14 13:53:42] [INFO] Failed other calls: 0
-[2025-11-14 13:53:42] [INFO] Peak memory use: 6 MB
-
-[2025-11-14 13:53:42] [INFO] === FINISHED SYNC for 2025-11-14 13:53:23 ===
+[2025-11-14 16:50:25] [INFO] === STARTING SYNC for 2025-11-14 16:50:25 ===
+
+[2025-11-14 16:50:25] [INFO] === ROW 0 ===
+[2025-11-14 16:50:25] [INFO] Inserted page ID 1789
+[2025-11-14 16:50:25] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/passport/learn-more/
+
+[2025-11-14 16:50:25] [INFO] === ROW 1 ===
+[2025-11-14 16:50:26] [INFO] Inserted show ID 1380
+[2025-11-14 16:50:26] [INFO] Inserted video ID 1380
+[2025-11-14 16:50:26] [INFO] Inserted page ID 1790
+[2025-11-14 16:50:26] [INFO] SUCCESS — [2025-11-13] Referrer: https://www.pbs.org/video/robert-glaspers-black-radio-w9qtcr/
+
+[2025-11-14 16:50:26] [INFO] === ROW 2 ===
+[2025-11-14 16:50:26] [INFO] Inserted page ID 1791
+[2025-11-14 16:50:26] [INFO] SUCCESS — [2025-11-13] Referrer: https://www.pbs.org/
+
+[2025-11-14 16:50:26] [INFO] === ROW 3 ===
+[2025-11-14 16:50:27] [INFO] Inserted show ID 1381
+[2025-11-14 16:50:27] [INFO] Inserted video ID 1381
+[2025-11-14 16:50:27] [INFO] Inserted page ID 1792
+[2025-11-14 16:50:27] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/nine-parts-H00Ujv/
+
+[2025-11-14 16:50:27] [INFO] === ROW 4 ===
+[2025-11-14 16:50:27] [INFO] Inserted show ID 1277
+[2025-11-14 16:50:27] [INFO] Inserted video ID 1382
+[2025-11-14 16:50:27] [INFO] Inserted page ID 1793
+[2025-11-14 16:50:27] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/the-story-innovation-z1rlol/
+
+[2025-11-14 16:50:27] [INFO] === ROW 5 ===
+[2025-11-14 16:50:27] [INFO] Inserted page ID 1794
+[2025-11-14 16:50:27] [INFO] SUCCESS — [2025-11-13] Referrer: https://www.pbs.org/settings/
+
+[2025-11-14 16:50:27] [INFO] === ROW 6 ===
+[2025-11-14 16:50:27] [INFO] Inserted page ID 1795
+[2025-11-14 16:50:27] [INFO] SUCCESS — [2025-11-13] Referrer: https://www.pbs.org/passport/learn-more/
+
+[2025-11-14 16:50:27] [INFO] === ROW 7 ===
+[2025-11-14 16:50:28] [INFO] Inserted show ID 1383
+[2025-11-14 16:50:28] [INFO] Inserted video ID 1383
+[2025-11-14 16:50:28] [INFO] Inserted page ID 1796
+[2025-11-14 16:50:28] [INFO] SUCCESS — [2025-11-13] Referrer: http://video.klrn.org/video/east-lake-meadows-full-film/
+
+[2025-11-14 16:50:28] [INFO] === ROW 8 ===
+[2025-11-14 16:50:28] [INFO] Inserted page ID 1797
+[2025-11-14 16:50:28] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/show/austin-city-limits/specials/
+
+[2025-11-14 16:50:28] [INFO] === ROW 9 ===
+[2025-11-14 16:50:28] [INFO] Inserted page ID 1798
+[2025-11-14 16:50:28] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/show/beecham-house/specials/
+
+[2025-11-14 16:50:28] [INFO] === ROW 10 ===
+[2025-11-14 16:50:28] [INFO] Inserted page ID 1799
+[2025-11-14 16:50:28] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/show/before-we-die/
+
+[2025-11-14 16:50:28] [INFO] === ROW 11 ===
+[2025-11-14 16:50:28] [INFO] Inserted page ID 1800
+[2025-11-14 16:50:28] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/show/inside-met/collections/
+
+[2025-11-14 16:50:28] [INFO] === ROW 12 ===
+[2025-11-14 16:50:28] [INFO] Inserted page ID 1801
+[2025-11-14 16:50:28] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/show/muhammad-ali/specials/
+
+[2025-11-14 16:50:28] [INFO] === ROW 13 ===
+[2025-11-14 16:50:28] [INFO] Inserted page ID 1802
+[2025-11-14 16:50:28] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/show/rfds-royal-flying-doctor-service/collections/
+
+[2025-11-14 16:50:28] [INFO] === ROW 14 ===
+[2025-11-14 16:50:28] [INFO] Inserted page ID 1803
+[2025-11-14 16:50:28] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/show/steven-raichlens-project-fire/specials/
+
+[2025-11-14 16:50:28] [INFO] === ROW 15 ===
+[2025-11-14 16:50:28] [INFO] Inserted page ID 1804
+[2025-11-14 16:50:28] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/show/vietnam-war/episodes/season/1
+
+[2025-11-14 16:50:28] [INFO] === ROW 16 ===
+[2025-11-14 16:50:28] [INFO] Inserted show ID 1384
+[2025-11-14 16:50:28] [INFO] Inserted video ID 1384
+[2025-11-14 16:50:28] [INFO] Inserted page ID 1805
+[2025-11-14 16:50:28] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/2021-hyundai-elantra-n-line-2021-dodge-charger-srt-hellcat-w9pgzg/
+
+[2025-11-14 16:50:28] [INFO] === ROW 17 ===
+[2025-11-14 16:50:29] [ERROR] FAILED PBS API — [2025-11-13] Referrer: https://video.klrn.org/video/albina-vision-series-brgqa0/ — Not published
+[2025-11-14 16:50:29] [INFO] Inserted page ID 1806
+[2025-11-14 16:50:29] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/albina-vision-series-brgqa0/
+
+[2025-11-14 16:50:29] [INFO] === ROW 18 ===
+[2025-11-14 16:50:29] [INFO] Inserted show ID 163
+[2025-11-14 16:50:29] [INFO] Inserted video ID 1385
+[2025-11-14 16:50:29] [INFO] Inserted page ID 1807
+[2025-11-14 16:50:29] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/antiques-roadshow-appraisal-traveling-puppet-show-ca-1875/
+
+[2025-11-14 16:50:29] [INFO] === ROW 19 ===
+[2025-11-14 16:50:30] [INFO] Inserted show ID 19
+[2025-11-14 16:50:30] [INFO] Inserted video ID 1386
+[2025-11-14 16:50:30] [INFO] Inserted page ID 1808
+[2025-11-14 16:50:30] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/can-goats-predict-volcanic-eruptions-am18t0/
+
+[2025-11-14 16:50:30] [INFO] === ROW 20 ===
+[2025-11-14 16:50:30] [INFO] Inserted show ID 1280
+[2025-11-14 16:50:30] [INFO] Inserted video ID 1387
+[2025-11-14 16:50:30] [INFO] Inserted page ID 1809
+[2025-11-14 16:50:30] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/can-we-hear-shapes-kvtxli/
+
+[2025-11-14 16:50:30] [INFO] === ROW 21 ===
+[2025-11-14 16:50:31] [INFO] Inserted show ID 354
+[2025-11-14 16:50:31] [INFO] Inserted video ID 1388
+[2025-11-14 16:50:31] [INFO] Inserted page ID 1810
+[2025-11-14 16:50:31] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/colin-hanks-explores-john-candys-life-in-new-documentary-jrvzzu/
+
+[2025-11-14 16:50:31] [INFO] === ROW 22 ===
+[2025-11-14 16:50:31] [ERROR] FAILED PBS API — [2025-11-13] Referrer: https://video.klrn.org/video/episode-2-b4Ppfq/ — Not published
+[2025-11-14 16:50:31] [INFO] Inserted page ID 1811
+[2025-11-14 16:50:31] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/episode-2-b4Ppfq/
+
+[2025-11-14 16:50:31] [INFO] === ROW 23 ===
+[2025-11-14 16:50:32] [INFO] Inserted show ID 3
+[2025-11-14 16:50:32] [INFO] Inserted video ID 933
+[2025-11-14 16:50:32] [INFO] Inserted page ID 1812
+[2025-11-14 16:50:32] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/episode-4-oyjfer/
+
+[2025-11-14 16:50:32] [INFO] === ROW 24 ===
+[2025-11-14 16:50:32] [INFO] Inserted show ID 1390
+[2025-11-14 16:50:32] [INFO] Inserted video ID 1390
+[2025-11-14 16:50:32] [INFO] Inserted page ID 1813
+[2025-11-14 16:50:32] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/episode-5-oonvwo/
+
+[2025-11-14 16:50:32] [INFO] === ROW 25 ===
+[2025-11-14 16:50:33] [INFO] Inserted show ID 1255
+[2025-11-14 16:50:33] [INFO] Inserted video ID 1391
+[2025-11-14 16:50:33] [INFO] Inserted page ID 1814
+[2025-11-14 16:50:33] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/feb-11-2021-handling-a-growing-homeless-population-ozc9qv/
+
+[2025-11-14 16:50:33] [INFO] === ROW 26 ===
+[2025-11-14 16:50:33] [INFO] Inserted show ID 270
+[2025-11-14 16:50:33] [INFO] Inserted video ID 1392
+[2025-11-14 16:50:33] [INFO] Inserted page ID 1815
+[2025-11-14 16:50:33] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/getting-jazzed-broadways-best-sound-music-gdfq4v/
+
+[2025-11-14 16:50:33] [INFO] === ROW 27 ===
+[2025-11-14 16:50:34] [INFO] Inserted show ID 1393
+[2025-11-14 16:50:34] [INFO] Inserted video ID 1393
+[2025-11-14 16:50:34] [INFO] Inserted page ID 1816
+[2025-11-14 16:50:34] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/klrn-arts-july-24-2015-susan-budge-and-her-contributions-art/
+
+[2025-11-14 16:50:34] [INFO] === ROW 28 ===
+[2025-11-14 16:50:34] [ERROR] FAILED PBS API — [2025-11-13] Referrer: https://video.klrn.org/video/live-lincoln-center-4302-wfu0ji/ — Not published
+[2025-11-14 16:50:34] [INFO] Inserted page ID 1817
+[2025-11-14 16:50:34] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/live-lincoln-center-4302-wfu0ji/
+
+[2025-11-14 16:50:34] [INFO] === ROW 29 ===
+[2025-11-14 16:50:35] [INFO] Inserted show ID 163
+[2025-11-14 16:50:35] [INFO] Inserted video ID 1394
+[2025-11-14 16:50:35] [INFO] Inserted page ID 1818
+[2025-11-14 16:50:35] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/lsu-rural-life-museum-hour-3-cztoeh/
+
+[2025-11-14 16:50:35] [INFO] === ROW 30 ===
+[2025-11-14 16:50:35] [ERROR] FAILED PBS API — [2025-11-13] Referrer: https://video.klrn.org/video/march-23-2020-pbs-newshour-full-episode-1584946802/extras/ — Not published
+[2025-11-14 16:50:35] [INFO] Inserted page ID 1819
+[2025-11-14 16:50:35] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/march-23-2020-pbs-newshour-full-episode-1584946802/extras/
+
+[2025-11-14 16:50:35] [INFO] === ROW 31 ===
+[2025-11-14 16:50:36] [INFO] Inserted show ID 354
+[2025-11-14 16:50:36] [INFO] Inserted video ID 1395
+[2025-11-14 16:50:36] [INFO] Inserted page ID 1820
+[2025-11-14 16:50:36] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/october-21-2025-u4slng/
+
+[2025-11-14 16:50:36] [INFO] === ROW 32 ===
+[2025-11-14 16:50:36] [INFO] Inserted show ID 163
+[2025-11-14 16:50:36] [INFO] Inserted video ID 1396
+[2025-11-14 16:50:36] [INFO] Inserted page ID 1821
+[2025-11-14 16:50:36] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/out-of-this-world-lhfxqf/
+
+[2025-11-14 16:50:36] [INFO] === ROW 33 ===
+[2025-11-14 16:50:37] [INFO] Inserted show ID 1268
+[2025-11-14 16:50:37] [INFO] Inserted video ID 1397
+[2025-11-14 16:50:37] [INFO] Inserted page ID 1822
+[2025-11-14 16:50:37] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/pov-storycorps-shorts-family-man/
+
+[2025-11-14 16:50:37] [INFO] === ROW 34 ===
+[2025-11-14 16:50:37] [ERROR] FAILED PBS API — [2025-11-13] Referrer: https://video.klrn.org/video/race-matters-america-after-george-floyd-uciahy/extras/ — Not published
+[2025-11-14 16:50:37] [INFO] Inserted page ID 1823
+[2025-11-14 16:50:37] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/race-matters-america-after-george-floyd-uciahy/extras/
+
+[2025-11-14 16:50:37] [INFO] === ROW 35 ===
+[2025-11-14 16:50:37] [ERROR] FAILED PBS API — [2025-11-13] Referrer: https://video.klrn.org/video/sandra-day-oconnor-the-first-lrdgwj/extras/ — Not published
+[2025-11-14 16:50:37] [INFO] Inserted page ID 1824
+[2025-11-14 16:50:37] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/sandra-day-oconnor-the-first-lrdgwj/extras/
+
+[2025-11-14 16:50:37] [INFO] === ROW 36 ===
+[2025-11-14 16:50:37] [INFO] Inserted show ID 1268
+[2025-11-14 16:50:37] [INFO] Inserted video ID 1398
+[2025-11-14 16:50:37] [INFO] Inserted page ID 1825
+[2025-11-14 16:50:37] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/season-3-behind-the-scenes-34reok/
+
+[2025-11-14 16:50:37] [INFO] === ROW 37 ===
+[2025-11-14 16:50:38] [ERROR] FAILED PBS API — [2025-11-13] Referrer: https://video.klrn.org/video/september-4-2025-f5rs72/ — Not published
+[2025-11-14 16:50:38] [INFO] Inserted page ID 1826
+[2025-11-14 16:50:38] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/september-4-2025-f5rs72/
+
+[2025-11-14 16:50:38] [INFO] === ROW 38 ===
+[2025-11-14 16:50:38] [ERROR] FAILED PBS API — [2025-11-13] Referrer: https://video.klrn.org/video/september-4-2025-f5rs72/ — Not published
+[2025-11-14 16:50:38] [INFO] Inserted page ID 1827
+[2025-11-14 16:50:38] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/september-4-2025-f5rs72/
+
+[2025-11-14 16:50:38] [INFO] === ROW 39 ===
+[2025-11-14 16:50:38] [ERROR] FAILED PBS API — [2025-11-13] Referrer: https://video.klrn.org/video/the-20-year-anniversary-of-september-11-csxrpn/extras/ — Not published
+[2025-11-14 16:50:38] [INFO] Inserted page ID 1828
+[2025-11-14 16:50:38] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/the-20-year-anniversary-of-september-11-csxrpn/extras/
+
+[2025-11-14 16:50:38] [INFO] === ROW 40 ===
+[2025-11-14 16:50:39] [INFO] Inserted show ID 1399
+[2025-11-14 16:50:39] [INFO] Inserted video ID 1399
+[2025-11-14 16:50:39] [INFO] Inserted page ID 1829
+[2025-11-14 16:50:39] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/us-vs-them-2t0c0s/
+
+[2025-11-14 16:50:39] [INFO] === ROW 41 ===
+[2025-11-14 16:50:39] [INFO] Inserted page ID 1830
+[2025-11-14 16:50:39] [INFO] SUCCESS — [2025-11-13] Referrer: https://www.pbs.org/my-station/
+
+[2025-11-14 16:50:39] [INFO] === ROW 42 ===
+[2025-11-14 16:50:39] [INFO] Inserted page ID 1831
+[2025-11-14 16:50:39] [INFO] SUCCESS — [2025-11-13] Referrer: https://www.pbs.org/shows/
+
+[2025-11-14 16:50:39] [INFO] === ROW 43 ===
+[2025-11-14 16:50:39] [INFO] Inserted show ID 290
+[2025-11-14 16:50:39] [INFO] Inserted video ID 290
+[2025-11-14 16:50:39] [INFO] Inserted page ID 1832
+[2025-11-14 16:50:39] [INFO] SUCCESS — [2025-11-13] Referrer: https://www.pbs.org/video/episode-1-join-or-die-1706-1774-8ssna3/
+
+[2025-11-14 16:50:39] [INFO] === ROW 44 ===
+[2025-11-14 16:50:39] [INFO] Inserted page ID 1833
+[2025-11-14 16:50:39] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/passport/learn-more/
+
+[2025-11-14 16:50:39] [INFO] === ROW 45 ===
+[2025-11-14 16:50:39] [INFO] Inserted page ID 1833
+[2025-11-14 16:50:39] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/passport/learn-more/
+
+[2025-11-14 16:50:39] [INFO] === ROW 46 ===
+[2025-11-14 16:50:39] [INFO] Inserted page ID 1835
+[2025-11-14 16:50:39] [INFO] SUCCESS — [2025-11-13] Referrer: https://www.pbs.org/explore/passport/
+
+[2025-11-14 16:50:39] [INFO] === ROW 47 ===
+[2025-11-14 16:50:40] [INFO] Inserted show ID 240
+[2025-11-14 16:50:40] [INFO] Inserted video ID 1401
+[2025-11-14 16:50:40] [INFO] Inserted page ID 1836
+[2025-11-14 16:50:40] [INFO] SUCCESS — [2025-11-13] Referrer: https://www.pbs.org/video/language-is-life-lv0qaq/
+
+[2025-11-14 16:50:40] [INFO] === ROW 48 ===
+[2025-11-14 16:50:40] [INFO] Inserted show ID 1402
+[2025-11-14 16:50:40] [INFO] Inserted video ID 1402
+[2025-11-14 16:50:40] [INFO] Inserted page ID 1837
+[2025-11-14 16:50:40] [INFO] SUCCESS — [2025-11-13] Referrer: https://www.pbs.org/video/masterpiece-mr-selfridge-episode-1/
+
+[2025-11-14 16:50:40] [INFO] === ROW 49 ===
+[2025-11-14 16:50:41] [INFO] Inserted show ID 389
+[2025-11-14 16:50:41] [INFO] Inserted video ID 389
+[2025-11-14 16:50:41] [INFO] Inserted page ID 1838
+[2025-11-14 16:50:41] [INFO] SUCCESS — [2025-11-13] Referrer: https://www.pbs.org/video/part-1-our-game-c6e5nn/
+
+[2025-11-14 16:50:41] [INFO] === ROW 50 ===
+[2025-11-14 16:50:41] [ERROR] FAILED PBS API — [2025-11-13] Referrer: https://www.pbs.org/video/paul-joseph-chief-meteorologist-vhmfrd/ — Not published
+[2025-11-14 16:50:41] [INFO] Inserted page ID 1839
+[2025-11-14 16:50:41] [INFO] SUCCESS — [2025-11-13] Referrer: https://www.pbs.org/video/paul-joseph-chief-meteorologist-vhmfrd/
+
+[2025-11-14 16:50:41] [INFO] === ROW 51 ===
+[2025-11-14 16:50:42] [INFO] Inserted show ID 241
+[2025-11-14 16:50:42] [INFO] Inserted video ID 395
+[2025-11-14 16:50:42] [INFO] Inserted page ID 1840
+[2025-11-14 16:50:42] [INFO] SUCCESS — [2025-11-13] Referrer: https://www.pbs.org/video/the-civil-war-the-cause/
+
+[2025-11-14 16:50:42] [INFO] === ROW 52 ===
+[2025-11-14 16:50:42] [INFO] Inserted show ID 34
+[2025-11-14 16:50:42] [INFO] Inserted video ID 1405
+[2025-11-14 16:50:42] [INFO] Inserted page ID 1841
+[2025-11-14 16:50:42] [INFO] SUCCESS — [2025-11-13] Referrer: https://www.pbs.org/video/the-marias-iahpyc/
+
+[2025-11-14 16:50:42] [INFO] === ROW 53 ===
+[2025-11-14 16:50:42] [INFO] Inserted page ID 1842
+[2025-11-14 16:50:42] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/show/nature/collections/super-cats/
+
+[2025-11-14 16:50:42] [INFO] === ROW 54 ===
+[2025-11-14 16:50:42] [INFO] Inserted page ID 1843
+[2025-11-14 16:50:42] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/show/pbs-online-film-festival/collections/
+
+[2025-11-14 16:50:42] [INFO] === ROW 55 ===
+[2025-11-14 16:50:42] [INFO] Inserted page ID 1844
+[2025-11-14 16:50:42] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/show/the-mayo-clinic/episodes/
+
+[2025-11-14 16:50:42] [INFO] === ROW 56 ===
+[2025-11-14 16:50:43] [ERROR] FAILED PBS API — [2025-11-13] Referrer: https://video.klrn.org/video/adagio-symphony-no-2-6mghok/ — Not published
+[2025-11-14 16:50:43] [INFO] Inserted page ID 1845
+[2025-11-14 16:50:43] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/adagio-symphony-no-2-6mghok/
+
+[2025-11-14 16:50:43] [INFO] === ROW 57 ===
+[2025-11-14 16:50:43] [INFO] Inserted show ID 683
+[2025-11-14 16:50:43] [INFO] Inserted video ID 1406
+[2025-11-14 16:50:43] [INFO] Inserted page ID 1846
+[2025-11-14 16:50:43] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/america-reframed-kid-candidate-progress-is-my-platform/
+
+[2025-11-14 16:50:43] [INFO] === ROW 58 ===
+[2025-11-14 16:50:44] [INFO] Inserted show ID 2
+[2025-11-14 16:50:44] [INFO] Inserted video ID 1407
+[2025-11-14 16:50:44] [INFO] Inserted page ID 1847
+[2025-11-14 16:50:44] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/chapter-1-american-diplomat/
+
+[2025-11-14 16:50:44] [INFO] === ROW 59 ===
+[2025-11-14 16:50:44] [INFO] Inserted show ID 1384
+[2025-11-14 16:50:44] [INFO] Inserted video ID 1408
+[2025-11-14 16:50:44] [INFO] Inserted page ID 1848
+[2025-11-14 16:50:44] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/entry-level-ev-roundup-2021-bmw-x5-xdrive45e-dap4li/
+
+[2025-11-14 16:50:44] [INFO] === ROW 60 ===
+[2025-11-14 16:50:45] [INFO] Inserted show ID 1231
+[2025-11-14 16:50:45] [INFO] Inserted video ID 1409
+[2025-11-14 16:50:45] [INFO] Inserted page ID 1849
+[2025-11-14 16:50:45] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/new-film-explores-use-of-psychedelics-to-treat-combat-ptsd-1762121158/
+
+[2025-11-14 16:50:45] [INFO] === ROW 61 ===
+[2025-11-14 16:50:45] [INFO] Inserted show ID 19
+[2025-11-14 16:50:45] [INFO] Inserted video ID 1410
+[2025-11-14 16:50:45] [INFO] Inserted page ID 1850
+[2025-11-14 16:50:45] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/preview-alps-winters-fortress-smhxv8/
+
+[2025-11-14 16:50:45] [INFO] === ROW 62 ===
+[2025-11-14 16:50:45] [ERROR] FAILED PBS API — [2025-11-13] Referrer: https://video.klrn.org/video/sandra-day-oconnor-the-first-lrdgwj/extras/ — Not published
+[2025-11-14 16:50:45] [INFO] Inserted page ID 1851
+[2025-11-14 16:50:45] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/sandra-day-oconnor-the-first-lrdgwj/extras/
+
+[2025-11-14 16:50:45] [INFO] === ROW 63 ===
+[2025-11-14 16:50:46] [ERROR] FAILED PBS API — [2025-11-13] Referrer: https://video.klrn.org/video/south-dakota-documentaries-piece-heaven-brief-history-mickelson-trail/ — Not published
+[2025-11-14 16:50:46] [INFO] Inserted page ID 1852
+[2025-11-14 16:50:46] [INFO] SUCCESS — [2025-11-13] Referrer: https://video.klrn.org/video/south-dakota-documentaries-piece-heaven-brief-history-mickelson-trail/
+
+[2025-11-14 16:50:46] [INFO] === SUMMARY ===
+[2025-11-14 16:50:46] [INFO] Total rows: 64
+[2025-11-14 16:50:46] [INFO] Successful videos: 31
+[2025-11-14 16:50:46] [INFO] Successful rows: 64
+[2025-11-14 16:50:46] [INFO] Failed PBS calls: 13
+[2025-11-14 16:50:46] [INFO] Failed other calls: 0
+[2025-11-14 16:50:46] [INFO] Peak memory use: 8 MB
+
+[2025-11-14 16:50:46] [INFO] === FINISHED SYNC for 2025-11-14 16:50:25 ===

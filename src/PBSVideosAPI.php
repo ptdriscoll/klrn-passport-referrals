@@ -94,9 +94,7 @@ class PBSVideosAPI {
      */
     function prepData($data) {
         $apiError = NULL;
-        $videoResult = [];
-        $showResult = [];
-
+        
         if (array_key_first($data) === 'errors') {
             $response = $data['errors']['response'];
             if (array_key_exists('detail', $response)) $api_error = 'Not published';
@@ -117,24 +115,28 @@ class PBSVideosAPI {
             }
             else $type = NULL;
 
-            $videoResult['type'] = $type;
-            $videoResult['content_id'] = $data['data']['id'];
-            $videoResult['slug'] = $attributes['slug'];
-            $videoResult['title'] = $attributes['title'];
-            $videoResult['description_short'] = $attributes['description_short'];
-            $videoResult['description_long'] =$attributes['description_long'];
-            $videoResult['premiered_on'] = $attributes['premiered_on'];
-            $videoResult['duration'] = $attributes['duration'];
-            $videoResult['content_rating'] = $attributes['content_rating'];
-            $videoResult['legacy_tp_media_id'] = $attributes['legacy_tp_media_id'];
-            $videoResult['image'] = $attributes['images'][0]['image'];
-            $videoResult['shows_id'] = NULL;
+            $videoResult = [
+                'type'               => $type ?? '',
+                'content_id'         => $data['data']['id'] ?? '',
+                'slug'               => $attributes['slug'] ?? '',
+                'title'              => $attributes['title'] ?? '',
+                'description_short'  => $attributes['description_short'] ?? '',
+                'description_long'   => $attributes['description_long'] ?? '',
+                'premiered_on'       => $attributes['premiered_on'] ?? '',
+                'duration'           => $attributes['duration'] ?? 0,
+                'content_rating'     => $attributes['content_rating'] ?? '',
+                'legacy_tp_media_id' => $attributes['legacy_tp_media_id'] ?? 0,
+                'image'              => $attributes['images'][0]['image'] ?? '',
+                'shows_id'           => null,
+            ];
 
             if ($type) {
-                $showResult['content_id'] = $show['id'];
-                $showResult['slug'] = $show['attributes']['slug'];
-                $showResult['title'] = $show['attributes']['title'];
-                $showResult['genre'] = $this->getGenre($show['id']);
+                $showResult = [
+                    'content_id' => $show['id'] ?? '',
+                    'slug'       => $show['attributes']['slug'] ?? '',
+                    'title'      => $show['attributes']['title'] ?? '',
+                    'genre'      => $this->getGenre($show['id']) ?? '',
+                ];
             }
         }
         return [$apiError, $videoResult, $showResult];

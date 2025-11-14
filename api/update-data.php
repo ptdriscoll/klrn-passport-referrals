@@ -27,9 +27,10 @@ $logger->info("=== STARTING SYNC for {$updateDate} ===");
 
 //register shutdown function
 register_shutdown_function(function() use ($logger, &$logSummary) {
-    $logger->summary($logSummary);
     $lastError = error_get_last();
-    if ($lastError && $lastError['type'] === E_ERROR) {
+    $fatalTypes = [E_ERROR, E_PARSE, E_CORE_ERROR, E_COMPILE_ERROR, E_USER_ERROR];
+    if ($lastError && in_array($lastError['type'], $fatalTypes, true)) {
+        $logger->summary($logSummary); //log summary even on a fatal error
         $logger->newLine();
         $logger->error('FATAL ERROR — ' . $lastError['message']);
     }

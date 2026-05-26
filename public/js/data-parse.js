@@ -201,9 +201,10 @@ export function parseData(data) {
   //set total referrals
   const totalReferrals = data.shows.reduce(
     (acc, show) => acc + parseInt(show.Pageviews),
-    0
+    0,
   );
-  document.querySelector('#total-referrals').innerHTML = totalReferrals;
+  document.querySelector('#total-referrals').innerHTML =
+    totalReferrals.toLocaleString();
 
   //set bar charts
   setBarCharts(
@@ -211,7 +212,7 @@ export function parseData(data) {
     showsLabels,
     showsData,
     episodesLabels,
-    episodesData
+    episodesData,
   );
 
   //set trend charts
@@ -219,7 +220,7 @@ export function parseData(data) {
     trendsLabels,
     trendsShowsDatasets,
     trendsEpisodesDatasets,
-    trendsReferralsData
+    trendsReferralsData,
   );
 
   //set tables

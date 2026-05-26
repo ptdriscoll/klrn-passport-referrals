@@ -175,9 +175,9 @@ export function parseData(data) {
     cols[0].textContent = i + 1;
     cols[1].textContent = data.shows[i]['Show'];
     cols[2].textContent = genre;
-    cols[3].textContent = data.shows[i]['Pageviews'];
-    cols[4].textContent = data.shows[i]['Users'];
-    cols[5].textContent = data.shows[i]['Duration'];
+    cols[3].textContent = parseInt(data.shows[i]['Pageviews']).toLocaleString();
+    cols[4].textContent = parseInt(data.shows[i]['Users']).toLocaleString();
+    cols[5].textContent = parseInt(data.shows[i]['Duration']).toLocaleString();
     tableShowsRowFragment.append(row);
   }
 
@@ -192,9 +192,9 @@ export function parseData(data) {
     cols[0].textContent = i + 1;
     cols[1].textContent = data.episodes[i]['Show'];
     cols[2].textContent = data.episodes[i]['Episode'];
-    cols[3].textContent = data.episodes[i]['Pageviews'];
-    cols[4].textContent = data.episodes[i]['Users'];
-    cols[5].textContent = data.episodes[i]['Duration'];
+    cols[3].textContent = parseInt(data.episodes[i]['Pageviews']).toLocaleString();
+    cols[4].textContent = parseInt(data.episodes[i]['Users']).toLocaleString();
+    cols[5].textContent = parseInt(data.episodes[i]['Duration']).toLocaleString();
     tableEpisodesRowFragment.append(row);
   }
 
